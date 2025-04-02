@@ -38,7 +38,6 @@ Both team members will work collaboratively on interpretation, modeling, and fin
 
 
 
----
 
 ## Datasets
 
@@ -56,7 +55,6 @@ Both team members will work collaboratively on interpretation, modeling, and fin
 - **License:** Public Domain (U.S. Federal Government)
 
 
----
 
 ## Data Acquisition and Integrity
 
@@ -66,7 +64,6 @@ Both team members will work collaboratively on interpretation, modeling, and fin
 - **Datasets will not be pushed to the GitHub repo.** Instead, documentation and code will support programmatic fetching.
 
 
----
 
 ## Data Integration and Cleaning
 
@@ -76,7 +73,6 @@ Both team members will work collaboratively on interpretation, modeling, and fin
 - Manual transformations will also be described in the project’s Markdown documentation.
 
 
----
 
 ## Analysis and Visualization
 
@@ -86,7 +82,6 @@ Both team members will work collaboratively on interpretation, modeling, and fin
 - Findings will be presented in the final README report and visual outputs saved to Box for download.
 
 
----
 
 ## Reproducibility and Automation
 
@@ -97,8 +92,6 @@ Both team members will work collaboratively on interpretation, modeling, and fin
 
 
 
----
-
 ## Metadata and Citation
 
 - We will generate:
@@ -108,7 +101,6 @@ Both team members will work collaboratively on interpretation, modeling, and fin
 
 
 
----
 
 ## GitHub Repository
 
@@ -120,7 +112,6 @@ Both team members will work collaboratively on interpretation, modeling, and fin
 
 
 
----
 
 ## Timeline
 
