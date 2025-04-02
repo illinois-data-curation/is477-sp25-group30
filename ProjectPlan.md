@@ -8,7 +8,7 @@ We plan to use two different datasets: one from a Kaggle-hosted stroke dataset (
 
 All documentation will be written in structured Markdown files and maintained in a GitHub repository following best practices. The project will also be archived using Zenodo to obtain a persistent identifier (DOI), ensuring that our results and artifacts can be accessed and cited in the future.
 
----
+
 
 ## Research Questions
 
