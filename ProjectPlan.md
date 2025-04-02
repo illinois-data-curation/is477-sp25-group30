@@ -18,7 +18,6 @@ All documentation will be written in structured Markdown files and maintained in
 
 These questions drive our choice of datasets and analytical methods.
 
----
 
 ## Team Members and Roles
 
