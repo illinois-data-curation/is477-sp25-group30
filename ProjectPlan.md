@@ -2,11 +2,15 @@
 
 ## Overview
 
-Stroke is a major public health issue, representing one of the leading causes of long-term disability and death worldwide. Our project aims to identify key behavioral and clinical factors that contribute to stroke risk by integrating multiple data sources and building a transparent, reproducible data pipeline. Through this project, we will demonstrate how stroke-related data can be collected, curated, cleaned, analyzed, and visualized using modern data science tools and workflows.
+Stroke is a serious and growing public health problem around the world. It happens when blood flow to the brain is blocked or reduced, and it can cause lasting brain damage, disability, or even death. Because stroke can affect people of all ages and backgrounds, it's really important to understand what puts someone at higher risk—especially when many strokes could be prevented by changing habits or getting early treatment.
 
-We plan to use two different datasets: one from a Kaggle-hosted stroke dataset (CSV format) and another from the CDC's Behavioral Risk Factor Surveillance System (JSON via API). This dual-source strategy ensures that we meet the format and access method diversity requirements. Our project will include all components of data curation: acquisition with integrity checks, integration, profiling, quality assessment, cleaning, analysis, reproducibility, and archiving.
+Our project is focused on finding out which health conditions and everyday behaviors (like smoking, exercise, and eating habits) are linked to stroke. We want to use real data to figure out what warning signs to look for, and who might be most at risk. To do this, we’re building a data pipeline that shows how we gather, clean, combine, and analyze data in a way that others can easily follow and repeat.
 
-All documentation will be written in structured Markdown files and maintained in a GitHub repository following best practices. The project will also be archived using Zenodo to obtain a persistent identifier (DOI), ensuring that our results and artifacts can be accessed and cited in the future.
+We’ll use two main datasets to make our analysis stronger: one from Kaggle with patient health data in CSV format, and another from the CDC’s Behavioral Risk Factor Surveillance System (BRFSS), which we’ll access through a REST API in JSON format. These two sources give us a mix of clinical and behavioral information, and using different formats helps meet the class requirements.
+
+In our project, we’ll go through every step of data curation. This includes collecting data with code, checking that the data is complete and trustworthy, combining data from different sources, cleaning and preparing it for analysis, doing visual and statistical analysis, and finally, saving and documenting our work. Everything we do will be shared in a private GitHub repository and written up in Markdown so it’s clear and organized.
+
+At the end of the project, we’ll archive everything using Zenodo, which will give our project a DOI (a unique link) so that it can be shared, cited, and reused in the future. By doing all this, we hope our work will not only give useful insights into stroke risk but also serve as a good example of how to do data science projects in a reproducible and responsible way.
 
 
 
@@ -56,12 +60,10 @@ Both team members will work collaboratively on interpretation, modeling, and fin
 
 
 ## Data Acquisition and Integrity
-
-- Data will be acquired programmatically using Python's `requests` module (for the API) and `pandas` for CSV loading.
-- Each dataset will be downloaded using a script (e.g., `get_data.py`) with built-in SHA-256 checksum validation.
-- Checksums will be documented in `checksums.txt`.
-- **Datasets will not be pushed to the GitHub repo.** Instead, documentation and code will support programmatic fetching.
-
+-  We’ll collect the data using scripts written in Python. The Kaggle dataset will be read using pandas, and the CDC data will be downloaded from their API using requests.
+- To make sure the files are correct and haven’t been changed, we’ll use SHA-256 checksums. These will be saved in a file called checksums.txt and checked when the data is loaded.
+- The actual datasets will not be uploaded to GitHub. Instead, we’ll include scripts and instructions that show how to download them.
+- All data collection will be handled by a script called get_data.py, and we’ll explain everything in the README.
 
 
 ## Data Integration and Cleaning
