@@ -41,10 +41,6 @@ We’ve begun creating metadata following the DataCite JSON format. A draft file
 
 Final citations will be included in our `README.md` using either APA or DataCite format. This includes dataset sources, libraries used, and tools like Snakemake and OpenRefine.
 
-### Archiving and Final Packaging  
-No artifacts have been archived yet, but we’ve created a Zenodo account and are preparing for final archiving. We will upload our cleaned datasets, scripts, results, and metadata. Once uploaded, Zenodo will generate a DOI that we can include in our final report and GitHub README.  
-The Zenodo archiving and tagging of the final GitHub release is scheduled for April 29–May 1.
-
 ---
 
 ## 2. Updated Timeline and Task Status
