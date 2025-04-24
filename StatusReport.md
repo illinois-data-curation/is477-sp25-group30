@@ -5,28 +5,28 @@
 
 ## 1. Task Updates and Repository Artifacts
 
-### ✅ Project Planning and Repository Setup  
+### Project Planning and Repository Setup  
 At the beginning of the project, we completed the `ProjectPlan.md` and submitted it on time. The plan outlines our objectives, datasets, tools, workflow structure, and project timeline. We created a private GitHub repository under the `illinois-data-curation` organization titled `is477-sp25-Group-30`. The repository follows a clear and organized folder structure, including `src/` for scripts, `data/` for raw data (or links to it), `docs/` for documentation, and `results/` for outputs and visualizations.  
 We also tagged the repository with `project-plan` to track progress and allow for easier navigation between project stages.
 
-### ✅ Data Acquisition  
+### Data Acquisition  
 The data acquisition stage has been completed successfully. We used a Python script called `get_data.py`, located in the `src/` directory, to automate the retrieval of two datasets. The Kaggle stroke dataset is read using `pandas`, and the CDC dataset is accessed via a REST API using the `requests` library. Both datasets are handled in formats required by the course—CSV and JSON respectively.  
 
 To ensure data integrity, we generated SHA-256 checksums for the downloaded files. These are stored in `data/checksums.txt`. The data files themselves are not uploaded to GitHub to follow ethical and reproducibility guidelines, but we provided instructions and scripts so users can re-download the data themselves. The process is explained in our `README.md`, along with notes on how to run the script.
 
-### ✅ Data Integration and Cleaning  
+### Data Integration and Cleaning  
 Data integration was led by Olivia. We wrote `integrate_data.py` in `src/`, which handles schema matching between the two datasets. Variables such as `age`, `gender`, `bmi`, and `smoking_status` were aligned. This step involved converting column names, adjusting data types, and reconciling missing value formats.
 
 We also used OpenRefine for more detailed cleaning tasks like handling null values, normalizing categorical fields, and fixing inconsistencies in the datasets. We exported a cleaning recipe in JSON format (`docs/openrefine_recipe.json`) so that others can repeat our steps. Any manual adjustments not possible through code or OpenRefine were documented in `docs/cleaning_notes.md`. We also created a snapshot of the integrated dataset and stored it locally for analysis.
 
-### 🔄 Snakemake Workflow and Automation (In Progress)  
+### Snakemake Workflow and Automation (In Progress)  
 We started implementing our reproducible workflow using Snakemake. A `Snakefile` has been created in the repository root. Currently, it automates data downloading, integration, and cleaning. We plan to expand it to include exploratory analysis and visualization steps.  
 
 To make the pipeline easy to run, we’re developing a shell wrapper script called `run_all.sh` that will allow users to reproduce our full workflow with one command. A `requirements.txt` file listing all dependencies has been created to support reproducibility.
 
 However, this automation phase took slightly longer than expected due to challenges with getting rule dependencies to run smoothly. Olivia is debugging the pipeline to ensure all intermediate files are produced correctly.
 
-### 🔄 Exploratory Data Analysis (EDA) and Visualizations  
+### Exploratory Data Analysis (EDA) and Visualizations  
 Initial EDA has been started by Cindy. Using libraries like Matplotlib and Seaborn, we’ve begun generating visualizations such as:
 - Stroke rate across age groups
 - Gender differences in stroke risk
@@ -36,12 +36,12 @@ These visualizations are saved in the `results/eda/` folder and help us identify
 
 Cindy is currently working on scripts for basic logistic regression models. These will allow us to determine which variables are the strongest predictors of stroke risk. We may add decision trees if time allows.
 
-### 🔄 Metadata and Citation (In Progress)  
+### Metadata and Citation (In Progress)  
 We’ve begun creating metadata following the DataCite JSON format. A draft file (`docs/metadata.json`) includes project description, keywords, contributors, and links. We are also working on a structured data dictionary (`docs/data_dictionary.md`) that lists and explains each field in our combined dataset, including its type, units, and possible values.
 
 Final citations will be included in our `README.md` using either APA or DataCite format. This includes dataset sources, libraries used, and tools like Snakemake and OpenRefine.
 
-### ⏳ Archiving and Final Packaging  
+### Archiving and Final Packaging  
 No artifacts have been archived yet, but we’ve created a Zenodo account and are preparing for final archiving. We will upload our cleaned datasets, scripts, results, and metadata. Once uploaded, Zenodo will generate a DOI that we can include in our final report and GitHub README.  
 The Zenodo archiving and tagging of the final GitHub release is scheduled for April 29–May 1.
 
