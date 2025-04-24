@@ -1,0 +1,4910 @@
+age,gender,bmi,smoking_status
+67.0,male,36.6,formerly smoked
+80.0,male,32.5,never smoked
+49.0,female,34.4,smokes
+79.0,female,24.0,never smoked
+81.0,male,29.0,formerly smoked
+74.0,male,27.4,never smoked
+69.0,female,22.8,never smoked
+78.0,female,24.2,unknown
+81.0,female,29.7,never smoked
+61.0,female,36.8,smokes
+54.0,female,27.3,smokes
+79.0,female,28.2,never smoked
+50.0,female,30.9,never smoked
+64.0,male,37.5,smokes
+75.0,male,25.8,smokes
+60.0,female,37.8,never smoked
+71.0,female,22.4,smokes
+52.0,female,48.9,never smoked
+79.0,female,26.6,never smoked
+82.0,male,32.5,unknown
+71.0,male,27.2,formerly smoked
+80.0,male,23.5,never smoked
+65.0,female,28.2,formerly smoked
+69.0,male,28.3,smokes
+57.0,male,44.2,smokes
+42.0,male,25.4,unknown
+82.0,female,22.2,never smoked
+80.0,male,30.5,formerly smoked
+48.0,male,29.7,never smoked
+82.0,female,26.5,formerly smoked
+74.0,male,33.7,formerly smoked
+72.0,female,23.1,formerly smoked
+58.0,male,32.0,unknown
+49.0,female,29.9,never smoked
+78.0,male,23.9,formerly smoked
+54.0,male,28.5,never smoked
+82.0,male,26.4,smokes
+60.0,male,20.2,smokes
+76.0,male,33.6,never smoked
+58.0,female,38.6,formerly smoked
+81.0,male,33.7,never smoked
+39.0,female,39.2,smokes
+79.0,female,27.7,never smoked
+77.0,female,31.4,never smoked
+63.0,male,36.5,formerly smoked
+82.0,female,33.2,never smoked
+73.0,male,32.8,never smoked
+54.0,female,27.7,never smoked
+56.0,female,40.4,formerly smoked
+80.0,female,22.2,never smoked
+67.0,female,25.3,smokes
+45.0,female,30.2,formerly smoked
+78.0,male,24.0,never smoked
+70.0,female,47.5,never smoked
+76.0,male,20.3,unknown
+59.0,male,30.0,formerly smoked
+80.0,female,28.9,never smoked
+67.0,female,28.1,formerly smoked
+66.0,female,31.1,formerly smoked
+63.0,male,27.4,never smoked
+52.0,female,26.4,never smoked
+80.0,female,21.7,formerly smoked
+80.0,male,27.0,never smoked
+79.0,female,24.1,formerly smoked
+43.0,male,45.9,unknown
+59.0,male,44.1,unknown
+79.0,female,22.9,never smoked
+68.0,female,29.7,never smoked
+54.0,male,29.1,smokes
+61.0,male,27.3,smokes
+70.0,female,32.3,formerly smoked
+47.0,male,41.1,formerly smoked
+74.0,male,25.6,unknown
+79.0,female,29.8,never smoked
+81.0,male,26.3,never smoked
+57.0,female,37.5,never smoked
+80.0,female,26.2,unknown
+45.0,male,29.4,never smoked
+78.0,female,32.3,never smoked
+70.0,female,24.4,formerly smoked
+58.0,male,31.4,smokes
+57.0,male,27.7,formerly smoked
+69.0,female,28.0,never smoked
+64.0,male,28.8,unknown
+77.0,female,31.4,never smoked
+74.0,female,34.6,formerly smoked
+81.0,female,19.4,unknown
+57.0,female,28.5,unknown
+50.0,female,30.3,formerly smoked
+54.0,female,40.4,smokes
+79.0,female,24.2,never smoked
+53.0,female,41.5,never smoked
+79.0,male,22.6,formerly smoked
+80.0,male,24.2,smokes
+45.0,female,56.6,never smoked
+68.0,female,27.1,unknown
+71.0,male,30.9,never smoked
+61.0,male,27.3,smokes
+74.0,male,31.3,smokes
+38.0,female,24.0,formerly smoked
+77.0,female,31.0,never smoked
+58.0,female,28.0,formerly smoked
+53.0,female,30.3,unknown
+80.0,male,31.7,smokes
+56.0,male,35.8,never smoked
+72.0,female,28.4,never smoked
+80.0,female,24.0,unknown
+82.0,male,29.0,formerly smoked
+73.0,female,36.5,never smoked
+78.0,female,20.1,never smoked
+69.0,male,36.5,never smoked
+68.0,female,26.7,never smoked
+71.0,female,38.7,never smoked
+76.0,male,29.9,formerly smoked
+76.0,female,34.9,unknown
+76.0,male,27.0,formerly smoked
+75.0,female,26.6,unknown
+82.0,male,25.0,never smoked
+59.0,female,23.8,smokes
+74.0,female,21.8,never smoked
+69.0,female,36.8,never smoked
+72.0,female,30.0,never smoked
+66.0,male,27.5,formerly smoked
+78.0,female,24.6,never smoked
+57.0,female,32.9,never smoked
+70.0,female,26.1,never smoked
+68.0,male,31.9,formerly smoked
+80.0,female,34.1,never smoked
+68.0,male,27.5,smokes
+55.0,female,25.6,never smoked
+77.0,female,36.9,never smoked
+50.0,female,31.4,smokes
+57.0,female,37.3,smokes
+71.0,female,34.1,formerly smoked
+81.0,female,25.0,never smoked
+78.0,female,45.7,never smoked
+70.0,female,34.2,formerly smoked
+78.0,male,23.6,formerly smoked
+56.0,female,27.3,unknown
+79.0,female,22.3,formerly smoked
+81.0,male,31.4,never smoked
+60.0,female,26.4,smokes
+80.0,female,32.9,formerly smoked
+72.0,male,37.1,never smoked
+80.0,female,45.0,never smoked
+78.0,male,25.5,formerly smoked
+81.0,male,26.1,unknown
+46.0,female,30.8,never smoked
+59.0,male,32.0,formerly smoked
+32.0,female,29.9,smokes
+61.0,male,37.4,smokes
+63.0,male,31.7,formerly smoked
+63.0,male,34.5,formerly smoked
+82.0,female,27.9,formerly smoked
+82.0,male,29.5,formerly smoked
+65.0,female,46.0,formerly smoked
+51.0,male,42.5,formerly smoked
+59.0,male,35.5,smokes
+68.0,male,31.1,smokes
+72.0,female,26.9,smokes
+59.0,male,35.8,formerly smoked
+70.0,male,45.5,formerly smoked
+69.0,male,28.5,unknown
+74.0,female,26.6,never smoked
+80.0,male,31.5,formerly smoked
+77.0,female,32.0,never smoked
+78.0,female,30.8,never smoked
+54.0,male,31.1,smokes
+78.0,female,33.0,formerly smoked
+81.0,female,23.4,never smoked
+78.0,male,26.9,never smoked
+78.0,male,33.6,unknown
+63.0,female,23.9,unknown
+39.0,female,26.3,never smoked
+51.0,female,27.3,formerly smoked
+63.0,male,30.7,never smoked
+48.0,female,20.5,never smoked
+81.0,female,21.5,never smoked
+79.0,female,31.0,smokes
+78.0,male,27.1,never smoked
+55.0,female,40.0,smokes
+73.0,male,28.6,never smoked
+81.0,male,28.1,smokes
+79.0,male,28.4,never smoked
+63.0,female,42.2,formerly smoked
+81.0,female,25.8,smokes
+49.0,male,31.9,smokes
+57.0,female,31.0,unknown
+81.0,female,27.5,never smoked
+39.0,female,29.6,smokes
+80.0,female,35.4,never smoked
+81.0,female,16.9,never smoked
+79.0,female,21.5,smokes
+73.0,female,34.4,never smoked
+77.0,female,28.0,formerly smoked
+78.0,male,26.8,unknown
+68.0,female,39.3,unknown
+57.0,male,31.7,unknown
+77.0,male,32.6,formerly smoked
+51.0,female,28.4,never smoked
+60.0,male,35.9,smokes
+66.0,male,21.2,formerly smoked
+57.0,male,34.5,formerly smoked
+68.0,male,42.4,never smoked
+68.0,female,40.5,formerly smoked
+57.0,male,36.7,unknown
+14.0,female,30.9,unknown
+75.0,female,29.3,formerly smoked
+78.0,female,19.6,unknown
+3.0,male,18.0,unknown
+58.0,male,39.2,never smoked
+8.0,female,17.6,unknown
+70.0,female,35.9,formerly smoked
+14.0,male,19.1,unknown
+47.0,female,50.1,unknown
+52.0,female,17.7,formerly smoked
+75.0,female,27.0,never smoked
+32.0,female,32.3,smokes
+74.0,female,54.6,never smoked
+79.0,female,35.0,unknown
+79.0,male,22.0,formerly smoked
+37.0,female,39.4,never smoked
+37.0,female,26.1,formerly smoked
+40.0,female,42.4,never smoked
+35.0,male,33.0,never smoked
+20.0,female,19.7,smokes
+42.0,female,22.5,never smoked
+44.0,female,24.6,smokes
+79.0,female,25.2,smokes
+65.0,female,41.8,unknown
+57.0,female,60.9,smokes
+49.0,female,31.5,smokes
+71.0,male,27.3,formerly smoked
+59.0,female,23.7,never smoked
+25.0,female,24.5,never smoked
+67.0,female,28.4,smokes
+38.0,female,26.9,never smoked
+54.0,female,26.7,never smoked
+70.0,female,31.2,never smoked
+27.0,male,25.0,unknown
+47.0,female,25.4,unknown
+58.0,male,27.5,smokes
+3.0,female,16.0,unknown
+58.0,female,27.0,unknown
+14.0,male,31.6,unknown
+32.0,female,25.1,formerly smoked
+23.0,female,30.9,never smoked
+55.0,female,24.8,unknown
+17.0,female,23.4,unknown
+59.0,male,29.4,smokes
+13.0,male,18.3,unknown
+4.0,male,20.0,unknown
+16.0,female,19.5,unknown
+67.0,male,36.0,formerly smoked
+22.0,female,27.7,unknown
+45.0,female,27.5,smokes
+66.0,female,28.5,never smoked
+58.0,male,26.8,smokes
+69.0,male,33.6,never smoked
+58.0,female,29.1,unknown
+53.0,female,28.5,unknown
+78.0,female,34.9,formerly smoked
+44.0,male,25.1,never smoked
+66.0,male,35.3,smokes
+27.0,male,26.4,smokes
+43.0,male,31.5,smokes
+13.0,female,40.1,unknown
+51.0,male,43.1,unknown
+30.0,female,36.7,smokes
+46.0,male,29.3,formerly smoked
+43.0,female,21.2,unknown
+79.0,female,31.2,unknown
+27.0,female,21.4,unknown
+38.0,female,27.9,smokes
+78.0,female,34.3,never smoked
+57.0,male,31.0,formerly smoked
+61.0,male,27.7,formerly smoked
+37.0,female,36.0,never smoked
+48.0,female,38.7,formerly smoked
+29.0,female,27.6,never smoked
+22.0,male,25.1,unknown
+11.0,male,16.5,unknown
+22.0,female,22.8,unknown
+53.0,male,35.4,unknown
+27.0,male,24.3,formerly smoked
+76.0,male,34.3,formerly smoked
+57.0,female,40.1,never smoked
+8.0,male,25.7,unknown
+21.0,female,21.9,smokes
+18.0,female,38.4,smokes
+78.0,female,26.1,never smoked
+78.0,female,30.5,formerly smoked
+33.0,male,25.9,smokes
+52.0,female,54.7,formerly smoked
+51.0,female,29.9,unknown
+11.0,male,18.6,unknown
+48.0,female,27.1,unknown
+82.0,female,24.9,never smoked
+54.0,female,25.2,never smoked
+49.0,female,19.4,never smoked
+24.0,female,29.0,never smoked
+37.0,female,48.2,formerly smoked
+64.0,male,34.6,formerly smoked
+66.0,female,24.6,never smoked
+23.0,female,25.8,never smoked
+68.0,male,26.1,never smoked
+55.0,female,29.0,formerly smoked
+25.0,female,27.2,never smoked
+48.0,female,20.7,smokes
+79.0,female,30.0,formerly smoked
+47.0,female,37.3,never smoked
+20.0,female,34.1,never smoked
+60.0,female,23.6,never smoked
+32.0,female,25.2,smokes
+66.0,female,39.5,never smoked
+43.0,male,23.5,smokes
+36.0,female,23.3,never smoked
+52.0,male,64.8,never smoked
+29.0,female,28.1,smokes
+39.0,female,24.4,never smoked
+76.0,male,29.8,formerly smoked
+0.64,female,24.9,unknown
+34.0,male,35.1,unknown
+72.0,female,32.3,formerly smoked
+43.0,female,43.6,never smoked
+57.0,female,21.0,never smoked
+44.0,female,47.3,never smoked
+4.0,female,16.6,unknown
+44.0,male,37.5,never smoked
+18.0,female,24.2,never smoked
+41.0,male,31.6,never smoked
+23.0,female,21.6,formerly smoked
+53.0,female,31.0,smokes
+56.0,male,31.1,never smoked
+0.88,female,15.5,unknown
+25.0,male,27.3,unknown
+14.0,female,20.5,unknown
+53.0,female,35.6,formerly smoked
+4.0,male,16.7,unknown
+39.0,female,41.8,never smoked
+53.0,male,41.9,never smoked
+5.0,male,16.4,unknown
+4.0,male,17.1,unknown
+37.0,female,29.2,never smoked
+70.0,male,27.1,never smoked
+24.0,male,37.9,never smoked
+55.0,male,44.6,formerly smoked
+70.0,female,22.8,formerly smoked
+34.0,male,33.2,never smoked
+26.0,male,22.3,smokes
+39.0,female,26.4,never smoked
+38.0,male,39.6,never smoked
+20.0,female,28.1,never smoked
+17.0,female,39.2,never smoked
+60.0,male,36.0,never smoked
+75.0,female,37.8,never smoked
+31.0,female,40.3,smokes
+58.0,male,41.5,formerly smoked
+5.0,female,17.7,unknown
+13.0,female,21.2,never smoked
+22.0,female,41.6,unknown
+52.0,female,23.8,smokes
+61.0,female,23.7,unknown
+78.0,female,24.8,never smoked
+57.0,male,39.0,unknown
+21.0,female,37.9,never smoked
+22.0,female,31.1,never smoked
+80.0,female,23.2,unknown
+7.0,male,18.9,unknown
+64.0,male,36.1,never smoked
+64.0,female,36.3,smokes
+38.0,female,40.5,unknown
+12.0,male,25.4,never smoked
+33.0,female,46.5,smokes
+3.0,female,16.8,unknown
+37.0,female,46.6,never smoked
+22.0,female,26.4,never smoked
+24.0,female,26.2,never smoked
+75.0,male,35.2,unknown
+12.0,female,20.9,unknown
+63.0,male,36.8,unknown
+52.0,female,34.4,formerly smoked
+68.0,female,22.2,never smoked
+5.0,female,13.8,unknown
+56.0,female,40.3,never smoked
+43.0,female,28.4,smokes
+40.0,female,31.7,smokes
+53.0,male,34.2,formerly smoked
+52.0,female,54.7,never smoked
+31.0,male,24.6,formerly smoked
+69.0,female,36.9,never smoked
+64.0,male,31.1,never smoked
+64.0,female,31.9,never smoked
+62.0,female,31.8,formerly smoked
+2.0,female,18.0,unknown
+53.0,male,28.5,formerly smoked
+65.0,male,29.5,never smoked
+22.0,female,22.0,never smoked
+26.0,female,29.4,never smoked
+53.0,male,28.8,unknown
+20.0,male,26.2,unknown
+63.0,female,26.9,unknown
+13.0,male,23.2,unknown
+21.0,male,27.9,unknown
+65.0,female,36.8,never smoked
+65.0,male,28.9,unknown
+42.0,male,31.0,never smoked
+72.0,male,29.4,smokes
+13.0,male,15.3,never smoked
+29.0,male,37.1,never smoked
+59.0,male,30.5,unknown
+42.0,female,38.2,never smoked
+13.0,male,23.2,never smoked
+75.0,male,30.2,formerly smoked
+33.0,female,45.2,smokes
+43.0,female,21.8,unknown
+11.0,female,24.4,unknown
+7.0,female,17.0,unknown
+16.0,female,19.5,unknown
+44.0,female,49.8,formerly smoked
+78.0,female,27.8,never smoked
+25.0,male,25.1,never smoked
+69.0,male,26.8,smokes
+61.0,female,60.2,smokes
+43.0,female,27.5,never smoked
+38.0,female,28.1,never smoked
+68.0,male,27.3,unknown
+26.0,male,27.4,never smoked
+18.0,female,22.2,never smoked
+43.0,female,22.9,smokes
+43.0,female,26.6,never smoked
+32.0,female,23.0,smokes
+81.0,female,32.6,never smoked
+25.0,male,22.1,unknown
+66.0,female,22.5,formerly smoked
+11.0,male,25.5,unknown
+53.0,female,31.4,unknown
+78.0,female,26.0,unknown
+9.0,male,20.0,unknown
+48.0,female,31.6,smokes
+31.0,female,31.2,never smoked
+20.0,male,21.7,never smoked
+21.0,male,24.2,unknown
+42.0,female,25.0,formerly smoked
+35.0,male,36.7,unknown
+53.0,male,28.9,unknown
+60.0,male,29.7,formerly smoked
+74.0,male,44.3,unknown
+23.0,female,51.0,never smoked
+55.0,female,39.7,formerly smoked
+71.0,female,34.7,never smoked
+5.0,male,35.0,unknown
+14.0,female,21.3,never smoked
+15.0,female,29.1,unknown
+66.0,female,23.9,smokes
+56.0,female,36.0,formerly smoked
+60.0,female,41.2,formerly smoked
+57.0,female,27.1,never smoked
+29.0,male,33.2,unknown
+76.0,female,25.4,smokes
+52.0,male,30.7,smokes
+42.0,female,34.8,formerly smoked
+71.0,female,19.2,unknown
+64.0,male,31.7,unknown
+39.0,female,35.7,never smoked
+46.0,female,37.8,formerly smoked
+51.0,female,29.7,smokes
+31.0,male,35.8,smokes
+22.0,male,23.6,smokes
+41.0,male,39.7,smokes
+28.0,female,40.5,smokes
+44.0,female,21.4,never smoked
+68.0,female,40.8,formerly smoked
+49.0,male,24.7,unknown
+10.0,male,21.0,unknown
+31.0,female,45.0,never smoked
+67.0,male,26.2,never smoked
+70.0,male,28.3,never smoked
+38.0,female,41.6,never smoked
+5.0,female,19.0,unknown
+54.0,female,32.4,never smoked
+30.0,female,34.0,never smoked
+23.0,female,39.4,formerly smoked
+31.0,female,28.7,unknown
+72.0,male,31.8,formerly smoked
+23.0,male,31.2,never smoked
+25.0,female,20.9,unknown
+51.0,male,32.1,never smoked
+20.0,female,31.0,unknown
+12.0,female,23.1,unknown
+57.0,male,26.7,never smoked
+65.0,male,27.9,unknown
+16.0,female,27.3,never smoked
+43.0,female,51.5,unknown
+30.0,female,20.4,never smoked
+29.0,male,29.6,formerly smoked
+54.0,female,30.6,formerly smoked
+57.0,female,33.6,unknown
+42.0,male,71.9,never smoked
+18.0,male,24.2,unknown
+9.0,male,17.7,unknown
+26.0,female,22.6,smokes
+40.0,male,28.1,never smoked
+77.0,male,26.5,never smoked
+15.0,female,28.7,unknown
+76.0,female,39.5,formerly smoked
+52.0,male,35.1,unknown
+55.0,female,27.9,never smoked
+5.0,male,19.3,unknown
+55.0,female,28.4,never smoked
+36.0,male,26.7,never smoked
+46.0,male,40.9,unknown
+5.0,male,17.2,unknown
+39.0,female,28.3,never smoked
+12.0,male,16.1,unknown
+67.0,male,27.6,never smoked
+1.8,female,16.5,unknown
+72.0,female,35.8,never smoked
+0.32,female,16.2,unknown
+64.0,female,24.6,never smoked
+27.0,male,32.0,unknown
+25.0,male,35.3,formerly smoked
+81.0,female,19.2,unknown
+32.0,female,40.4,never smoked
+57.0,male,30.7,never smoked
+52.0,female,24.3,formerly smoked
+54.0,male,26.4,formerly smoked
+36.0,female,34.7,smokes
+18.0,male,31.7,unknown
+45.0,male,35.6,never smoked
+29.0,male,22.8,smokes
+51.0,female,28.0,smokes
+23.0,female,35.6,formerly smoked
+54.0,female,40.6,never smoked
+54.0,female,29.3,formerly smoked
+18.0,male,21.0,unknown
+26.0,female,20.0,unknown
+72.0,male,26.7,formerly smoked
+5.0,male,18.4,unknown
+65.0,female,34.5,formerly smoked
+42.0,female,27.7,unknown
+47.0,female,21.1,never smoked
+24.0,female,24.4,formerly smoked
+57.0,male,19.4,smokes
+51.0,male,42.3,unknown
+48.0,male,32.2,smokes
+56.0,female,26.8,never smoked
+30.0,female,25.4,never smoked
+63.0,female,23.5,smokes
+46.0,female,50.2,smokes
+53.0,female,26.1,formerly smoked
+1.08,female,17.5,unknown
+15.0,male,24.2,never smoked
+59.0,female,30.8,never smoked
+24.0,female,23.4,never smoked
+53.0,male,30.9,never smoked
+39.0,female,23.6,never smoked
+23.0,male,18.7,never smoked
+31.0,male,27.7,smokes
+5.0,male,16.7,unknown
+44.0,male,31.2,never smoked
+1.8,female,17.0,unknown
+40.0,male,29.8,smokes
+7.0,male,19.7,unknown
+56.0,female,29.1,unknown
+42.0,male,27.2,never smoked
+48.0,male,22.3,unknown
+82.0,male,27.0,smokes
+52.0,female,42.1,never smoked
+42.0,female,34.2,unknown
+73.0,female,40.9,never smoked
+55.0,female,29.4,smokes
+50.0,male,32.8,formerly smoked
+43.0,male,21.9,smokes
+33.0,male,39.6,never smoked
+80.0,female,28.3,never smoked
+33.0,female,47.8,never smoked
+74.0,female,39.3,unknown
+65.0,male,28.0,smokes
+40.0,female,27.1,never smoked
+52.0,male,31.2,smokes
+66.0,female,23.1,never smoked
+20.0,female,20.8,never smoked
+51.0,female,34.1,smokes
+60.0,female,30.1,never smoked
+59.0,male,35.8,never smoked
+58.0,male,34.6,never smoked
+42.0,female,29.8,unknown
+28.0,male,26.7,unknown
+57.0,male,30.2,never smoked
+66.0,female,29.7,formerly smoked
+56.0,female,54.6,never smoked
+48.0,male,23.3,formerly smoked
+37.0,male,35.6,unknown
+27.0,female,27.0,never smoked
+15.0,male,21.6,never smoked
+61.0,male,29.4,formerly smoked
+80.0,female,22.8,never smoked
+43.0,female,17.3,never smoked
+53.0,male,29.8,unknown
+70.0,female,36.4,formerly smoked
+58.0,female,34.7,formerly smoked
+49.0,female,28.7,smokes
+65.0,male,26.7,never smoked
+54.0,female,22.1,never smoked
+74.0,male,27.7,formerly smoked
+56.0,female,40.5,formerly smoked
+79.0,female,23.0,formerly smoked
+71.0,male,25.3,formerly smoked
+28.0,female,22.1,never smoked
+9.0,female,28.0,unknown
+4.0,female,12.0,unknown
+36.0,female,28.4,never smoked
+78.0,male,29.6,smokes
+52.0,male,36.2,unknown
+80.0,female,22.8,never smoked
+28.0,male,55.7,unknown
+38.0,female,24.3,never smoked
+56.0,male,26.9,never smoked
+75.0,female,25.3,never smoked
+76.0,male,35.3,never smoked
+10.0,male,18.3,unknown
+40.0,male,26.0,unknown
+82.0,male,21.0,never smoked
+17.0,female,55.7,never smoked
+58.0,female,27.6,never smoked
+12.0,male,20.5,never smoked
+53.0,female,30.2,never smoked
+26.0,female,21.9,formerly smoked
+48.0,female,28.8,smokes
+25.0,male,36.2,unknown
+27.0,female,25.9,never smoked
+16.0,female,21.4,never smoked
+20.0,male,20.4,never smoked
+2.0,female,31.6,unknown
+1.8,female,14.4,unknown
+28.0,male,23.7,unknown
+32.0,male,30.2,formerly smoked
+35.0,female,19.5,formerly smoked
+52.0,female,32.6,never smoked
+55.0,female,34.2,never smoked
+42.0,female,43.0,never smoked
+52.0,female,42.2,unknown
+18.0,female,19.7,never smoked
+13.0,female,41.7,never smoked
+45.0,female,21.6,formerly smoked
+29.0,female,24.2,never smoked
+12.0,female,19.2,unknown
+37.0,female,25.8,unknown
+30.0,female,23.2,smokes
+44.0,female,20.8,never smoked
+79.0,female,28.4,never smoked
+38.0,male,30.2,never smoked
+45.0,female,23.1,never smoked
+66.0,female,16.7,smokes
+19.0,female,39.5,unknown
+49.0,female,33.8,smokes
+66.0,female,34.6,smokes
+47.0,male,25.0,formerly smoked
+59.0,female,43.9,formerly smoked
+23.0,female,27.1,formerly smoked
+79.0,female,25.9,unknown
+37.0,female,22.7,formerly smoked
+78.0,male,27.1,never smoked
+70.0,female,25.6,formerly smoked
+34.0,female,28.4,unknown
+28.0,female,57.5,never smoked
+29.0,male,35.8,smokes
+13.0,female,19.5,unknown
+22.0,female,31.2,never smoked
+56.0,male,43.6,formerly smoked
+81.0,female,31.2,formerly smoked
+28.0,female,23.5,unknown
+9.0,male,18.7,unknown
+50.0,male,24.4,smokes
+70.0,male,29.4,smokes
+30.0,female,37.0,smokes
+51.0,female,29.4,smokes
+24.0,male,38.5,never smoked
+17.0,male,23.5,never smoked
+9.0,male,16.3,unknown
+50.0,male,35.9,never smoked
+49.0,female,35.9,formerly smoked
+6.0,male,20.3,unknown
+30.0,male,32.3,smokes
+73.0,male,27.9,never smoked
+20.0,female,22.3,never smoked
+42.0,male,31.8,smokes
+79.0,female,29.7,unknown
+55.0,female,27.1,smokes
+27.0,female,24.5,never smoked
+71.0,male,28.9,never smoked
+23.0,male,24.6,smokes
+71.0,female,31.6,never smoked
+56.0,female,32.3,never smoked
+31.0,male,41.1,smokes
+64.0,female,30.0,never smoked
+46.0,male,26.4,never smoked
+55.0,male,30.0,never smoked
+2.0,male,20.8,unknown
+58.0,female,44.0,formerly smoked
+78.0,female,30.6,unknown
+1.16,female,17.2,unknown
+35.0,female,29.1,unknown
+64.0,female,27.4,unknown
+18.0,female,23.5,unknown
+19.0,male,31.8,never smoked
+47.0,male,23.5,never smoked
+54.0,female,28.5,formerly smoked
+39.0,female,32.7,unknown
+37.0,female,54.2,never smoked
+17.0,female,25.6,smokes
+20.0,female,41.2,never smoked
+31.0,female,27.0,smokes
+56.0,female,21.3,never smoked
+31.0,female,34.3,never smoked
+82.0,male,29.5,unknown
+33.0,male,31.6,smokes
+42.0,male,26.1,smokes
+20.0,male,27.5,never smoked
+22.0,male,26.5,never smoked
+61.0,male,33.2,unknown
+31.0,female,40.2,never smoked
+31.0,female,32.5,formerly smoked
+17.0,male,23.4,unknown
+30.0,female,32.5,never smoked
+69.0,male,23.9,formerly smoked
+63.0,female,29.5,never smoked
+19.0,male,24.0,never smoked
+7.0,male,17.7,unknown
+51.0,female,26.2,formerly smoked
+38.0,female,33.3,never smoked
+2.0,male,17.4,unknown
+58.0,female,29.0,never smoked
+69.0,female,21.7,unknown
+64.0,female,37.8,formerly smoked
+31.0,female,41.8,never smoked
+59.0,female,24.2,never smoked
+54.0,female,31.1,never smoked
+24.0,female,23.1,never smoked
+19.0,male,25.1,unknown
+17.0,male,41.3,never smoked
+29.0,female,22.7,never smoked
+42.0,female,24.0,smokes
+31.0,female,20.5,formerly smoked
+29.0,female,20.4,never smoked
+23.0,female,27.6,never smoked
+25.0,female,27.0,smokes
+14.0,female,26.4,unknown
+66.0,female,34.9,smokes
+77.0,female,35.0,never smoked
+79.0,male,28.5,formerly smoked
+52.0,female,32.3,formerly smoked
+41.0,female,23.9,unknown
+31.0,female,52.3,unknown
+39.0,male,26.4,never smoked
+51.0,female,20.9,never smoked
+40.0,female,23.3,unknown
+48.0,female,32.7,never smoked
+55.0,male,26.5,never smoked
+41.0,male,27.9,unknown
+39.0,female,30.3,never smoked
+41.0,male,27.6,never smoked
+5.0,female,14.6,unknown
+38.0,male,40.9,smokes
+40.0,male,28.4,never smoked
+12.0,male,23.7,unknown
+20.0,male,27.9,formerly smoked
+53.0,male,25.2,never smoked
+21.0,female,34.4,unknown
+70.0,female,36.7,formerly smoked
+61.0,male,22.2,formerly smoked
+70.0,male,27.2,never smoked
+38.0,female,27.3,never smoked
+59.0,male,27.3,smokes
+36.0,female,42.2,never smoked
+31.0,female,26.4,never smoked
+65.0,female,39.4,unknown
+61.0,male,34.8,never smoked
+2.0,male,20.0,unknown
+52.0,male,34.1,never smoked
+33.0,female,31.4,unknown
+5.0,male,17.8,unknown
+32.0,female,46.1,smokes
+54.0,female,28.1,formerly smoked
+51.0,female,24.7,formerly smoked
+39.0,female,22.7,never smoked
+40.0,female,34.6,never smoked
+19.0,female,21.4,never smoked
+9.0,female,27.4,unknown
+53.0,male,36.6,never smoked
+23.0,female,32.9,formerly smoked
+19.0,female,24.7,never smoked
+1.0,male,21.4,unknown
+48.0,female,33.1,never smoked
+71.0,male,26.7,never smoked
+44.0,male,24.4,never smoked
+53.0,female,25.8,unknown
+70.0,female,34.3,formerly smoked
+1.4,female,18.1,unknown
+49.0,male,43.8,smokes
+17.0,female,26.9,never smoked
+40.0,female,36.6,never smoked
+46.0,female,24.9,never smoked
+32.0,female,27.6,smokes
+2.0,male,20.9,unknown
+40.0,female,30.3,never smoked
+19.0,female,37.4,smokes
+43.0,male,35.9,smokes
+46.0,female,50.3,smokes
+71.0,male,31.5,never smoked
+31.0,female,24.4,smokes
+41.0,male,38.9,formerly smoked
+65.0,male,28.6,never smoked
+20.0,female,27.5,never smoked
+51.0,female,43.7,unknown
+37.0,female,27.0,never smoked
+49.0,male,29.3,formerly smoked
+62.0,female,34.7,never smoked
+28.0,female,39.9,never smoked
+80.0,male,26.7,never smoked
+45.0,male,24.8,formerly smoked
+37.0,female,29.7,never smoked
+3.0,female,15.9,unknown
+26.0,male,31.4,never smoked
+58.0,male,27.8,never smoked
+59.0,female,35.5,formerly smoked
+74.0,male,31.7,smokes
+17.0,male,33.2,never smoked
+62.0,female,27.7,formerly smoked
+37.0,male,31.9,formerly smoked
+19.0,female,25.8,never smoked
+59.0,female,27.7,never smoked
+59.0,female,23.4,never smoked
+62.0,male,24.3,formerly smoked
+80.0,male,30.3,smokes
+54.0,female,29.1,never smoked
+27.0,female,20.1,never smoked
+4.0,female,21.2,unknown
+81.0,male,31.6,formerly smoked
+41.0,female,41.6,unknown
+27.0,male,36.4,smokes
+51.0,female,30.5,never smoked
+59.0,female,32.8,unknown
+51.0,female,32.3,never smoked
+71.0,male,30.1,never smoked
+48.0,male,34.7,smokes
+49.0,female,29.7,unknown
+25.0,female,31.3,formerly smoked
+31.0,female,35.6,never smoked
+68.0,female,35.2,formerly smoked
+39.0,male,27.6,never smoked
+32.0,female,35.2,smokes
+39.0,female,28.1,unknown
+63.0,female,31.8,unknown
+69.0,female,23.3,smokes
+29.0,female,28.8,formerly smoked
+1.72,female,19.5,unknown
+58.0,female,30.0,smokes
+32.0,female,25.5,formerly smoked
+63.0,male,28.8,formerly smoked
+57.0,male,40.2,formerly smoked
+77.0,female,32.9,unknown
+8.0,male,22.4,unknown
+21.0,female,36.9,smokes
+16.0,female,19.8,unknown
+8.0,female,12.3,unknown
+71.0,male,32.4,smokes
+74.0,female,24.8,never smoked
+7.0,female,16.4,unknown
+19.0,male,35.9,unknown
+64.0,male,23.0,unknown
+23.0,female,78.0,smokes
+75.0,male,30.5,formerly smoked
+80.0,male,26.8,never smoked
+40.0,male,35.3,never smoked
+24.0,female,27.9,never smoked
+74.0,female,22.1,never smoked
+52.0,female,38.3,never smoked
+54.0,male,41.0,never smoked
+19.0,male,22.8,unknown
+23.0,female,30.1,never smoked
+13.0,male,20.8,unknown
+51.0,female,31.7,never smoked
+60.0,male,30.1,never smoked
+79.0,male,30.8,never smoked
+75.0,female,42.6,never smoked
+69.0,female,37.1,unknown
+57.0,female,34.2,never smoked
+47.0,female,43.4,never smoked
+33.0,female,18.7,smokes
+51.0,female,34.0,smokes
+47.0,female,23.2,never smoked
+15.0,male,41.7,unknown
+1.0,male,15.1,unknown
+20.0,female,20.6,smokes
+6.0,male,18.9,unknown
+50.0,male,26.6,never smoked
+31.0,male,30.1,smokes
+15.0,female,32.1,never smoked
+3.0,female,15.1,unknown
+30.0,male,33.5,smokes
+17.0,male,23.4,never smoked
+24.0,male,43.2,never smoked
+5.0,female,19.1,unknown
+33.0,male,26.1,unknown
+30.0,female,17.3,never smoked
+66.0,male,32.1,never smoked
+27.0,female,30.4,never smoked
+21.0,male,29.9,never smoked
+55.0,female,32.8,smokes
+19.0,female,22.7,never smoked
+75.0,male,28.7,formerly smoked
+71.0,female,35.2,never smoked
+16.0,female,22.4,never smoked
+49.0,female,32.3,unknown
+10.0,female,18.6,unknown
+37.0,female,42.1,smokes
+59.0,male,38.0,formerly smoked
+7.0,female,22.3,unknown
+61.0,female,33.4,never smoked
+34.0,male,23.2,smokes
+9.0,female,18.0,unknown
+46.0,female,20.1,never smoked
+0.88,male,19.2,unknown
+50.0,male,28.7,smokes
+19.0,male,28.1,never smoked
+21.0,female,22.6,never smoked
+2.0,female,18.0,unknown
+37.0,female,21.4,formerly smoked
+20.0,male,27.8,unknown
+50.0,male,27.6,unknown
+61.0,male,32.2,formerly smoked
+48.0,male,24.9,unknown
+82.0,male,27.1,formerly smoked
+64.0,male,24.6,unknown
+50.0,female,24.6,never smoked
+1.4,male,18.9,unknown
+0.24,male,16.3,unknown
+55.0,male,31.8,never smoked
+29.0,female,21.0,unknown
+4.0,male,20.1,unknown
+70.0,male,29.1,never smoked
+35.0,male,32.3,never smoked
+80.0,female,29.4,never smoked
+54.0,female,50.2,never smoked
+39.0,male,44.9,formerly smoked
+26.0,female,28.5,smokes
+6.0,female,19.5,unknown
+41.0,female,45.0,unknown
+42.0,female,22.8,unknown
+9.0,male,25.5,unknown
+55.0,male,31.5,never smoked
+71.0,male,31.6,formerly smoked
+14.0,female,31.0,unknown
+77.0,female,29.5,unknown
+50.0,female,23.1,unknown
+49.0,male,30.7,smokes
+51.0,female,44.7,formerly smoked
+79.0,male,33.5,never smoked
+63.0,female,25.9,unknown
+66.0,female,28.3,never smoked
+20.0,female,26.8,unknown
+37.0,female,27.8,never smoked
+22.0,male,36.0,never smoked
+60.0,female,22.1,never smoked
+39.0,male,38.4,never smoked
+53.0,female,30.1,unknown
+55.0,female,26.2,formerly smoked
+63.0,female,26.6,smokes
+57.0,female,32.6,never smoked
+82.0,male,27.0,never smoked
+56.0,male,25.3,smokes
+41.0,male,31.9,never smoked
+8.0,female,18.4,unknown
+34.0,male,30.4,smokes
+75.0,male,28.2,smokes
+57.0,male,35.7,formerly smoked
+72.0,female,35.0,never smoked
+21.0,male,27.2,never smoked
+51.0,female,23.0,never smoked
+15.0,female,25.0,unknown
+24.0,female,24.5,unknown
+30.0,female,30.9,smokes
+82.0,female,26.0,never smoked
+62.0,female,27.2,formerly smoked
+79.0,female,30.4,never smoked
+19.0,female,21.7,unknown
+45.0,male,29.1,unknown
+5.0,female,17.6,unknown
+57.0,male,29.2,formerly smoked
+31.0,female,28.1,never smoked
+61.0,male,26.6,smokes
+27.0,male,26.9,never smoked
+61.0,female,36.2,formerly smoked
+53.0,female,25.9,never smoked
+76.0,female,40.9,formerly smoked
+57.0,male,31.5,never smoked
+9.0,male,23.3,unknown
+34.0,female,37.6,never smoked
+51.0,male,39.8,never smoked
+61.0,male,35.1,formerly smoked
+19.0,female,21.9,never smoked
+50.0,female,53.4,formerly smoked
+80.0,female,34.4,unknown
+13.0,female,24.0,smokes
+55.0,male,29.3,unknown
+67.0,male,26.0,formerly smoked
+30.0,female,31.3,never smoked
+67.0,male,31.0,never smoked
+82.0,female,26.5,unknown
+5.0,male,16.0,unknown
+81.0,female,21.1,never smoked
+48.0,female,42.2,unknown
+66.0,female,27.7,never smoked
+38.0,female,23.6,never smoked
+8.0,male,18.3,unknown
+47.0,male,44.3,never smoked
+27.0,male,27.3,never smoked
+53.0,female,55.2,formerly smoked
+27.0,male,44.7,never smoked
+36.0,female,33.1,smokes
+50.0,female,30.0,never smoked
+32.0,female,40.1,unknown
+58.0,female,23.1,never smoked
+73.0,female,30.3,formerly smoked
+62.0,female,30.5,never smoked
+50.0,female,22.8,never smoked
+51.0,female,42.0,unknown
+19.0,female,29.9,never smoked
+30.0,female,24.0,formerly smoked
+45.0,female,36.7,unknown
+30.0,male,22.2,never smoked
+28.0,female,25.5,unknown
+70.0,male,34.3,formerly smoked
+0.32,female,16.0,unknown
+23.0,female,25.6,smokes
+18.0,male,23.3,never smoked
+41.0,male,41.6,unknown
+52.0,male,35.6,formerly smoked
+77.0,female,22.0,unknown
+34.0,male,26.8,unknown
+67.0,female,31.9,never smoked
+1.64,male,19.7,unknown
+59.0,female,31.1,unknown
+62.0,male,34.4,unknown
+47.0,male,33.2,never smoked
+22.0,female,21.6,never smoked
+33.0,male,25.4,unknown
+27.0,female,41.6,never smoked
+44.0,female,33.1,formerly smoked
+18.0,female,21.8,never smoked
+47.0,male,30.0,unknown
+66.0,female,35.2,smokes
+42.0,female,35.6,never smoked
+56.0,female,27.8,smokes
+69.0,female,29.3,formerly smoked
+65.0,female,37.2,smokes
+53.0,male,26.1,unknown
+36.0,female,21.6,never smoked
+69.0,female,22.7,never smoked
+19.0,male,30.2,formerly smoked
+3.0,male,18.0,unknown
+15.0,male,27.8,unknown
+59.0,female,23.5,never smoked
+61.0,female,41.2,unknown
+28.0,female,22.7,never smoked
+52.0,male,29.2,formerly smoked
+33.0,female,42.2,never smoked
+80.0,male,24.0,formerly smoked
+47.0,female,45.5,never smoked
+2.0,male,19.4,unknown
+48.0,female,28.2,smokes
+1.56,male,20.1,unknown
+26.0,female,27.2,unknown
+62.0,male,26.5,unknown
+1.72,male,17.6,unknown
+38.0,female,42.8,formerly smoked
+28.0,female,29.3,never smoked
+67.0,female,21.3,never smoked
+57.0,male,29.8,unknown
+40.0,female,24.1,smokes
+10.0,male,35.2,unknown
+55.0,female,18.8,never smoked
+7.0,female,17.4,unknown
+56.0,male,31.5,unknown
+37.0,male,29.9,never smoked
+69.0,male,27.3,formerly smoked
+45.0,female,28.1,never smoked
+28.0,female,28.9,never smoked
+52.0,female,25.2,smokes
+46.0,male,24.3,never smoked
+45.0,male,37.9,never smoked
+21.0,female,28.2,never smoked
+4.0,male,18.4,unknown
+45.0,female,23.1,smokes
+71.0,female,39.4,formerly smoked
+46.0,female,29.5,never smoked
+3.0,female,18.3,unknown
+79.0,female,28.7,smokes
+71.0,female,32.9,formerly smoked
+74.0,male,26.7,unknown
+52.0,female,20.1,never smoked
+49.0,female,17.6,formerly smoked
+32.0,female,43.7,never smoked
+62.0,male,41.1,unknown
+78.0,female,26.8,unknown
+48.0,female,31.2,never smoked
+18.0,male,27.4,never smoked
+80.0,female,25.1,smokes
+34.0,female,33.0,never smoked
+40.0,female,30.7,smokes
+59.0,female,42.9,never smoked
+11.0,female,14.3,unknown
+35.0,female,33.2,never smoked
+29.0,female,43.0,formerly smoked
+23.0,male,22.3,never smoked
+59.0,female,32.8,formerly smoked
+44.0,female,30.5,smokes
+62.0,female,36.0,formerly smoked
+32.0,female,26.5,formerly smoked
+2.0,female,20.1,unknown
+79.0,female,28.1,never smoked
+2.0,female,16.2,unknown
+43.0,male,30.0,never smoked
+43.0,male,31.3,never smoked
+62.0,male,26.7,never smoked
+73.0,male,37.7,unknown
+31.0,female,35.8,never smoked
+42.0,male,27.0,never smoked
+20.0,female,20.7,never smoked
+55.0,female,22.2,smokes
+23.0,female,41.5,never smoked
+33.0,female,33.5,never smoked
+14.0,female,21.8,unknown
+79.0,female,22.1,formerly smoked
+64.0,male,30.2,smokes
+76.0,female,38.7,unknown
+46.0,male,32.1,smokes
+80.0,male,41.3,formerly smoked
+21.0,male,20.1,formerly smoked
+33.0,female,22.1,never smoked
+32.0,female,24.9,smokes
+0.72,female,23.0,unknown
+49.0,female,29.3,formerly smoked
+41.0,female,22.8,never smoked
+37.0,male,31.6,unknown
+58.0,female,19.4,unknown
+79.0,female,22.5,never smoked
+23.0,female,31.6,never smoked
+78.0,female,29.1,unknown
+41.0,female,43.4,smokes
+68.0,male,26.5,formerly smoked
+30.0,female,29.7,unknown
+1.88,male,21.8,unknown
+32.0,female,23.4,formerly smoked
+20.0,female,23.0,never smoked
+20.0,male,21.5,never smoked
+10.0,male,14.6,unknown
+8.0,male,28.5,unknown
+65.0,male,29.0,smokes
+65.0,female,26.9,unknown
+46.0,male,29.6,formerly smoked
+53.0,male,28.5,never smoked
+79.0,female,25.5,never smoked
+43.0,male,30.5,formerly smoked
+56.0,female,23.0,never smoked
+3.0,male,22.8,unknown
+32.0,male,31.4,never smoked
+41.0,female,35.2,smokes
+53.0,male,23.3,never smoked
+67.0,male,31.2,formerly smoked
+33.0,female,24.8,never smoked
+21.0,female,25.8,unknown
+26.0,female,48.4,smokes
+69.0,female,43.1,formerly smoked
+15.0,male,27.8,never smoked
+3.0,female,21.4,unknown
+1.24,female,22.1,unknown
+80.0,female,31.8,never smoked
+2.0,male,20.1,unknown
+50.0,male,29.1,smokes
+30.0,female,22.6,unknown
+15.0,male,25.1,unknown
+71.0,female,33.3,never smoked
+4.0,male,15.9,unknown
+2.0,male,20.8,unknown
+11.0,male,19.5,unknown
+45.0,female,39.0,never smoked
+22.0,male,23.1,never smoked
+63.0,male,18.8,never smoked
+50.0,female,50.6,unknown
+25.0,female,36.3,unknown
+49.0,male,32.8,never smoked
+39.0,male,35.8,smokes
+43.0,female,26.7,smokes
+67.0,male,26.3,formerly smoked
+48.0,male,26.5,smokes
+38.0,female,43.7,never smoked
+14.0,female,24.7,unknown
+63.0,male,46.2,never smoked
+37.0,male,49.5,formerly smoked
+20.0,male,43.3,never smoked
+60.0,female,30.9,formerly smoked
+13.0,female,38.7,unknown
+34.0,male,28.6,never smoked
+22.0,male,30.2,unknown
+46.0,female,30.5,never smoked
+53.0,male,33.9,unknown
+28.0,female,28.6,never smoked
+62.0,female,24.5,never smoked
+11.0,female,17.2,unknown
+66.0,male,27.2,never smoked
+80.0,female,19.3,formerly smoked
+8.0,male,18.5,unknown
+53.0,male,32.0,unknown
+63.0,male,44.5,formerly smoked
+31.0,male,37.0,never smoked
+43.0,male,30.8,formerly smoked
+79.0,male,24.7,unknown
+8.0,male,18.3,unknown
+38.0,male,44.0,unknown
+80.0,female,27.6,never smoked
+49.0,female,45.4,smokes
+50.0,female,28.5,never smoked
+13.0,male,17.6,unknown
+73.0,male,27.5,never smoked
+60.0,male,32.8,never smoked
+44.0,male,29.5,never smoked
+79.0,female,36.4,never smoked
+5.0,female,26.1,unknown
+51.0,female,35.3,unknown
+5.0,male,18.1,unknown
+65.0,female,27.1,never smoked
+81.0,female,23.0,unknown
+46.0,female,55.0,unknown
+44.0,male,26.6,never smoked
+25.0,female,24.1,never smoked
+49.0,male,30.3,formerly smoked
+80.0,male,32.2,formerly smoked
+22.0,female,26.5,never smoked
+61.0,female,30.6,never smoked
+3.0,female,25.8,unknown
+50.0,male,41.9,smokes
+45.0,male,29.2,never smoked
+55.0,male,44.3,never smoked
+21.0,female,29.1,never smoked
+0.8,male,17.5,unknown
+50.0,male,31.9,never smoked
+73.0,male,32.2,never smoked
+58.0,female,26.0,smokes
+30.0,male,25.4,formerly smoked
+55.0,female,54.8,never smoked
+57.0,male,27.9,never smoked
+77.0,female,32.8,never smoked
+29.0,female,34.0,formerly smoked
+46.0,female,25.5,unknown
+40.0,female,35.6,unknown
+29.0,male,28.3,never smoked
+37.0,female,36.9,never smoked
+35.0,female,22.1,formerly smoked
+54.0,male,31.5,never smoked
+56.0,female,26.7,formerly smoked
+26.0,female,24.9,formerly smoked
+75.0,female,32.4,never smoked
+44.0,female,32.2,never smoked
+63.0,male,30.3,unknown
+17.0,female,28.7,never smoked
+46.0,male,24.1,never smoked
+47.0,female,25.3,never smoked
+50.0,female,24.8,never smoked
+76.0,male,34.8,formerly smoked
+47.0,male,39.2,smokes
+47.0,female,24.7,smokes
+49.0,male,28.6,never smoked
+71.0,male,27.7,never smoked
+65.0,female,33.1,never smoked
+40.0,female,27.3,smokes
+82.0,female,20.3,formerly smoked
+64.0,female,33.9,never smoked
+50.0,female,28.3,never smoked
+40.0,female,32.4,smokes
+74.0,female,19.7,unknown
+30.0,female,33.7,never smoked
+68.0,male,35.5,never smoked
+6.0,male,20.0,unknown
+4.0,male,16.3,unknown
+60.0,female,36.4,unknown
+59.0,female,28.1,unknown
+72.0,female,26.9,formerly smoked
+62.0,female,29.4,formerly smoked
+13.0,female,17.2,never smoked
+72.0,male,26.5,unknown
+1.08,male,19.5,unknown
+35.0,male,30.6,formerly smoked
+54.0,male,31.9,never smoked
+40.0,male,26.6,never smoked
+3.0,female,19.9,unknown
+2.0,male,18.0,unknown
+41.0,male,26.7,unknown
+61.0,female,25.3,formerly smoked
+58.0,male,31.4,unknown
+17.0,male,21.1,never smoked
+64.0,female,17.9,never smoked
+32.0,female,27.5,smokes
+42.0,female,37.6,smokes
+39.0,male,24.1,never smoked
+10.0,female,18.1,unknown
+78.0,female,31.0,never smoked
+68.0,female,26.6,smokes
+24.0,female,38.7,never smoked
+59.0,male,27.2,formerly smoked
+45.0,female,27.8,formerly smoked
+12.0,male,28.3,unknown
+37.0,female,27.5,never smoked
+43.0,female,43.3,smokes
+12.0,male,20.1,formerly smoked
+13.0,male,25.9,unknown
+74.0,male,25.8,unknown
+2.0,female,16.4,unknown
+59.0,female,29.4,never smoked
+21.0,female,28.9,smokes
+55.0,female,26.7,never smoked
+14.0,female,27.8,never smoked
+53.0,female,38.7,formerly smoked
+75.0,male,26.8,never smoked
+37.0,male,36.1,never smoked
+49.0,female,26.7,smokes
+55.0,male,27.0,unknown
+57.0,male,21.2,unknown
+45.0,female,21.0,never smoked
+46.0,male,37.4,unknown
+12.0,female,26.5,unknown
+12.0,male,28.9,unknown
+77.0,female,29.5,smokes
+6.0,male,17.7,unknown
+76.0,male,34.9,formerly smoked
+52.0,female,28.1,never smoked
+62.0,male,36.8,smokes
+82.0,male,33.3,never smoked
+69.0,male,29.2,unknown
+78.0,male,34.0,unknown
+37.0,male,33.9,smokes
+50.0,female,28.7,never smoked
+41.0,female,21.1,never smoked
+54.0,male,38.2,smokes
+43.0,male,27.7,smokes
+37.0,female,35.8,unknown
+9.0,male,27.1,unknown
+11.0,female,20.5,never smoked
+56.0,male,35.6,never smoked
+5.0,female,15.6,unknown
+17.0,female,43.0,unknown
+6.0,female,17.8,unknown
+57.0,female,25.8,never smoked
+18.0,male,20.5,unknown
+2.0,male,19.9,unknown
+76.0,female,24.4,never smoked
+1.0,male,18.3,unknown
+54.0,male,35.1,formerly smoked
+45.0,female,35.1,formerly smoked
+54.0,female,37.1,formerly smoked
+67.0,male,29.4,formerly smoked
+53.0,male,31.7,never smoked
+47.0,male,31.4,never smoked
+44.0,male,33.1,never smoked
+65.0,male,28.5,smokes
+40.0,female,24.0,formerly smoked
+3.0,female,18.0,unknown
+81.0,male,27.6,smokes
+24.0,female,16.9,never smoked
+9.0,male,16.4,unknown
+52.0,female,35.1,never smoked
+63.0,female,28.8,never smoked
+78.0,female,17.6,never smoked
+22.0,female,21.3,never smoked
+2.0,female,19.7,unknown
+79.0,female,37.3,never smoked
+49.0,female,35.5,never smoked
+74.0,female,25.5,never smoked
+62.0,male,30.0,smokes
+16.0,male,21.9,unknown
+62.0,male,45.5,never smoked
+50.0,female,34.9,never smoked
+49.0,female,19.3,formerly smoked
+24.0,male,32.1,formerly smoked
+21.0,female,26.9,never smoked
+17.0,male,32.5,unknown
+22.0,female,19.5,never smoked
+13.0,male,31.7,never smoked
+21.0,female,21.0,unknown
+8.0,male,20.3,unknown
+16.0,female,21.5,unknown
+18.0,male,40.4,unknown
+68.0,male,30.1,never smoked
+49.0,male,40.2,formerly smoked
+80.0,female,34.7,never smoked
+31.0,male,25.9,smokes
+25.0,female,23.7,never smoked
+39.0,female,34.3,never smoked
+35.0,male,34.3,never smoked
+71.0,female,26.3,never smoked
+71.0,female,22.1,formerly smoked
+40.0,female,33.3,formerly smoked
+41.0,female,37.3,never smoked
+2.0,male,20.5,unknown
+3.0,female,19.1,unknown
+53.0,male,34.7,formerly smoked
+1.88,male,16.3,unknown
+60.0,male,28.0,never smoked
+5.0,female,17.2,unknown
+30.0,female,41.1,unknown
+49.0,female,25.0,unknown
+68.0,male,27.5,never smoked
+23.0,female,21.5,never smoked
+2.0,male,15.1,unknown
+24.0,male,29.6,formerly smoked
+41.0,female,30.2,never smoked
+63.0,female,34.9,unknown
+64.0,male,30.7,formerly smoked
+38.0,male,36.5,unknown
+1.24,female,21.5,unknown
+38.0,female,33.2,smokes
+43.0,female,50.2,never smoked
+27.0,female,22.3,never smoked
+42.0,male,27.3,unknown
+46.0,male,28.3,formerly smoked
+67.0,male,31.9,unknown
+34.0,female,24.9,unknown
+51.0,male,32.7,formerly smoked
+77.0,female,26.4,unknown
+30.0,female,24.8,smokes
+81.0,female,30.7,smokes
+12.0,female,25.4,smokes
+18.0,male,32.0,smokes
+35.0,female,24.4,never smoked
+82.0,female,20.4,never smoked
+53.0,male,29.5,never smoked
+75.0,male,24.4,never smoked
+32.0,female,22.8,smokes
+27.0,female,20.0,never smoked
+56.0,male,36.3,formerly smoked
+71.0,male,32.8,smokes
+78.0,male,34.4,formerly smoked
+44.0,female,30.5,never smoked
+62.0,male,29.7,smokes
+27.0,male,36.9,unknown
+42.0,female,34.2,smokes
+66.0,female,37.0,unknown
+82.0,female,47.5,unknown
+49.0,female,24.2,smokes
+77.0,female,30.6,never smoked
+59.0,female,52.8,formerly smoked
+54.0,female,38.6,never smoked
+38.0,female,32.8,never smoked
+55.0,female,42.9,never smoked
+13.0,female,25.9,unknown
+45.0,female,24.7,smokes
+54.0,female,35.8,never smoked
+51.0,female,31.2,unknown
+47.0,female,26.1,smokes
+25.0,male,30.8,never smoked
+61.0,male,40.5,never smoked
+55.0,female,25.2,formerly smoked
+23.0,female,28.7,smokes
+59.0,male,30.4,unknown
+4.0,male,15.2,unknown
+65.0,male,36.6,never smoked
+50.0,female,34.5,unknown
+42.0,male,23.7,never smoked
+51.0,male,35.7,smokes
+66.0,male,38.9,smokes
+22.0,female,40.0,never smoked
+5.0,male,18.4,unknown
+19.0,male,29.0,never smoked
+47.0,female,20.6,never smoked
+12.0,male,28.2,unknown
+53.0,female,66.8,unknown
+26.0,female,26.2,never smoked
+62.0,male,34.8,formerly smoked
+81.0,female,34.5,never smoked
+63.0,male,30.6,never smoked
+25.0,female,55.1,formerly smoked
+8.0,male,18.8,unknown
+76.0,male,29.1,unknown
+44.0,female,22.1,smokes
+65.0,female,28.9,smokes
+54.0,female,34.7,unknown
+24.0,female,20.3,smokes
+65.0,female,25.1,formerly smoked
+12.0,male,18.2,unknown
+33.0,female,25.5,never smoked
+74.0,female,34.4,formerly smoked
+18.0,female,48.5,never smoked
+77.0,female,25.2,formerly smoked
+48.0,male,32.5,never smoked
+52.0,male,42.1,formerly smoked
+23.0,male,19.5,never smoked
+25.0,male,27.7,never smoked
+44.0,female,25.1,never smoked
+78.0,female,29.6,never smoked
+37.0,female,32.9,never smoked
+32.0,female,55.9,never smoked
+67.0,male,25.1,formerly smoked
+41.0,female,24.7,smokes
+2.0,male,17.5,unknown
+75.0,female,20.8,unknown
+17.0,female,23.3,never smoked
+13.0,female,22.8,unknown
+25.0,female,26.6,never smoked
+57.0,female,25.5,never smoked
+31.0,male,25.8,never smoked
+61.0,male,25.4,never smoked
+46.0,male,57.3,never smoked
+15.0,female,20.2,unknown
+47.0,male,27.7,never smoked
+68.0,female,23.1,unknown
+0.4,male,14.3,unknown
+40.0,female,23.3,smokes
+62.0,female,23.4,unknown
+45.0,female,22.8,formerly smoked
+47.0,female,30.9,never smoked
+35.0,female,28.4,unknown
+51.0,male,41.9,smokes
+60.0,male,34.3,unknown
+59.0,male,25.1,smokes
+1.24,female,10.3,unknown
+18.0,female,31.8,unknown
+81.0,female,31.8,unknown
+15.0,male,23.0,never smoked
+73.0,female,25.4,formerly smoked
+0.08,female,14.1,unknown
+53.0,male,35.1,smokes
+45.0,male,26.9,unknown
+70.0,male,33.0,formerly smoked
+56.0,male,22.1,unknown
+7.0,female,20.8,unknown
+66.0,female,30.0,never smoked
+53.0,female,44.0,unknown
+20.0,female,16.6,unknown
+15.0,female,28.4,never smoked
+51.0,male,26.3,never smoked
+34.0,male,39.4,formerly smoked
+33.0,female,15.7,smokes
+53.0,female,34.1,smokes
+69.0,male,29.8,formerly smoked
+28.0,female,23.6,unknown
+81.0,female,18.3,formerly smoked
+20.0,female,28.3,never smoked
+1.48,female,18.5,unknown
+2.0,male,18.4,unknown
+77.0,male,24.1,smokes
+38.0,female,25.5,formerly smoked
+23.0,male,25.3,never smoked
+67.0,female,39.9,formerly smoked
+59.0,male,28.8,smokes
+41.0,female,37.2,formerly smoked
+21.0,female,49.8,never smoked
+41.0,male,34.3,formerly smoked
+54.0,male,29.0,never smoked
+25.0,female,37.2,never smoked
+6.0,female,19.4,unknown
+21.0,male,26.2,never smoked
+32.0,female,21.1,never smoked
+64.0,female,31.6,smokes
+70.0,male,29.3,unknown
+44.0,male,28.4,smokes
+60.0,female,35.3,smokes
+56.0,female,40.1,smokes
+53.0,male,39.0,formerly smoked
+59.0,male,31.5,never smoked
+53.0,female,28.5,unknown
+63.0,male,28.5,never smoked
+42.0,female,56.0,smokes
+63.0,female,28.6,formerly smoked
+52.0,female,35.2,never smoked
+62.0,female,32.5,never smoked
+68.0,female,35.9,never smoked
+36.0,female,25.1,never smoked
+3.0,female,16.8,unknown
+40.0,female,27.9,smokes
+8.0,female,16.3,unknown
+65.0,female,21.4,unknown
+28.0,female,32.7,formerly smoked
+40.0,female,23.6,never smoked
+65.0,female,19.8,formerly smoked
+58.0,male,33.1,never smoked
+44.0,male,28.1,smokes
+54.0,female,38.9,formerly smoked
+79.0,female,23.8,never smoked
+62.0,female,33.8,formerly smoked
+37.0,male,26.7,unknown
+63.0,male,32.2,formerly smoked
+27.0,female,28.1,formerly smoked
+6.0,male,21.3,unknown
+30.0,female,44.0,smokes
+15.0,female,21.5,formerly smoked
+50.0,female,37.3,smokes
+32.0,female,44.8,never smoked
+33.0,female,21.4,never smoked
+62.0,male,32.3,never smoked
+82.0,male,35.4,smokes
+71.0,female,19.7,never smoked
+20.0,female,31.3,unknown
+44.0,female,35.5,never smoked
+57.0,male,25.8,formerly smoked
+50.0,female,32.8,unknown
+50.0,male,35.9,smokes
+44.0,female,41.8,smokes
+47.0,female,27.3,formerly smoked
+35.0,male,27.7,unknown
+8.0,male,13.4,unknown
+3.0,male,17.0,unknown
+29.0,female,20.0,never smoked
+36.0,male,40.9,never smoked
+19.0,female,38.5,never smoked
+41.0,female,30.9,formerly smoked
+23.0,female,33.4,unknown
+14.0,male,17.1,unknown
+35.0,male,28.6,unknown
+45.0,male,24.0,smokes
+52.0,female,32.0,never smoked
+19.0,male,28.4,never smoked
+21.0,female,20.3,unknown
+8.0,male,33.8,unknown
+35.0,female,43.2,unknown
+33.0,female,22.7,unknown
+53.0,female,29.9,never smoked
+31.0,female,29.9,unknown
+43.0,female,22.7,unknown
+61.0,female,16.1,never smoked
+57.0,female,33.8,formerly smoked
+11.0,male,22.6,never smoked
+36.0,male,25.5,smokes
+16.0,female,22.5,unknown
+60.0,female,27.9,formerly smoked
+13.0,male,23.5,unknown
+69.0,female,32.2,never smoked
+22.0,female,29.9,smokes
+63.0,male,28.7,formerly smoked
+45.0,female,37.2,smokes
+58.0,male,22.2,formerly smoked
+61.0,male,26.6,formerly smoked
+30.0,female,24.6,smokes
+78.0,female,41.7,never smoked
+68.0,female,26.2,formerly smoked
+16.0,female,27.1,unknown
+38.0,female,41.8,never smoked
+39.0,female,34.2,never smoked
+51.0,female,19.2,never smoked
+37.0,male,25.2,never smoked
+16.0,male,18.7,never smoked
+39.0,male,43.0,never smoked
+24.0,male,28.2,smokes
+51.0,male,34.7,smokes
+50.0,female,25.5,never smoked
+27.0,female,39.8,smokes
+73.0,female,20.8,formerly smoked
+65.0,female,28.2,formerly smoked
+76.0,female,31.0,smokes
+53.0,female,21.6,never smoked
+65.0,female,26.2,unknown
+31.0,male,26.0,unknown
+1.72,male,22.5,unknown
+45.0,female,24.0,formerly smoked
+56.0,male,31.5,never smoked
+62.0,male,36.3,formerly smoked
+35.0,female,25.4,unknown
+16.0,male,32.2,never smoked
+31.0,female,39.8,unknown
+5.0,male,18.6,unknown
+26.0,male,30.7,smokes
+10.0,male,16.4,unknown
+22.0,female,20.5,smokes
+82.0,female,28.7,never smoked
+50.0,female,29.0,smokes
+47.0,female,24.4,never smoked
+31.0,male,29.9,unknown
+22.0,male,25.3,unknown
+12.0,female,23.5,formerly smoked
+63.0,female,20.5,never smoked
+78.0,female,33.5,smokes
+4.0,male,22.0,unknown
+76.0,male,29.0,never smoked
+81.0,female,30.7,never smoked
+39.0,female,37.4,never smoked
+59.0,female,51.8,never smoked
+2.0,male,16.6,unknown
+37.0,female,29.5,unknown
+78.0,female,27.3,formerly smoked
+75.0,female,27.5,formerly smoked
+34.0,male,33.9,never smoked
+48.0,female,27.9,unknown
+13.0,female,22.9,never smoked
+54.0,male,32.1,never smoked
+13.0,male,18.2,unknown
+24.0,female,30.2,formerly smoked
+76.0,female,31.3,formerly smoked
+1.0,male,20.3,unknown
+57.0,male,23.2,formerly smoked
+46.0,male,30.8,unknown
+26.0,female,22.9,never smoked
+56.0,female,42.8,never smoked
+34.0,male,22.2,unknown
+25.0,male,28.7,smokes
+60.0,male,32.3,never smoked
+22.0,male,24.2,formerly smoked
+35.0,male,23.9,never smoked
+48.0,male,34.2,never smoked
+38.0,female,29.0,unknown
+12.0,female,29.9,never smoked
+22.0,female,23.0,smokes
+0.64,female,17.3,unknown
+13.0,male,21.0,never smoked
+78.0,female,34.3,unknown
+23.0,female,19.8,unknown
+35.0,female,24.3,unknown
+78.0,female,16.4,never smoked
+50.0,male,32.6,unknown
+61.0,male,23.7,smokes
+43.0,male,27.0,formerly smoked
+60.0,male,25.6,smokes
+51.0,female,34.0,formerly smoked
+21.0,female,24.9,never smoked
+16.0,male,26.3,unknown
+25.0,female,43.1,unknown
+36.0,female,39.6,never smoked
+8.0,female,15.2,unknown
+48.0,female,41.8,never smoked
+14.0,male,20.1,never smoked
+60.0,female,39.3,never smoked
+61.0,male,28.3,formerly smoked
+60.0,female,27.5,unknown
+56.0,male,33.9,never smoked
+9.0,female,20.0,unknown
+45.0,female,34.8,smokes
+14.0,male,20.7,formerly smoked
+37.0,male,24.6,smokes
+52.0,female,39.4,never smoked
+47.0,female,29.4,smokes
+82.0,female,24.8,unknown
+64.0,male,32.3,never smoked
+12.0,male,25.3,never smoked
+79.0,female,39.0,unknown
+77.0,male,29.4,formerly smoked
+25.0,female,31.9,unknown
+26.0,female,26.4,unknown
+14.0,male,20.6,unknown
+42.0,female,26.3,never smoked
+37.0,male,23.6,unknown
+8.0,male,18.0,unknown
+78.0,female,26.4,never smoked
+18.0,male,22.0,never smoked
+78.0,male,30.5,unknown
+55.0,female,29.1,smokes
+68.0,female,24.9,never smoked
+47.0,female,36.4,smokes
+47.0,female,31.2,smokes
+51.0,female,32.8,never smoked
+43.0,male,31.6,never smoked
+78.0,female,35.8,unknown
+63.0,male,35.2,formerly smoked
+45.0,female,28.0,never smoked
+53.0,female,24.9,smokes
+12.0,female,35.7,unknown
+56.0,female,30.7,smokes
+29.0,female,33.9,never smoked
+55.0,female,27.8,unknown
+49.0,female,23.2,unknown
+23.0,female,17.1,unknown
+53.0,female,31.6,smokes
+56.0,male,23.8,smokes
+56.0,female,29.6,smokes
+61.0,female,45.0,never smoked
+45.0,female,25.6,unknown
+80.0,male,27.7,formerly smoked
+47.0,female,25.5,never smoked
+3.0,female,18.3,unknown
+63.0,male,21.0,formerly smoked
+68.0,female,28.6,never smoked
+76.0,female,23.5,never smoked
+62.0,male,36.1,unknown
+30.0,female,29.2,smokes
+44.0,female,27.6,formerly smoked
+47.0,male,36.0,smokes
+25.0,male,20.4,smokes
+31.0,female,19.9,never smoked
+71.0,male,29.2,formerly smoked
+32.0,female,27.9,never smoked
+72.0,male,38.1,formerly smoked
+44.0,female,24.1,never smoked
+63.0,male,37.8,formerly smoked
+37.0,female,29.1,never smoked
+54.0,male,35.7,never smoked
+56.0,male,34.5,never smoked
+25.0,female,34.1,smokes
+19.0,female,21.1,unknown
+62.0,male,57.7,never smoked
+27.0,female,22.2,never smoked
+5.0,male,20.5,unknown
+20.0,female,26.2,never smoked
+21.0,male,23.5,never smoked
+44.0,male,29.1,smokes
+39.0,male,39.8,unknown
+38.0,male,21.2,never smoked
+26.0,female,20.2,formerly smoked
+51.0,male,30.8,never smoked
+39.0,male,33.8,unknown
+5.0,female,17.1,unknown
+59.0,female,21.3,formerly smoked
+45.0,female,22.3,never smoked
+43.0,male,28.9,never smoked
+80.0,female,26.7,never smoked
+42.0,male,41.0,smokes
+8.0,female,16.7,unknown
+68.0,female,29.1,smokes
+5.0,female,23.6,unknown
+57.0,male,27.8,formerly smoked
+44.0,male,31.4,smokes
+16.0,male,28.2,never smoked
+60.0,female,30.8,unknown
+58.0,female,36.1,never smoked
+43.0,female,32.7,formerly smoked
+50.0,female,26.4,never smoked
+1.48,female,20.7,unknown
+5.0,female,18.5,unknown
+9.0,male,33.5,unknown
+67.0,female,14.1,never smoked
+21.0,female,23.4,unknown
+36.0,female,23.2,never smoked
+70.0,female,36.0,unknown
+57.0,male,35.6,never smoked
+52.0,female,21.8,smokes
+28.0,female,34.9,never smoked
+41.0,female,20.4,never smoked
+81.0,male,25.0,never smoked
+33.0,female,22.3,unknown
+31.0,female,27.3,never smoked
+42.0,female,28.9,never smoked
+10.0,male,30.4,unknown
+34.0,male,36.9,formerly smoked
+70.0,female,27.7,never smoked
+33.0,male,44.4,never smoked
+58.0,female,28.2,smokes
+25.0,female,35.0,never smoked
+1.4,female,20.6,unknown
+47.0,female,26.5,never smoked
+14.0,female,25.1,never smoked
+82.0,female,22.2,unknown
+52.0,male,27.3,formerly smoked
+72.0,male,27.3,never smoked
+52.0,male,41.9,formerly smoked
+61.0,female,38.8,never smoked
+15.0,female,18.3,never smoked
+1.56,female,19.5,unknown
+6.0,male,17.2,unknown
+3.0,male,20.8,unknown
+18.0,male,23.8,unknown
+53.0,female,24.7,never smoked
+58.0,male,23.1,formerly smoked
+31.0,female,22.4,never smoked
+29.0,female,29.9,smokes
+5.0,female,20.0,unknown
+40.0,male,28.7,unknown
+75.0,male,26.2,formerly smoked
+52.0,male,29.6,smokes
+39.0,male,30.8,formerly smoked
+40.0,female,32.7,formerly smoked
+78.0,female,21.8,unknown
+39.0,female,35.7,never smoked
+17.0,female,25.4,unknown
+45.0,male,32.8,unknown
+0.56,male,21.1,unknown
+13.0,female,31.7,never smoked
+26.0,male,20.0,never smoked
+42.0,female,34.7,formerly smoked
+44.0,male,28.0,never smoked
+3.0,female,16.4,unknown
+25.0,male,24.6,never smoked
+41.0,female,24.6,never smoked
+51.0,male,30.3,unknown
+20.0,female,23.7,unknown
+25.0,female,33.5,never smoked
+18.0,male,24.9,unknown
+37.0,female,48.9,unknown
+51.0,female,31.4,unknown
+2.0,male,18.4,unknown
+38.0,female,24.2,formerly smoked
+64.0,male,34.3,smokes
+22.0,male,25.1,never smoked
+71.0,male,33.3,never smoked
+32.0,female,22.6,unknown
+32.0,female,26.3,smokes
+63.0,female,29.7,formerly smoked
+0.24,male,18.5,unknown
+54.0,male,21.4,never smoked
+25.0,female,45.5,formerly smoked
+80.0,female,34.2,never smoked
+31.0,female,32.7,unknown
+53.0,male,38.1,never smoked
+35.0,male,26.7,never smoked
+31.0,male,22.6,smokes
+60.0,male,27.7,unknown
+0.56,male,20.7,unknown
+21.0,female,25.7,never smoked
+78.0,female,17.3,unknown
+59.0,male,23.3,formerly smoked
+0.64,male,16.2,unknown
+10.0,male,20.5,smokes
+60.0,male,33.6,smokes
+11.0,male,20.2,unknown
+48.0,male,49.3,never smoked
+50.0,female,26.2,formerly smoked
+69.0,male,30.1,smokes
+20.0,female,25.1,never smoked
+22.0,female,32.7,smokes
+55.0,male,26.4,unknown
+57.0,female,21.0,unknown
+29.0,female,24.1,unknown
+32.0,female,20.4,unknown
+54.0,female,30.9,formerly smoked
+37.0,male,39.1,unknown
+58.0,female,27.7,unknown
+41.0,female,29.5,never smoked
+72.0,male,30.3,unknown
+32.0,female,37.8,unknown
+54.0,female,30.2,never smoked
+79.0,female,24.2,smokes
+56.0,male,25.2,never smoked
+45.0,female,22.2,smokes
+6.0,male,17.7,unknown
+45.0,female,29.6,never smoked
+60.0,male,32.2,unknown
+65.0,female,28.7,smokes
+57.0,female,19.5,unknown
+58.0,male,38.5,smokes
+8.0,male,20.6,unknown
+18.0,male,21.5,unknown
+49.0,male,43.8,unknown
+2.0,male,18.0,unknown
+52.0,female,28.2,unknown
+63.0,female,26.6,smokes
+57.0,female,35.5,never smoked
+50.0,female,30.7,never smoked
+12.0,male,18.7,unknown
+35.0,female,22.4,never smoked
+35.0,female,25.2,smokes
+64.0,male,24.2,never smoked
+42.0,female,20.5,never smoked
+62.0,female,24.5,never smoked
+3.0,female,24.8,unknown
+43.0,female,42.6,never smoked
+52.0,female,23.8,never smoked
+64.0,male,42.3,formerly smoked
+59.0,male,42.2,never smoked
+81.0,female,26.1,unknown
+15.0,female,22.8,never smoked
+50.0,male,42.3,formerly smoked
+73.0,male,28.5,never smoked
+19.0,male,23.0,never smoked
+30.0,female,32.8,unknown
+40.0,female,49.8,formerly smoked
+47.0,female,23.8,never smoked
+66.0,female,31.7,smokes
+47.0,male,34.9,smokes
+41.0,female,54.0,never smoked
+63.0,female,26.8,formerly smoked
+12.0,female,21.3,never smoked
+1.32,male,19.8,unknown
+46.0,female,42.4,smokes
+8.0,female,16.4,unknown
+74.0,male,28.2,never smoked
+74.0,male,26.3,formerly smoked
+4.0,female,17.0,unknown
+26.0,female,23.3,never smoked
+63.0,male,56.1,formerly smoked
+48.0,female,25.1,smokes
+24.0,female,35.3,smokes
+47.0,male,36.3,never smoked
+70.0,male,30.4,formerly smoked
+41.0,male,43.9,never smoked
+42.0,female,26.4,smokes
+57.0,female,28.3,never smoked
+51.0,female,42.3,never smoked
+15.0,male,38.0,never smoked
+11.0,male,32.7,unknown
+27.0,female,28.8,never smoked
+53.0,female,38.5,never smoked
+52.0,female,30.1,unknown
+68.0,female,31.3,never smoked
+65.0,male,28.4,smokes
+23.0,female,26.6,unknown
+43.0,female,20.4,formerly smoked
+55.0,male,34.7,unknown
+52.0,female,32.5,never smoked
+21.0,female,30.7,unknown
+78.0,male,29.6,formerly smoked
+49.0,female,39.4,never smoked
+27.0,female,26.1,formerly smoked
+52.0,female,27.2,formerly smoked
+22.0,female,41.3,smokes
+77.0,male,20.9,formerly smoked
+57.0,male,41.5,formerly smoked
+13.0,male,31.1,formerly smoked
+14.0,male,24.5,formerly smoked
+29.0,female,23.0,unknown
+49.0,female,24.7,never smoked
+1.24,male,19.3,unknown
+21.0,male,37.0,never smoked
+36.0,male,31.0,smokes
+42.0,male,33.1,formerly smoked
+56.0,female,26.6,smokes
+46.0,male,27.7,never smoked
+79.0,male,40.3,smokes
+25.0,female,19.5,unknown
+67.0,male,26.7,unknown
+37.0,male,26.1,never smoked
+44.0,female,38.2,never smoked
+36.0,female,21.3,smokes
+17.0,male,97.6,unknown
+50.0,male,40.9,formerly smoked
+53.0,male,27.3,never smoked
+39.0,female,20.9,never smoked
+71.0,female,29.2,formerly smoked
+18.0,female,17.9,unknown
+55.0,male,38.0,unknown
+52.0,male,26.1,smokes
+27.0,female,53.9,unknown
+24.0,male,22.2,unknown
+72.0,male,24.6,formerly smoked
+41.0,male,33.4,formerly smoked
+29.0,female,34.4,formerly smoked
+26.0,female,17.6,never smoked
+23.0,female,19.2,never smoked
+43.0,male,31.8,unknown
+43.0,female,28.1,smokes
+49.0,female,32.1,never smoked
+13.0,male,17.4,never smoked
+26.0,female,20.2,never smoked
+10.0,female,23.4,unknown
+39.0,male,39.5,never smoked
+41.0,female,21.5,unknown
+25.0,male,24.3,smokes
+10.0,male,15.3,unknown
+54.0,female,32.4,unknown
+7.0,male,16.1,unknown
+53.0,female,34.3,formerly smoked
+55.0,female,43.8,never smoked
+6.0,male,19.6,unknown
+72.0,female,36.7,formerly smoked
+42.0,female,33.7,never smoked
+50.0,male,38.9,smokes
+55.0,female,28.0,never smoked
+47.0,female,23.9,unknown
+3.0,male,16.6,unknown
+49.0,female,42.9,smokes
+12.0,female,17.1,never smoked
+28.0,male,27.2,unknown
+40.0,male,30.3,formerly smoked
+55.0,male,33.9,formerly smoked
+9.0,male,20.0,unknown
+77.0,female,19.4,unknown
+18.0,male,21.5,never smoked
+73.0,male,28.5,formerly smoked
+67.0,female,34.4,smokes
+58.0,male,43.7,formerly smoked
+2.0,female,13.7,unknown
+38.0,female,33.7,formerly smoked
+5.0,male,18.0,unknown
+34.0,female,27.9,formerly smoked
+78.0,male,21.8,never smoked
+57.0,female,35.8,never smoked
+17.0,female,23.1,smokes
+71.0,female,30.3,smokes
+19.0,female,32.0,unknown
+56.0,male,25.0,smokes
+64.0,male,30.7,formerly smoked
+13.0,male,24.3,unknown
+40.0,male,11.5,never smoked
+80.0,male,30.7,never smoked
+62.0,female,33.7,never smoked
+79.0,male,26.5,smokes
+9.0,female,17.6,unknown
+26.0,female,22.5,never smoked
+1.72,male,18.5,unknown
+16.0,male,22.4,never smoked
+40.0,female,25.3,formerly smoked
+46.0,male,37.3,never smoked
+45.0,male,39.7,smokes
+59.0,female,28.0,never smoked
+31.0,female,41.4,smokes
+69.0,female,25.3,never smoked
+73.0,male,28.1,never smoked
+56.0,female,41.2,never smoked
+80.0,female,28.8,never smoked
+60.0,female,31.0,smokes
+40.0,female,28.3,smokes
+30.0,female,23.9,unknown
+66.0,female,44.2,formerly smoked
+78.0,male,27.6,never smoked
+37.0,female,35.7,formerly smoked
+41.0,female,37.4,formerly smoked
+34.0,female,27.5,unknown
+18.0,female,23.4,never smoked
+69.0,male,25.8,formerly smoked
+28.0,male,22.8,never smoked
+3.0,female,19.5,unknown
+57.0,female,38.0,unknown
+34.0,male,23.4,never smoked
+50.0,male,29.5,never smoked
+55.0,male,28.2,never smoked
+2.0,male,14.2,unknown
+27.0,female,28.9,unknown
+57.0,male,31.4,formerly smoked
+73.0,female,32.4,formerly smoked
+52.0,female,22.0,formerly smoked
+65.0,female,26.4,never smoked
+48.0,male,26.1,never smoked
+54.0,male,37.6,smokes
+8.0,male,18.8,unknown
+45.0,male,23.8,unknown
+48.0,female,49.4,never smoked
+77.0,female,23.8,smokes
+34.0,female,20.4,never smoked
+33.0,female,40.3,never smoked
+39.0,male,23.6,never smoked
+39.0,male,34.3,never smoked
+40.0,male,32.7,unknown
+46.0,female,28.7,never smoked
+1.0,female,24.5,unknown
+5.0,female,24.8,unknown
+14.0,male,23.2,unknown
+49.0,female,23.0,smokes
+45.0,female,39.3,never smoked
+13.0,female,20.1,never smoked
+76.0,female,25.4,never smoked
+14.0,male,23.8,unknown
+20.0,female,28.4,never smoked
+9.0,female,15.4,unknown
+78.0,female,28.2,never smoked
+49.0,male,26.0,never smoked
+55.0,female,41.5,never smoked
+43.0,female,32.2,never smoked
+16.0,female,25.7,never smoked
+58.0,male,33.0,formerly smoked
+67.0,male,35.0,smokes
+71.0,female,27.4,never smoked
+8.0,male,16.4,unknown
+18.0,female,31.5,unknown
+47.0,female,29.2,unknown
+59.0,male,25.9,formerly smoked
+28.0,male,32.3,never smoked
+67.0,male,30.4,formerly smoked
+71.0,male,45.1,formerly smoked
+56.0,female,25.9,unknown
+44.0,female,36.6,never smoked
+6.0,female,18.6,unknown
+78.0,female,27.5,unknown
+32.0,female,31.3,never smoked
+40.0,female,37.5,never smoked
+63.0,female,23.1,smokes
+51.0,male,35.0,never smoked
+22.0,male,27.0,never smoked
+82.0,female,29.8,never smoked
+17.0,female,23.5,unknown
+34.0,female,48.5,formerly smoked
+42.0,male,31.8,formerly smoked
+32.0,female,20.0,unknown
+73.0,male,29.4,formerly smoked
+47.0,female,24.3,never smoked
+34.0,female,45.4,never smoked
+64.0,male,29.5,never smoked
+52.0,male,49.2,never smoked
+55.0,male,29.4,unknown
+64.0,female,29.1,never smoked
+23.0,male,38.8,smokes
+18.0,male,23.4,never smoked
+65.0,female,48.7,never smoked
+12.0,male,19.7,unknown
+61.0,female,20.3,never smoked
+66.0,male,33.5,smokes
+59.0,male,36.7,smokes
+47.0,male,24.4,never smoked
+47.0,female,38.8,formerly smoked
+71.0,female,44.2,smokes
+62.0,male,33.4,never smoked
+28.0,female,32.5,unknown
+7.0,female,15.1,unknown
+68.0,female,21.5,smokes
+37.0,male,30.4,formerly smoked
+75.0,female,33.4,smokes
+5.0,male,18.2,unknown
+1.08,male,18.7,unknown
+34.0,female,38.4,unknown
+49.0,male,36.4,smokes
+8.0,female,20.6,unknown
+50.0,female,48.9,formerly smoked
+2.0,male,18.2,unknown
+1.16,female,17.0,unknown
+76.0,female,31.8,never smoked
+18.0,male,33.0,never smoked
+82.0,male,24.7,smokes
+67.0,female,28.1,unknown
+27.0,female,40.3,smokes
+57.0,male,35.2,smokes
+51.0,female,31.2,formerly smoked
+68.0,male,37.6,never smoked
+56.0,female,38.7,smokes
+18.0,female,28.1,smokes
+63.0,female,29.2,smokes
+31.0,female,31.1,unknown
+37.0,female,24.1,never smoked
+64.0,female,18.7,formerly smoked
+47.0,male,39.6,never smoked
+1.8,female,15.7,unknown
+42.0,male,53.8,unknown
+37.0,male,32.4,formerly smoked
+69.0,female,42.7,smokes
+13.0,female,18.6,unknown
+73.0,male,31.4,smokes
+48.0,male,33.7,formerly smoked
+78.0,female,24.5,never smoked
+21.0,female,33.7,never smoked
+54.0,male,35.4,smokes
+19.0,male,22.5,unknown
+82.0,female,33.6,never smoked
+80.0,female,29.7,unknown
+21.0,female,25.7,never smoked
+46.0,female,20.2,formerly smoked
+14.0,female,22.7,never smoked
+6.0,male,17.4,unknown
+3.0,female,22.2,unknown
+47.0,male,23.8,never smoked
+34.0,male,28.7,never smoked
+41.0,female,33.1,formerly smoked
+67.0,female,28.0,formerly smoked
+5.0,female,16.7,unknown
+20.0,male,27.1,never smoked
+63.0,female,26.4,smokes
+73.0,female,23.7,smokes
+62.0,male,33.3,unknown
+0.88,male,18.9,unknown
+50.0,male,25.5,smokes
+71.0,male,35.9,formerly smoked
+30.0,female,23.2,unknown
+80.0,female,22.2,smokes
+64.0,female,34.0,smokes
+7.0,male,20.4,unknown
+36.0,female,34.5,unknown
+79.0,male,31.9,unknown
+35.0,female,19.8,formerly smoked
+28.0,female,29.0,unknown
+72.0,male,36.7,formerly smoked
+12.0,female,21.3,unknown
+25.0,male,23.7,smokes
+27.0,female,25.7,smokes
+62.0,female,34.0,never smoked
+58.0,male,30.7,unknown
+30.0,female,44.8,never smoked
+56.0,male,27.7,formerly smoked
+28.0,female,23.2,unknown
+47.0,male,30.1,unknown
+16.0,female,29.3,unknown
+29.0,female,29.5,never smoked
+26.0,male,25.8,never smoked
+26.0,female,26.2,never smoked
+55.0,male,28.8,unknown
+29.0,female,29.8,smokes
+29.0,female,26.5,never smoked
+33.0,female,27.8,formerly smoked
+19.0,female,29.0,never smoked
+10.0,female,19.1,unknown
+3.0,female,17.1,unknown
+60.0,female,24.6,unknown
+16.0,female,18.3,unknown
+35.0,male,42.8,never smoked
+41.0,female,46.5,unknown
+19.0,female,38.4,unknown
+79.0,female,26.0,formerly smoked
+41.0,female,26.8,smokes
+1.64,male,21.1,unknown
+51.0,female,29.0,never smoked
+33.0,female,43.0,never smoked
+33.0,female,36.6,smokes
+48.0,male,27.5,unknown
+45.0,male,40.2,unknown
+61.0,female,37.1,never smoked
+31.0,male,32.0,smokes
+60.0,male,32.2,never smoked
+51.0,male,20.6,unknown
+53.0,male,24.1,never smoked
+52.0,male,25.0,never smoked
+42.0,female,25.2,unknown
+56.0,female,27.6,never smoked
+14.0,male,48.8,never smoked
+40.0,female,27.6,never smoked
+58.0,female,39.5,smokes
+52.0,female,27.2,smokes
+30.0,male,26.3,smokes
+47.0,female,28.9,smokes
+34.0,female,30.0,never smoked
+82.0,female,23.7,unknown
+31.0,female,25.5,smokes
+58.0,female,24.6,formerly smoked
+47.0,female,20.7,smokes
+65.0,male,36.4,never smoked
+13.0,female,23.4,unknown
+37.0,male,32.3,never smoked
+9.0,male,18.8,unknown
+7.0,female,15.5,unknown
+37.0,female,21.4,never smoked
+62.0,male,31.7,never smoked
+14.0,male,29.7,unknown
+77.0,female,34.3,formerly smoked
+36.0,male,22.1,smokes
+3.0,female,21.5,unknown
+78.0,male,30.4,smokes
+49.0,female,21.6,never smoked
+44.0,male,30.9,never smoked
+10.0,male,21.9,unknown
+8.0,male,19.2,unknown
+60.0,female,30.3,smokes
+56.0,female,23.0,smokes
+73.0,female,24.1,never smoked
+65.0,female,52.7,smokes
+34.0,female,27.6,unknown
+13.0,male,23.9,unknown
+80.0,female,26.9,never smoked
+46.0,male,23.9,never smoked
+80.0,female,40.5,never smoked
+65.0,female,32.0,never smoked
+24.0,female,20.5,unknown
+33.0,female,44.5,never smoked
+11.0,male,16.2,formerly smoked
+57.0,female,35.8,never smoked
+19.0,female,24.0,never smoked
+82.0,male,33.9,formerly smoked
+39.0,female,36.0,smokes
+14.0,female,22.9,never smoked
+60.0,female,44.5,smokes
+3.0,female,17.5,unknown
+57.0,female,32.3,never smoked
+79.0,male,30.3,never smoked
+65.0,female,33.5,unknown
+67.0,female,30.9,never smoked
+60.0,female,25.5,never smoked
+36.0,female,30.0,never smoked
+36.0,male,32.2,formerly smoked
+26.0,female,21.7,smokes
+71.0,male,24.7,unknown
+78.0,male,28.8,formerly smoked
+77.0,male,27.0,unknown
+74.0,male,26.0,unknown
+50.0,female,27.1,never smoked
+9.0,male,18.5,unknown
+1.64,male,18.8,unknown
+54.0,female,31.5,formerly smoked
+8.0,male,18.1,unknown
+36.0,female,24.3,never smoked
+38.0,female,28.0,never smoked
+7.0,female,17.3,unknown
+5.0,female,17.2,unknown
+14.0,male,26.9,unknown
+0.88,male,22.4,unknown
+30.0,female,25.8,never smoked
+39.0,female,21.3,unknown
+17.0,female,43.0,never smoked
+14.0,female,24.4,formerly smoked
+52.0,female,30.1,never smoked
+78.0,male,21.3,smokes
+2.0,female,17.8,unknown
+32.0,male,28.4,smokes
+0.88,male,23.4,unknown
+50.0,female,24.3,never smoked
+48.0,female,27.8,unknown
+66.0,male,30.5,formerly smoked
+46.0,male,25.8,unknown
+54.0,female,26.7,never smoked
+81.0,female,28.1,never smoked
+15.0,female,22.2,unknown
+77.0,male,25.1,unknown
+59.0,female,20.9,never smoked
+48.0,female,28.9,never smoked
+49.0,male,35.9,never smoked
+44.0,female,29.8,smokes
+39.0,female,26.7,never smoked
+34.0,male,28.4,formerly smoked
+50.0,male,26.7,smokes
+62.0,male,32.5,unknown
+38.0,female,43.8,never smoked
+43.0,female,28.3,formerly smoked
+28.0,male,36.6,formerly smoked
+58.0,female,33.1,smokes
+28.0,male,27.0,smokes
+18.0,male,23.6,unknown
+31.0,male,21.8,never smoked
+55.0,male,23.5,smokes
+54.0,female,28.7,formerly smoked
+73.0,male,31.6,formerly smoked
+26.0,male,31.9,formerly smoked
+73.0,male,25.2,smokes
+38.0,female,25.9,smokes
+75.0,male,32.5,unknown
+81.0,male,28.1,unknown
+20.0,female,27.4,smokes
+12.0,female,21.2,formerly smoked
+78.0,male,26.8,formerly smoked
+42.0,female,18.5,never smoked
+16.0,male,30.6,unknown
+4.0,male,19.9,unknown
+60.0,male,26.5,formerly smoked
+45.0,female,43.8,never smoked
+23.0,male,31.8,unknown
+21.0,male,36.6,smokes
+67.0,female,22.9,formerly smoked
+10.0,male,18.7,never smoked
+24.0,female,29.6,never smoked
+50.0,male,43.6,never smoked
+14.0,male,20.3,never smoked
+13.0,female,21.3,unknown
+71.0,male,39.2,smokes
+66.0,female,52.8,unknown
+32.0,male,30.2,never smoked
+46.0,male,35.3,never smoked
+48.0,male,37.0,smokes
+45.0,female,32.1,formerly smoked
+55.0,male,30.5,formerly smoked
+31.0,female,22.8,never smoked
+25.0,male,34.5,formerly smoked
+73.0,male,37.4,never smoked
+14.0,female,19.5,unknown
+56.0,female,55.7,unknown
+60.0,male,30.4,unknown
+27.0,male,25.3,never smoked
+28.0,female,23.1,smokes
+46.0,male,30.7,never smoked
+11.0,female,18.8,never smoked
+63.0,female,28.6,never smoked
+59.0,female,27.5,unknown
+57.0,male,26.5,never smoked
+35.0,female,40.3,never smoked
+54.0,male,37.9,formerly smoked
+7.0,male,17.1,unknown
+48.0,female,53.5,formerly smoked
+69.0,male,33.6,never smoked
+59.0,male,43.4,unknown
+72.0,female,30.5,never smoked
+49.0,male,38.1,never smoked
+73.0,female,29.9,formerly smoked
+24.0,female,32.7,never smoked
+26.0,male,28.6,unknown
+27.0,male,38.5,never smoked
+78.0,female,22.9,never smoked
+77.0,female,38.0,never smoked
+59.0,female,43.8,smokes
+0.32,male,20.8,unknown
+39.0,male,26.8,never smoked
+35.0,female,25.5,never smoked
+75.0,female,25.4,never smoked
+80.0,female,26.7,unknown
+35.0,female,50.5,never smoked
+22.0,female,21.3,unknown
+39.0,male,34.7,never smoked
+6.0,male,17.9,unknown
+62.0,female,36.3,never smoked
+13.0,female,18.4,unknown
+56.0,male,34.5,unknown
+53.0,male,33.4,never smoked
+5.0,male,19.4,unknown
+44.0,female,25.6,unknown
+13.0,male,24.5,never smoked
+59.0,female,30.0,unknown
+35.0,female,28.9,never smoked
+52.0,female,28.1,never smoked
+76.0,female,23.0,never smoked
+51.0,female,33.5,formerly smoked
+79.0,female,34.8,formerly smoked
+69.0,female,17.6,formerly smoked
+78.0,female,21.1,formerly smoked
+60.0,male,29.0,formerly smoked
+10.0,male,15.8,unknown
+42.0,male,41.2,unknown
+21.0,male,29.7,formerly smoked
+56.0,female,40.8,never smoked
+59.0,male,33.2,never smoked
+69.0,female,37.0,smokes
+25.0,female,24.5,unknown
+63.0,male,34.5,never smoked
+25.0,male,28.0,never smoked
+58.0,female,26.8,formerly smoked
+28.0,female,21.0,unknown
+46.0,female,23.8,smokes
+53.0,male,29.3,never smoked
+37.0,female,24.4,unknown
+12.0,male,22.6,unknown
+14.0,female,22.8,unknown
+60.0,female,29.7,smokes
+42.0,male,32.4,formerly smoked
+65.0,female,35.8,unknown
+80.0,male,31.1,formerly smoked
+32.0,male,31.9,unknown
+53.0,female,33.7,smokes
+50.0,female,25.6,never smoked
+23.0,female,19.9,smokes
+45.0,female,45.3,formerly smoked
+0.8,female,15.5,unknown
+49.0,male,28.3,never smoked
+70.0,male,40.2,formerly smoked
+82.0,female,24.3,never smoked
+23.0,male,24.6,unknown
+79.0,female,26.6,formerly smoked
+74.0,female,30.9,never smoked
+78.0,male,23.5,formerly smoked
+50.0,female,23.9,smokes
+34.0,female,34.2,unknown
+47.0,male,34.9,smokes
+52.0,female,26.2,never smoked
+67.0,female,36.2,never smoked
+62.0,female,22.4,unknown
+18.0,female,19.3,smokes
+75.0,female,41.7,never smoked
+42.0,female,46.0,smokes
+29.0,male,26.9,smokes
+52.0,male,40.1,smokes
+18.0,female,27.7,unknown
+67.0,male,29.5,unknown
+66.0,female,26.0,never smoked
+5.0,male,22.7,unknown
+18.0,female,16.0,never smoked
+52.0,male,27.7,smokes
+44.0,female,33.1,unknown
+46.0,male,33.1,formerly smoked
+36.0,female,29.7,never smoked
+61.0,female,34.0,smokes
+7.0,female,33.3,unknown
+15.0,female,27.0,unknown
+61.0,male,14.2,unknown
+20.0,male,19.4,never smoked
+2.0,female,15.3,unknown
+47.0,male,28.7,never smoked
+25.0,female,21.0,smokes
+66.0,male,28.9,formerly smoked
+2.0,male,20.3,unknown
+63.0,female,28.0,formerly smoked
+53.0,female,29.6,never smoked
+33.0,female,30.2,formerly smoked
+23.0,female,22.2,unknown
+23.0,female,28.4,formerly smoked
+81.0,female,29.6,formerly smoked
+55.0,male,28.6,never smoked
+69.0,female,32.6,formerly smoked
+58.0,male,29.0,never smoked
+70.0,female,30.1,unknown
+48.0,female,31.2,formerly smoked
+15.0,male,20.7,never smoked
+31.0,male,45.1,never smoked
+2.0,female,14.8,unknown
+80.0,male,37.4,formerly smoked
+69.0,female,19.9,unknown
+52.0,female,16.0,unknown
+80.0,male,27.4,unknown
+54.0,male,33.4,smokes
+2.0,female,18.5,unknown
+39.0,male,33.4,unknown
+38.0,female,20.8,smokes
+76.0,male,22.0,never smoked
+45.0,female,32.5,smokes
+1.24,female,19.2,unknown
+77.0,female,32.9,never smoked
+46.0,female,23.5,unknown
+50.0,female,21.7,never smoked
+52.0,female,29.1,unknown
+41.0,male,30.3,unknown
+40.0,female,29.4,formerly smoked
+59.0,female,30.1,formerly smoked
+48.0,male,32.9,never smoked
+42.0,female,34.0,never smoked
+26.0,female,38.6,never smoked
+39.0,male,29.3,smokes
+34.0,female,43.6,smokes
+54.0,female,22.7,formerly smoked
+57.0,female,36.6,never smoked
+1.56,female,22.6,unknown
+50.0,female,25.6,smokes
+64.0,female,31.4,never smoked
+44.0,male,26.0,formerly smoked
+38.0,male,27.0,formerly smoked
+32.0,male,33.3,never smoked
+17.0,male,17.3,unknown
+81.0,male,26.9,never smoked
+15.0,male,24.8,unknown
+5.0,female,20.0,unknown
+70.0,male,35.8,never smoked
+52.0,male,36.9,formerly smoked
+67.0,female,29.6,formerly smoked
+17.0,female,31.1,never smoked
+61.0,male,25.1,formerly smoked
+31.0,female,51.9,smokes
+58.0,male,36.3,smokes
+12.0,female,28.2,never smoked
+30.0,female,35.8,formerly smoked
+65.0,female,30.9,formerly smoked
+23.0,female,22.1,smokes
+14.0,male,17.6,never smoked
+27.0,male,29.5,smokes
+53.0,female,27.0,never smoked
+58.0,female,33.2,never smoked
+9.0,male,24.4,unknown
+59.0,male,34.4,smokes
+46.0,female,36.7,formerly smoked
+41.0,female,27.2,never smoked
+55.0,male,27.5,never smoked
+43.0,female,32.6,smokes
+15.0,male,28.4,unknown
+36.0,female,25.5,never smoked
+36.0,female,28.7,formerly smoked
+47.0,female,23.8,never smoked
+18.0,female,34.4,unknown
+19.0,male,26.1,unknown
+65.0,male,28.5,never smoked
+17.0,male,29.6,never smoked
+54.0,male,29.4,smokes
+46.0,female,28.2,never smoked
+59.0,female,28.7,formerly smoked
+48.0,female,38.1,formerly smoked
+18.0,female,22.2,never smoked
+56.0,female,25.7,unknown
+3.0,male,17.7,unknown
+41.0,female,26.4,never smoked
+67.0,female,32.8,unknown
+60.0,female,34.5,unknown
+47.0,female,39.5,never smoked
+24.0,female,23.5,never smoked
+43.0,male,38.8,formerly smoked
+17.0,female,21.2,unknown
+45.0,female,32.0,unknown
+24.0,female,63.3,never smoked
+79.0,female,32.6,never smoked
+79.0,male,25.2,never smoked
+27.0,female,27.4,formerly smoked
+64.0,male,38.6,formerly smoked
+34.0,female,32.9,never smoked
+50.0,female,26.0,formerly smoked
+58.0,female,29.2,formerly smoked
+26.0,male,29.2,formerly smoked
+50.0,female,26.4,unknown
+80.0,female,23.1,formerly smoked
+2.0,male,21.2,unknown
+46.0,male,26.2,formerly smoked
+29.0,female,23.4,never smoked
+6.0,female,19.8,unknown
+32.0,male,20.4,smokes
+16.0,female,25.9,never smoked
+44.0,female,34.1,never smoked
+23.0,female,18.3,never smoked
+48.0,male,35.0,unknown
+34.0,female,26.4,unknown
+78.0,male,27.6,formerly smoked
+42.0,female,27.0,smokes
+40.0,female,31.3,smokes
+10.0,male,18.0,unknown
+39.0,female,22.1,unknown
+42.0,female,34.4,never smoked
+47.0,male,33.2,smokes
+14.0,male,23.1,never smoked
+45.0,male,39.7,never smoked
+58.0,male,40.7,formerly smoked
+73.0,female,30.9,unknown
+62.0,female,27.5,unknown
+62.0,female,28.3,never smoked
+51.0,female,33.4,never smoked
+0.8,male,33.1,unknown
+57.0,female,41.5,never smoked
+8.0,female,17.1,unknown
+69.0,female,30.0,unknown
+16.0,female,24.9,unknown
+56.0,female,32.5,smokes
+41.0,female,26.1,never smoked
+1.24,female,19.2,unknown
+42.0,female,38.7,unknown
+57.0,male,29.5,never smoked
+20.0,male,28.1,smokes
+8.0,female,14.1,unknown
+43.0,male,33.9,never smoked
+62.0,male,26.0,formerly smoked
+42.0,male,52.8,never smoked
+63.0,female,29.2,never smoked
+80.0,male,26.3,smokes
+13.0,female,23.6,unknown
+20.0,female,18.6,never smoked
+71.0,female,29.7,unknown
+50.0,female,30.9,smokes
+76.0,female,22.8,unknown
+41.0,female,25.5,never smoked
+76.0,male,25.6,smokes
+78.0,female,23.0,unknown
+5.0,male,20.6,unknown
+43.0,female,28.4,smokes
+49.0,female,29.7,formerly smoked
+70.0,male,26.0,smokes
+24.0,male,37.5,smokes
+41.0,female,42.3,smokes
+20.0,male,21.4,unknown
+34.0,male,29.3,never smoked
+32.0,male,31.0,unknown
+27.0,male,22.0,never smoked
+44.0,female,20.9,never smoked
+20.0,male,45.9,never smoked
+52.0,female,61.2,unknown
+57.0,female,29.1,never smoked
+29.0,male,28.4,smokes
+16.0,female,22.6,unknown
+35.0,female,24.2,smokes
+5.0,female,16.3,unknown
+63.0,male,35.9,never smoked
+59.0,male,29.8,formerly smoked
+63.0,male,37.0,formerly smoked
+52.0,male,35.8,never smoked
+50.0,female,21.1,never smoked
+43.0,female,37.6,unknown
+27.0,female,24.8,unknown
+30.0,male,31.9,never smoked
+8.0,female,17.5,unknown
+14.0,male,17.6,unknown
+23.0,female,38.9,unknown
+6.0,male,15.2,unknown
+37.0,female,27.4,never smoked
+38.0,male,27.9,smokes
+3.0,male,16.1,unknown
+26.0,female,39.0,never smoked
+58.0,female,36.6,formerly smoked
+57.0,male,33.7,never smoked
+58.0,male,27.6,never smoked
+76.0,male,31.0,never smoked
+79.0,female,28.5,formerly smoked
+34.0,male,31.4,smokes
+75.0,male,25.3,never smoked
+11.0,male,17.2,never smoked
+71.0,male,26.9,unknown
+40.0,female,32.0,smokes
+24.0,female,22.5,unknown
+0.64,male,17.3,unknown
+82.0,female,27.0,formerly smoked
+32.0,male,33.1,unknown
+81.0,female,25.0,never smoked
+79.0,female,31.1,never smoked
+62.0,female,19.6,unknown
+39.0,male,24.7,smokes
+60.0,female,48.0,formerly smoked
+48.0,male,38.0,formerly smoked
+24.0,male,24.0,formerly smoked
+70.0,female,30.0,never smoked
+17.0,female,24.6,unknown
+56.0,female,23.1,unknown
+3.0,female,17.4,unknown
+65.0,male,43.1,unknown
+72.0,male,27.1,formerly smoked
+10.0,male,14.3,unknown
+29.0,male,46.8,never smoked
+44.0,female,26.0,never smoked
+46.0,male,29.3,never smoked
+33.0,male,50.1,smokes
+0.24,male,18.6,unknown
+55.0,male,27.0,never smoked
+56.0,female,25.7,never smoked
+50.0,male,25.5,formerly smoked
+78.0,male,27.3,never smoked
+63.0,male,24.1,unknown
+31.0,female,42.7,never smoked
+65.0,male,41.2,smokes
+51.0,male,20.2,formerly smoked
+60.0,male,30.9,never smoked
+69.0,male,27.7,never smoked
+23.0,female,22.3,never smoked
+46.0,male,39.4,smokes
+16.0,female,34.2,never smoked
+26.0,female,20.1,never smoked
+44.0,female,36.8,never smoked
+23.0,female,33.9,formerly smoked
+38.0,female,27.7,never smoked
+18.0,female,22.7,unknown
+63.0,female,32.2,smokes
+23.0,male,22.0,smokes
+32.0,male,23.2,never smoked
+8.0,male,26.7,unknown
+77.0,male,23.0,smokes
+41.0,female,23.4,never smoked
+34.0,female,24.1,never smoked
+25.0,male,31.5,unknown
+35.0,female,26.1,never smoked
+15.0,male,23.7,never smoked
+1.64,male,20.8,unknown
+4.0,male,18.8,unknown
+33.0,female,32.5,formerly smoked
+28.0,male,24.3,never smoked
+37.0,female,24.1,unknown
+50.0,female,32.5,never smoked
+76.0,female,39.3,formerly smoked
+72.0,female,23.9,never smoked
+16.0,male,22.0,unknown
+44.0,male,37.3,never smoked
+46.0,male,33.0,formerly smoked
+46.0,male,24.7,formerly smoked
+73.0,female,32.8,formerly smoked
+29.0,female,29.8,unknown
+19.0,male,24.1,unknown
+27.0,female,21.6,never smoked
+36.0,female,27.1,never smoked
+61.0,female,27.0,never smoked
+9.0,female,18.7,unknown
+25.0,female,35.8,never smoked
+68.0,female,27.1,formerly smoked
+26.0,female,33.1,smokes
+17.0,female,25.9,smokes
+75.0,male,26.7,smokes
+34.0,male,22.2,unknown
+53.0,male,26.0,smokes
+18.0,female,23.5,unknown
+48.0,male,23.5,never smoked
+5.0,female,15.9,unknown
+79.0,male,24.9,never smoked
+16.0,male,26.5,never smoked
+32.0,female,35.7,unknown
+55.0,male,32.1,smokes
+70.0,female,28.5,formerly smoked
+51.0,female,40.1,smokes
+39.0,female,26.6,smokes
+79.0,male,21.7,unknown
+80.0,male,28.8,never smoked
+34.0,female,32.0,unknown
+59.0,male,31.4,never smoked
+54.0,female,32.1,smokes
+22.0,female,19.8,unknown
+21.0,female,25.3,formerly smoked
+4.0,female,28.8,unknown
+26.0,female,26.0,smokes
+62.0,male,30.7,formerly smoked
+33.0,female,43.3,never smoked
+51.0,male,35.2,smokes
+75.0,female,20.9,unknown
+42.0,male,35.3,smokes
+82.0,female,27.0,formerly smoked
+61.0,female,26.1,smokes
+62.0,female,29.1,unknown
+59.0,male,32.6,never smoked
+31.0,female,21.8,formerly smoked
+12.0,male,32.3,never smoked
+76.0,female,28.1,never smoked
+71.0,male,32.3,formerly smoked
+15.0,female,21.7,unknown
+44.0,male,25.0,never smoked
+30.0,male,28.9,never smoked
+47.0,female,21.7,formerly smoked
+47.0,female,45.3,never smoked
+60.0,female,40.2,never smoked
+62.0,male,22.5,formerly smoked
+47.0,female,21.3,never smoked
+78.0,male,26.1,formerly smoked
+35.0,female,28.8,smokes
+57.0,female,32.4,formerly smoked
+12.0,male,20.4,unknown
+26.0,male,25.9,formerly smoked
+33.0,male,38.8,formerly smoked
+60.0,male,30.8,never smoked
+35.0,female,24.6,never smoked
+10.0,female,20.6,unknown
+50.0,male,38.8,formerly smoked
+44.0,female,40.4,unknown
+41.0,female,36.2,never smoked
+7.0,female,18.8,unknown
+45.0,male,27.6,smokes
+60.0,female,28.3,formerly smoked
+49.0,female,39.4,smokes
+45.0,female,33.5,unknown
+55.0,female,40.4,formerly smoked
+54.0,female,25.9,unknown
+39.0,female,27.6,smokes
+76.0,male,44.7,formerly smoked
+28.0,female,30.8,unknown
+70.0,female,22.3,formerly smoked
+28.0,male,27.9,unknown
+79.0,male,22.9,formerly smoked
+30.0,male,27.3,smokes
+26.0,female,25.0,never smoked
+57.0,female,48.3,smokes
+16.0,female,22.7,unknown
+40.0,male,39.1,unknown
+77.0,male,27.8,never smoked
+36.0,female,36.7,formerly smoked
+40.0,female,38.5,unknown
+2.0,male,29.4,unknown
+52.0,male,30.5,formerly smoked
+78.0,female,23.6,unknown
+22.0,female,20.6,unknown
+33.0,male,31.7,smokes
+40.0,male,24.9,unknown
+20.0,female,33.4,never smoked
+19.0,male,22.2,unknown
+25.0,male,26.5,never smoked
+23.0,female,27.1,formerly smoked
+28.0,female,30.3,never smoked
+6.0,female,18.6,unknown
+37.0,female,26.4,unknown
+10.0,female,17.8,formerly smoked
+34.0,female,37.4,smokes
+60.0,female,32.1,formerly smoked
+22.0,female,38.2,never smoked
+52.0,female,39.1,formerly smoked
+61.0,male,29.5,never smoked
+10.0,female,28.6,never smoked
+36.0,male,40.1,never smoked
+29.0,female,31.8,never smoked
+69.0,female,34.6,unknown
+62.0,female,24.5,never smoked
+62.0,male,26.2,never smoked
+79.0,female,33.0,never smoked
+13.0,male,22.3,unknown
+49.0,male,58.1,never smoked
+41.0,female,36.9,formerly smoked
+56.0,male,43.9,never smoked
+8.0,female,18.2,unknown
+24.0,female,23.1,never smoked
+61.0,female,32.6,unknown
+40.0,female,41.2,never smoked
+22.0,female,28.6,formerly smoked
+80.0,female,26.0,never smoked
+60.0,female,36.8,never smoked
+57.0,female,35.8,never smoked
+55.0,female,24.2,never smoked
+39.0,female,22.9,smokes
+51.0,female,23.1,never smoked
+77.0,male,28.9,smokes
+32.0,female,26.5,never smoked
+45.0,female,29.3,never smoked
+49.0,female,24.8,formerly smoked
+13.0,male,20.1,unknown
+74.0,female,18.2,never smoked
+72.0,female,34.7,formerly smoked
+57.0,female,24.0,unknown
+51.0,male,29.0,never smoked
+55.0,female,27.3,never smoked
+73.0,male,27.6,never smoked
+12.0,male,20.4,never smoked
+6.0,female,17.7,unknown
+76.0,female,27.9,smokes
+38.0,female,41.5,never smoked
+50.0,female,27.4,unknown
+75.0,female,27.8,unknown
+1.16,female,17.8,unknown
+32.0,male,32.0,smokes
+12.0,male,37.3,unknown
+32.0,male,28.1,unknown
+13.0,female,29.1,unknown
+1.32,male,22.9,unknown
+63.0,female,38.8,formerly smoked
+29.0,female,29.0,smokes
+53.0,male,28.6,smokes
+49.0,female,29.8,never smoked
+81.0,male,28.9,formerly smoked
+66.0,male,29.1,unknown
+61.0,female,16.7,smokes
+52.0,female,34.1,unknown
+8.0,male,25.7,unknown
+82.0,male,30.8,never smoked
+43.0,female,23.9,smokes
+4.0,female,18.8,unknown
+45.0,female,41.8,smokes
+62.0,female,36.4,never smoked
+42.0,male,28.7,unknown
+72.0,female,28.3,never smoked
+26.0,other,22.4,formerly smoked
+9.0,female,15.1,unknown
+31.0,female,22.7,never smoked
+20.0,female,26.6,unknown
+22.0,male,20.8,never smoked
+23.0,female,23.0,unknown
+57.0,female,35.8,smokes
+52.0,male,29.9,never smoked
+64.0,female,43.4,never smoked
+26.0,female,36.3,never smoked
+54.0,male,40.1,formerly smoked
+32.0,male,35.9,formerly smoked
+66.0,female,32.4,never smoked
+13.0,male,20.3,unknown
+77.0,female,33.2,never smoked
+18.0,male,22.3,unknown
+11.0,male,18.1,unknown
+16.0,female,28.2,never smoked
+73.0,female,29.7,never smoked
+36.0,male,29.0,smokes
+10.0,male,25.4,unknown
+54.0,female,26.5,unknown
+42.0,female,22.7,formerly smoked
+52.0,female,27.5,unknown
+32.0,male,23.8,smokes
+43.0,male,35.6,unknown
+28.0,female,27.2,never smoked
+79.0,female,30.4,unknown
+11.0,male,21.5,never smoked
+75.0,female,31.8,never smoked
+55.0,male,29.5,never smoked
+78.0,male,30.6,unknown
+48.0,female,27.6,formerly smoked
+73.0,male,23.0,smokes
+56.0,female,24.8,never smoked
+54.0,male,28.0,formerly smoked
+55.0,female,22.2,unknown
+65.0,female,27.8,formerly smoked
+69.0,female,30.2,formerly smoked
+29.0,female,26.8,never smoked
+64.0,female,22.0,never smoked
+16.0,female,34.3,formerly smoked
+75.0,female,29.2,formerly smoked
+17.0,female,30.3,never smoked
+24.0,male,21.4,smokes
+50.0,male,26.6,unknown
+52.0,male,30.0,formerly smoked
+82.0,female,33.7,formerly smoked
+56.0,male,30.9,smokes
+56.0,male,31.1,unknown
+18.0,male,23.0,unknown
+33.0,female,20.2,unknown
+57.0,female,31.6,never smoked
+30.0,male,23.9,unknown
+52.0,female,26.1,unknown
+3.0,female,15.8,unknown
+44.0,male,28.7,smokes
+33.0,female,28.9,unknown
+24.0,male,25.1,smokes
+24.0,female,19.8,never smoked
+54.0,male,30.8,smokes
+72.0,female,22.1,never smoked
+37.0,female,20.4,unknown
+36.0,female,31.2,formerly smoked
+22.0,female,24.9,smokes
+68.0,female,27.0,formerly smoked
+24.0,male,20.1,smokes
+35.0,female,24.4,never smoked
+32.0,female,22.6,never smoked
+52.0,female,22.4,never smoked
+21.0,male,26.2,never smoked
+82.0,female,22.9,never smoked
+33.0,male,32.6,formerly smoked
+62.0,male,31.3,unknown
+57.0,female,43.9,formerly smoked
+14.0,male,41.8,never smoked
+63.0,female,37.7,never smoked
+50.0,female,20.8,never smoked
+12.0,female,21.6,unknown
+80.0,male,22.1,formerly smoked
+74.0,female,39.2,unknown
+46.0,male,36.7,formerly smoked
+66.0,female,32.0,never smoked
+26.0,male,25.9,smokes
+70.0,female,28.9,formerly smoked
+62.0,female,29.3,formerly smoked
+15.0,male,32.3,never smoked
+67.0,male,33.2,formerly smoked
+63.0,male,31.6,smokes
+42.0,female,20.6,never smoked
+49.0,female,23.3,formerly smoked
+78.0,male,30.8,unknown
+61.0,female,23.7,unknown
+41.0,male,49.3,never smoked
+73.0,female,30.3,never smoked
+64.0,female,24.4,never smoked
+65.0,male,28.2,formerly smoked
+81.0,female,33.8,unknown
+47.0,female,42.6,formerly smoked
+40.0,male,31.9,never smoked
+46.0,male,34.0,unknown
+2.0,female,19.8,unknown
+56.0,male,30.5,formerly smoked
+54.0,male,21.7,formerly smoked
+26.0,female,24.6,never smoked
+45.0,female,38.1,never smoked
+57.0,female,19.2,smokes
+78.0,female,30.1,formerly smoked
+2.0,male,23.3,unknown
+76.0,male,34.5,formerly smoked
+51.0,female,30.8,never smoked
+54.0,female,43.8,formerly smoked
+36.0,female,29.9,never smoked
+57.0,female,50.4,never smoked
+25.0,female,22.6,never smoked
+7.0,female,19.5,unknown
+76.0,female,33.4,formerly smoked
+45.0,female,24.2,unknown
+66.0,female,52.7,formerly smoked
+45.0,female,25.6,unknown
+79.0,female,26.9,formerly smoked
+25.0,female,35.2,formerly smoked
+53.0,female,22.1,formerly smoked
+35.0,female,34.4,smokes
+78.0,female,26.0,unknown
+32.0,female,26.9,never smoked
+0.56,male,20.1,unknown
+26.0,female,24.7,unknown
+34.0,female,32.1,smokes
+65.0,female,29.8,smokes
+15.0,female,27.5,formerly smoked
+17.0,female,22.8,unknown
+71.0,female,27.6,formerly smoked
+42.0,female,33.0,never smoked
+30.0,male,33.7,never smoked
+75.0,female,25.1,unknown
+9.0,male,15.3,unknown
+47.0,male,22.2,smokes
+75.0,female,21.4,formerly smoked
+61.0,female,26.0,formerly smoked
+61.0,male,29.9,never smoked
+27.0,female,28.6,smokes
+55.0,female,21.2,never smoked
+2.0,female,16.0,unknown
+51.0,female,22.7,never smoked
+45.0,female,25.3,smokes
+36.0,male,31.6,formerly smoked
+46.0,male,38.9,formerly smoked
+48.0,female,27.1,smokes
+79.0,female,24.1,formerly smoked
+50.0,female,31.5,never smoked
+79.0,female,32.0,unknown
+32.0,male,31.8,never smoked
+36.0,female,34.0,never smoked
+27.0,female,23.4,unknown
+22.0,female,29.3,unknown
+5.0,female,17.2,unknown
+9.0,male,31.9,unknown
+31.0,male,31.6,never smoked
+26.0,female,23.2,never smoked
+43.0,male,30.0,smokes
+33.0,female,26.3,never smoked
+34.0,male,31.8,formerly smoked
+66.0,male,25.5,formerly smoked
+44.0,female,21.3,never smoked
+56.0,female,29.6,never smoked
+67.0,female,28.7,never smoked
+18.0,male,30.8,never smoked
+55.0,male,32.1,unknown
+61.0,male,34.0,smokes
+0.08,male,16.9,unknown
+48.0,male,32.1,never smoked
+44.0,male,22.6,never smoked
+68.0,female,31.3,never smoked
+52.0,male,29.0,never smoked
+15.0,male,27.6,never smoked
+2.0,male,17.7,unknown
+60.0,male,35.9,unknown
+37.0,female,33.8,unknown
+5.0,female,17.6,unknown
+25.0,female,48.3,unknown
+52.0,male,39.9,smokes
+79.0,female,11.3,unknown
+61.0,male,31.5,formerly smoked
+36.0,male,29.6,never smoked
+34.0,male,19.4,unknown
+2.0,female,18.1,unknown
+43.0,male,36.2,smokes
+1.48,female,17.9,unknown
+49.0,female,33.0,never smoked
+2.0,female,20.4,unknown
+82.0,female,33.6,formerly smoked
+81.0,female,34.5,never smoked
+81.0,male,30.0,never smoked
+1.08,female,12.8,unknown
+60.0,male,26.2,never smoked
+1.88,male,13.5,unknown
+58.0,female,25.6,formerly smoked
+8.0,female,18.8,unknown
+9.0,female,14.5,unknown
+34.0,female,23.4,formerly smoked
+23.0,female,39.7,formerly smoked
+74.0,female,40.8,never smoked
+72.0,male,29.5,smokes
+47.0,male,33.0,unknown
+56.0,female,25.6,never smoked
+5.0,male,33.1,unknown
+27.0,male,28.1,unknown
+38.0,female,49.3,never smoked
+13.0,male,16.9,never smoked
+41.0,female,35.9,unknown
+50.0,female,32.1,never smoked
+41.0,female,34.1,smokes
+6.0,male,15.1,unknown
+62.0,female,42.0,unknown
+4.0,male,16.8,unknown
+59.0,female,28.8,unknown
+63.0,male,32.2,smokes
+9.0,male,16.2,unknown
+41.0,male,44.2,unknown
+72.0,female,23.4,formerly smoked
+45.0,female,31.0,never smoked
+80.0,male,28.7,never smoked
+19.0,female,23.6,unknown
+37.0,male,35.7,smokes
+58.0,female,39.5,never smoked
+77.0,male,27.3,unknown
+38.0,male,31.3,formerly smoked
+49.0,male,33.4,unknown
+20.0,female,29.2,never smoked
+23.0,male,26.0,never smoked
+55.0,male,18.1,formerly smoked
+16.0,male,22.4,unknown
+81.0,male,29.4,unknown
+23.0,female,21.6,never smoked
+82.0,male,27.9,formerly smoked
+48.0,male,29.6,unknown
+56.0,male,30.2,unknown
+61.0,male,43.4,smokes
+43.0,male,30.5,formerly smoked
+39.0,female,33.2,unknown
+22.0,female,27.7,never smoked
+41.0,male,33.5,unknown
+37.0,male,28.0,unknown
+65.0,female,31.5,formerly smoked
+8.0,female,24.0,unknown
+51.0,female,27.4,never smoked
+63.0,male,37.9,formerly smoked
+48.0,female,26.2,unknown
+17.0,female,22.4,unknown
+75.0,female,43.7,never smoked
+51.0,female,28.4,never smoked
+51.0,male,29.8,never smoked
+41.0,female,24.8,formerly smoked
+75.0,female,34.8,never smoked
+57.0,male,27.4,smokes
+72.0,female,33.5,never smoked
+52.0,female,35.0,smokes
+11.0,male,24.4,unknown
+28.0,female,28.3,smokes
+78.0,female,29.1,never smoked
+82.0,female,31.3,formerly smoked
+74.0,male,32.8,never smoked
+31.0,female,29.1,never smoked
+53.0,female,31.9,never smoked
+0.24,male,14.2,unknown
+67.0,female,26.3,never smoked
+17.0,female,22.8,never smoked
+29.0,female,24.8,never smoked
+56.0,female,34.1,smokes
+15.0,female,21.5,unknown
+29.0,female,26.1,never smoked
+79.0,female,21.4,smokes
+82.0,female,33.5,never smoked
+17.0,male,23.0,unknown
+8.0,male,18.5,unknown
+23.0,male,23.4,never smoked
+36.0,female,31.4,unknown
+47.0,male,31.1,formerly smoked
+24.0,male,37.7,smokes
+60.0,female,25.3,never smoked
+63.0,female,35.6,never smoked
+44.0,male,24.8,smokes
+38.0,male,32.7,never smoked
+26.0,female,24.9,never smoked
+18.0,female,26.0,never smoked
+18.0,male,22.8,never smoked
+13.0,male,24.0,unknown
+13.0,male,20.3,unknown
+47.0,female,30.3,formerly smoked
+80.0,female,23.7,never smoked
+24.0,female,25.7,unknown
+72.0,female,21.9,formerly smoked
+5.0,male,15.8,unknown
+51.0,female,30.5,never smoked
+82.0,female,25.7,unknown
+5.0,male,19.0,unknown
+66.0,male,28.8,formerly smoked
+15.0,female,22.4,never smoked
+53.0,female,32.4,unknown
+78.0,female,36.6,never smoked
+62.0,female,27.9,never smoked
+41.0,male,27.7,unknown
+41.0,female,34.3,unknown
+78.0,female,26.7,never smoked
+14.0,male,19.0,unknown
+1.48,female,20.6,unknown
+71.0,male,26.7,smokes
+32.0,male,29.2,never smoked
+16.0,male,21.3,never smoked
+68.0,female,51.9,unknown
+0.56,male,14.1,unknown
+59.0,female,28.9,smokes
+32.0,male,30.9,smokes
+58.0,male,36.1,never smoked
+40.0,female,25.0,formerly smoked
+41.0,female,28.6,never smoked
+21.0,female,20.5,never smoked
+1.88,female,16.7,unknown
+55.0,male,36.6,never smoked
+67.0,female,26.4,never smoked
+49.0,male,33.1,formerly smoked
+42.0,female,27.5,never smoked
+54.0,female,26.9,never smoked
+25.0,female,23.9,never smoked
+62.0,male,26.9,unknown
+75.0,male,27.8,never smoked
+72.0,female,32.7,never smoked
+14.0,female,28.7,never smoked
+38.0,female,22.6,unknown
+59.0,male,26.5,never smoked
+23.0,female,28.3,never smoked
+63.0,female,24.3,never smoked
+82.0,male,24.0,formerly smoked
+34.0,male,32.4,never smoked
+8.0,female,28.7,unknown
+28.0,female,36.7,never smoked
+49.0,female,27.7,never smoked
+24.0,female,24.8,smokes
+17.0,male,31.2,never smoked
+69.0,female,26.1,formerly smoked
+58.0,female,26.8,unknown
+50.0,male,26.7,formerly smoked
+5.0,male,19.6,unknown
+34.0,female,25.8,never smoked
+64.0,female,32.5,formerly smoked
+47.0,male,28.3,smokes
+61.0,female,24.5,smokes
+14.0,male,25.2,unknown
+57.0,female,32.3,never smoked
+53.0,male,30.1,formerly smoked
+67.0,male,35.7,formerly smoked
+57.0,female,20.0,formerly smoked
+38.0,female,23.5,unknown
+13.0,female,23.4,unknown
+37.0,female,22.3,never smoked
+39.0,male,28.7,never smoked
+13.0,female,20.9,unknown
+57.0,male,29.4,smokes
+11.0,female,27.6,unknown
+68.0,female,43.9,never smoked
+79.0,male,28.7,formerly smoked
+24.0,female,34.7,unknown
+44.0,female,37.1,unknown
+46.0,female,24.2,never smoked
+66.0,female,22.7,smokes
+61.0,female,29.3,formerly smoked
+16.0,female,20.0,smokes
+37.0,female,22.7,smokes
+43.0,female,25.4,never smoked
+27.0,female,37.6,never smoked
+44.0,male,44.7,formerly smoked
+14.0,male,26.3,unknown
+81.0,male,25.0,unknown
+54.0,male,32.3,formerly smoked
+77.0,female,24.9,never smoked
+27.0,male,33.7,never smoked
+35.0,female,26.6,formerly smoked
+30.0,female,53.4,never smoked
+48.0,female,41.7,never smoked
+15.0,female,22.0,never smoked
+26.0,female,20.3,smokes
+38.0,female,42.7,unknown
+29.0,male,28.2,smokes
+49.0,male,32.5,unknown
+55.0,female,22.5,formerly smoked
+52.0,male,26.5,smokes
+49.0,male,41.0,unknown
+21.0,female,27.0,unknown
+24.0,female,25.9,formerly smoked
+18.0,male,23.7,unknown
+52.0,male,30.0,never smoked
+70.0,male,15.0,formerly smoked
+51.0,female,21.5,never smoked
+58.0,male,25.9,never smoked
+46.0,female,24.3,smokes
+79.0,female,39.2,unknown
+11.0,female,14.4,unknown
+61.0,female,26.6,never smoked
+51.0,male,30.7,never smoked
+21.0,female,35.4,unknown
+71.0,female,29.2,never smoked
+13.0,female,26.7,unknown
+16.0,male,21.5,never smoked
+61.0,female,19.1,never smoked
+49.0,female,25.4,unknown
+65.0,male,34.0,never smoked
+40.0,male,23.9,never smoked
+44.0,female,20.9,smokes
+11.0,male,18.2,unknown
+20.0,female,27.6,smokes
+24.0,male,50.3,never smoked
+44.0,female,24.5,never smoked
+5.0,male,16.6,unknown
+41.0,male,24.0,never smoked
+23.0,female,18.8,never smoked
+7.0,female,34.0,unknown
+74.0,female,25.8,never smoked
+61.0,male,30.3,never smoked
+80.0,female,28.9,smokes
+35.0,female,21.3,never smoked
+43.0,female,26.8,never smoked
+25.0,male,29.2,unknown
+72.0,male,25.0,formerly smoked
+45.0,female,21.5,never smoked
+9.0,male,17.1,unknown
+33.0,male,32.5,never smoked
+53.0,male,26.9,formerly smoked
+67.0,female,30.4,never smoked
+59.0,male,29.8,never smoked
+1.32,female,20.3,unknown
+27.0,male,41.1,smokes
+64.0,male,33.9,unknown
+55.0,female,39.0,unknown
+40.0,female,31.2,never smoked
+33.0,male,38.2,never smoked
+33.0,female,44.7,never smoked
+39.0,male,33.5,smokes
+74.0,female,27.0,never smoked
+38.0,male,31.1,never smoked
+53.0,male,29.2,never smoked
+22.0,male,26.6,never smoked
+5.0,female,17.9,unknown
+24.0,male,24.2,formerly smoked
+27.0,female,19.5,unknown
+41.0,male,28.5,formerly smoked
+20.0,female,21.3,never smoked
+71.0,female,41.3,never smoked
+65.0,female,31.3,never smoked
+38.0,male,40.8,never smoked
+25.0,female,36.6,unknown
+53.0,male,26.7,unknown
+50.0,female,18.7,formerly smoked
+1.24,female,15.2,unknown
+55.0,female,26.8,never smoked
+38.0,female,25.1,never smoked
+72.0,female,31.3,formerly smoked
+43.0,male,59.7,never smoked
+30.0,male,29.8,never smoked
+69.0,female,33.5,formerly smoked
+61.0,female,24.5,never smoked
+34.0,female,33.6,never smoked
+43.0,female,39.7,formerly smoked
+62.0,female,47.4,never smoked
+48.0,male,26.4,smokes
+37.0,female,33.0,never smoked
+64.0,female,31.4,never smoked
+51.0,male,27.2,never smoked
+69.0,male,35.7,formerly smoked
+75.0,female,29.5,formerly smoked
+27.0,female,21.0,unknown
+49.0,female,26.6,never smoked
+82.0,male,24.3,smokes
+36.0,female,43.9,smokes
+45.0,male,52.5,unknown
+64.0,female,27.0,formerly smoked
+32.0,male,32.7,never smoked
+15.0,female,29.4,unknown
+1.64,female,15.1,unknown
+34.0,male,32.1,unknown
+17.0,male,32.9,never smoked
+76.0,female,27.6,formerly smoked
+61.0,male,26.5,smokes
+30.0,male,19.2,smokes
+18.0,female,25.9,unknown
+48.0,male,21.9,never smoked
+0.16,male,17.4,unknown
+4.0,female,13.2,unknown
+38.0,male,25.2,never smoked
+27.0,female,28.2,never smoked
+50.0,female,31.5,unknown
+19.0,male,25.2,unknown
+8.0,male,14.5,unknown
+78.0,male,28.0,formerly smoked
+0.8,male,15.1,unknown
+53.0,female,31.4,smokes
+73.0,female,26.3,never smoked
+58.0,male,39.6,never smoked
+62.0,female,28.9,never smoked
+78.0,female,31.4,unknown
+51.0,female,34.3,unknown
+78.0,male,27.0,formerly smoked
+40.0,female,27.2,never smoked
+35.0,female,23.8,never smoked
+82.0,male,25.3,formerly smoked
+46.0,female,32.6,unknown
+51.0,female,31.8,never smoked
+53.0,female,22.4,unknown
+55.0,male,28.0,never smoked
+43.0,female,23.9,formerly smoked
+81.0,male,25.3,formerly smoked
+12.0,male,16.4,formerly smoked
+20.0,female,26.9,smokes
+53.0,female,25.4,never smoked
+1.32,female,18.7,unknown
+22.0,female,37.5,never smoked
+75.0,female,41.4,never smoked
+66.0,female,37.5,never smoked
+7.0,male,15.8,unknown
+26.0,female,37.6,never smoked
+14.0,female,30.5,never smoked
+32.0,female,22.1,unknown
+6.0,male,19.2,unknown
+42.0,female,38.0,never smoked
+4.0,male,18.7,unknown
+75.0,male,25.7,formerly smoked
+80.0,male,30.1,never smoked
+52.0,female,36.3,never smoked
+11.0,male,20.4,unknown
+14.0,male,20.9,unknown
+74.0,female,28.4,never smoked
+58.0,male,33.8,unknown
+80.0,female,24.0,never smoked
+31.0,female,43.3,never smoked
+28.0,female,36.4,never smoked
+25.0,female,37.9,never smoked
+71.0,male,32.6,never smoked
+51.0,female,23.9,never smoked
+15.0,male,18.1,unknown
+45.0,male,36.4,never smoked
+53.0,male,29.2,never smoked
+69.0,male,30.8,formerly smoked
+42.0,female,23.8,formerly smoked
+4.0,female,17.9,unknown
+64.0,male,31.8,formerly smoked
+5.0,female,19.5,unknown
+44.0,male,31.5,smokes
+78.0,male,24.1,formerly smoked
+69.0,female,35.9,never smoked
+80.0,male,31.6,unknown
+7.0,female,19.0,unknown
+2.0,female,18.8,unknown
+80.0,female,33.5,unknown
+69.0,female,25.0,never smoked
+58.0,male,52.9,formerly smoked
+75.0,female,24.8,formerly smoked
+60.0,female,24.5,never smoked
+75.0,female,40.4,smokes
+10.0,female,20.2,unknown
+38.0,male,31.9,smokes
+28.0,male,25.4,smokes
+3.0,female,15.4,unknown
+31.0,female,38.6,never smoked
+59.0,female,31.0,formerly smoked
+31.0,female,26.4,smokes
+58.0,female,37.7,never smoked
+57.0,female,35.2,smokes
+31.0,male,54.7,smokes
+43.0,male,21.6,never smoked
+40.0,female,23.9,unknown
+34.0,male,26.1,never smoked
+55.0,female,39.7,formerly smoked
+39.0,female,29.9,formerly smoked
+42.0,female,31.4,never smoked
+44.0,male,34.5,formerly smoked
+69.0,male,29.4,never smoked
+16.0,male,26.9,unknown
+8.0,female,22.4,unknown
+1.48,female,20.5,unknown
+1.88,female,18.6,unknown
+69.0,female,31.4,smokes
+13.0,female,18.5,formerly smoked
+53.0,female,41.8,never smoked
+16.0,female,21.2,unknown
+64.0,male,28.6,never smoked
+7.0,female,16.0,unknown
+41.0,male,30.6,unknown
+65.0,male,29.0,formerly smoked
+61.0,male,28.6,unknown
+63.0,male,34.8,never smoked
+54.0,female,42.0,unknown
+14.0,female,30.3,never smoked
+45.0,male,30.9,unknown
+51.0,male,32.1,smokes
+8.0,male,19.6,unknown
+52.0,male,32.8,smokes
+39.0,female,31.5,unknown
+69.0,female,34.7,never smoked
+71.0,male,21.5,unknown
+73.0,female,27.6,unknown
+54.0,female,28.6,formerly smoked
+10.0,male,21.1,never smoked
+26.0,female,23.8,never smoked
+41.0,female,33.5,unknown
+71.0,male,33.4,formerly smoked
+46.0,female,23.3,smokes
+15.0,male,21.0,never smoked
+29.0,female,21.2,never smoked
+8.0,male,18.4,unknown
+21.0,female,26.9,never smoked
+56.0,female,20.2,formerly smoked
+14.0,female,21.9,never smoked
+78.0,female,24.2,unknown
+36.0,female,29.6,never smoked
+57.0,female,38.1,smokes
+79.0,male,22.0,never smoked
+26.0,male,29.8,unknown
+22.0,male,24.0,never smoked
+72.0,male,26.9,never smoked
+54.0,female,38.0,never smoked
+8.0,male,16.9,unknown
+62.0,female,23.4,never smoked
+28.0,female,38.5,never smoked
+50.0,female,21.6,unknown
+7.0,male,15.9,unknown
+33.0,female,25.1,never smoked
+55.0,male,41.1,smokes
+25.0,female,21.5,unknown
+25.0,female,21.0,smokes
+37.0,female,24.1,smokes
+58.0,male,30.6,unknown
+45.0,male,19.8,smokes
+60.0,female,29.2,unknown
+66.0,male,33.7,formerly smoked
+80.0,male,31.0,formerly smoked
+38.0,female,21.5,never smoked
+11.0,female,19.1,unknown
+63.0,female,21.4,unknown
+19.0,male,24.8,unknown
+17.0,female,35.1,never smoked
+19.0,female,28.6,smokes
+40.0,female,35.7,never smoked
+49.0,male,45.4,unknown
+69.0,female,34.5,never smoked
+46.0,female,21.2,never smoked
+78.0,male,22.7,formerly smoked
+63.0,female,39.1,never smoked
+3.0,female,21.9,unknown
+1.8,female,16.5,unknown
+18.0,female,23.0,never smoked
+46.0,female,22.5,never smoked
+8.0,female,20.4,unknown
+53.0,female,28.7,smokes
+38.0,female,22.4,never smoked
+74.0,female,26.3,unknown
+24.0,female,23.6,never smoked
+78.0,male,25.9,never smoked
+60.0,male,30.7,never smoked
+12.0,male,24.5,formerly smoked
+32.0,female,24.0,unknown
+5.0,male,20.1,unknown
+40.0,female,38.0,never smoked
+19.0,female,26.6,unknown
+28.0,female,24.5,never smoked
+44.0,female,41.3,never smoked
+50.0,male,34.8,smokes
+50.0,female,35.5,smokes
+18.0,female,24.1,unknown
+1.64,male,19.0,unknown
+5.0,female,16.6,unknown
+39.0,female,28.6,unknown
+65.0,female,22.4,never smoked
+26.0,female,38.6,unknown
+42.0,male,32.0,unknown
+34.0,female,40.1,never smoked
+45.0,female,32.0,formerly smoked
+43.0,male,23.9,unknown
+40.0,female,25.0,never smoked
+35.0,male,28.5,smokes
+2.0,female,19.8,unknown
+61.0,female,25.7,never smoked
+64.0,male,28.0,smokes
+32.0,female,37.2,never smoked
+23.0,male,24.8,formerly smoked
+51.0,female,39.2,never smoked
+52.0,female,61.6,smokes
+75.0,female,27.2,never smoked
+40.0,female,38.0,never smoked
+39.0,male,36.2,never smoked
+6.0,male,16.6,unknown
+32.0,female,38.0,never smoked
+55.0,female,31.4,never smoked
+23.0,female,35.3,never smoked
+52.0,female,35.8,never smoked
+58.0,male,28.6,never smoked
+17.0,male,34.0,unknown
+3.0,male,15.5,unknown
+23.0,female,31.1,never smoked
+56.0,male,37.5,formerly smoked
+45.0,male,37.7,unknown
+14.0,female,24.2,formerly smoked
+45.0,female,33.4,unknown
+57.0,female,33.0,never smoked
+35.0,female,25.7,unknown
+8.0,female,19.4,unknown
+42.0,female,33.4,never smoked
+8.0,male,18.0,unknown
+62.0,male,40.1,never smoked
+43.0,female,26.9,never smoked
+8.0,female,22.5,unknown
+40.0,male,27.6,smokes
+2.0,male,23.3,unknown
+27.0,female,35.7,never smoked
+47.0,female,28.4,never smoked
+53.0,female,29.4,smokes
+62.0,male,31.9,unknown
+50.0,male,25.1,smokes
+26.0,male,35.6,smokes
+19.0,female,21.1,never smoked
+0.32,male,17.8,unknown
+45.0,female,31.5,never smoked
+45.0,male,26.6,unknown
+54.0,female,44.8,smokes
+64.0,male,31.3,formerly smoked
+2.0,male,17.2,unknown
+66.0,female,25.3,smokes
+73.0,female,28.8,never smoked
+31.0,female,49.9,smokes
+1.88,female,18.0,unknown
+58.0,female,23.5,never smoked
+12.0,male,18.1,unknown
+60.0,female,41.7,formerly smoked
+23.0,male,20.7,smokes
+26.0,male,30.3,smokes
+36.0,male,27.8,never smoked
+3.0,female,18.9,unknown
+21.0,male,20.4,unknown
+67.0,female,31.8,unknown
+35.0,female,44.8,smokes
+26.0,female,37.1,unknown
+47.0,female,39.9,smokes
+81.0,male,24.1,formerly smoked
+1.64,female,18.1,unknown
+52.0,male,36.3,never smoked
+28.0,female,19.1,smokes
+45.0,female,21.1,never smoked
+20.0,male,28.9,smokes
+1.56,male,18.9,unknown
+65.0,female,43.3,formerly smoked
+45.0,male,37.2,formerly smoked
+77.0,male,32.2,unknown
+37.0,male,26.3,unknown
+50.0,female,25.4,smokes
+0.56,female,18.3,unknown
+30.0,female,21.4,never smoked
+31.0,female,22.9,smokes
+4.0,male,16.2,unknown
+65.0,male,29.6,unknown
+68.0,female,21.5,never smoked
+63.0,female,24.2,never smoked
+46.0,male,37.3,never smoked
+54.0,female,33.3,smokes
+66.0,male,33.1,never smoked
+29.0,female,22.2,never smoked
+78.0,male,24.4,formerly smoked
+56.0,male,30.3,unknown
+57.0,female,28.2,unknown
+2.0,female,17.0,unknown
+49.0,male,53.8,unknown
+31.0,male,30.4,formerly smoked
+47.0,female,22.3,unknown
+37.0,male,25.3,never smoked
+65.0,female,29.8,never smoked
+61.0,male,43.8,formerly smoked
+66.0,female,34.5,smokes
+24.0,male,25.5,never smoked
+66.0,male,31.5,smokes
+64.0,female,39.2,unknown
+38.0,female,47.3,smokes
+7.0,female,17.0,unknown
+63.0,female,38.2,never smoked
+71.0,male,31.1,never smoked
+18.0,male,22.4,never smoked
+65.0,female,32.0,smokes
+57.0,male,24.7,unknown
+62.0,female,36.3,unknown
+1.8,male,20.2,unknown
+35.0,male,27.4,never smoked
+50.0,female,29.6,never smoked
+73.0,female,54.3,formerly smoked
+23.0,female,28.6,never smoked
+32.0,female,43.9,formerly smoked
+38.0,female,22.2,never smoked
+50.0,female,28.4,unknown
+39.0,female,23.7,smokes
+7.0,female,18.3,unknown
+15.0,female,18.3,unknown
+67.0,male,28.9,never smoked
+32.0,female,27.1,unknown
+5.0,male,13.8,unknown
+56.0,male,21.9,smokes
+49.0,male,24.0,unknown
+11.0,female,20.8,unknown
+61.0,male,39.8,formerly smoked
+76.0,male,26.2,never smoked
+34.0,female,43.9,unknown
+20.0,male,27.3,unknown
+24.0,female,22.0,formerly smoked
+39.0,female,40.0,formerly smoked
+55.0,female,20.1,formerly smoked
+16.0,female,42.2,never smoked
+36.0,male,25.8,unknown
+38.0,female,27.2,never smoked
+20.0,male,30.9,smokes
+38.0,female,47.9,formerly smoked
+52.0,female,33.1,smokes
+49.0,male,37.8,never smoked
+80.0,female,25.4,never smoked
+75.0,male,28.4,never smoked
+13.0,female,16.6,never smoked
+54.0,female,35.1,smokes
+28.0,male,32.7,unknown
+61.0,female,29.8,unknown
+0.16,male,13.0,unknown
+59.0,male,27.5,formerly smoked
+12.0,male,23.6,unknown
+38.0,female,36.9,smokes
+15.0,male,16.7,unknown
+31.0,male,26.5,never smoked
+52.0,male,37.0,never smoked
+61.0,female,27.7,unknown
+50.0,male,23.5,unknown
+41.0,female,40.4,formerly smoked
+20.0,male,27.7,never smoked
+67.0,male,28.3,never smoked
+45.0,female,55.0,smokes
+73.0,male,28.7,unknown
+52.0,female,25.0,unknown
+51.0,female,24.8,formerly smoked
+56.0,female,35.5,never smoked
+49.0,female,25.0,unknown
+10.0,male,17.3,unknown
+51.0,female,37.8,unknown
+57.0,male,32.8,formerly smoked
+76.0,male,28.7,unknown
+28.0,female,28.8,formerly smoked
+57.0,female,28.4,never smoked
+39.0,male,24.9,formerly smoked
+41.0,female,29.6,formerly smoked
+72.0,female,26.1,formerly smoked
+45.0,male,29.5,smokes
+33.0,male,23.9,never smoked
+62.0,male,25.8,smokes
+27.0,female,36.2,never smoked
+31.0,female,31.3,formerly smoked
+24.0,female,26.1,never smoked
+1.88,male,19.1,unknown
+28.0,female,17.6,never smoked
+24.0,female,21.4,unknown
+30.0,female,24.0,unknown
+38.0,male,25.5,never smoked
+1.64,female,19.9,unknown
+0.72,male,19.9,unknown
+57.0,male,35.5,never smoked
+27.0,female,26.9,smokes
+30.0,female,24.2,never smoked
+42.0,male,30.0,never smoked
+36.0,male,30.9,never smoked
+44.0,male,26.5,never smoked
+59.0,male,30.6,never smoked
+61.0,female,19.1,formerly smoked
+18.0,female,23.2,formerly smoked
+44.0,female,30.5,smokes
+16.0,male,15.8,unknown
+13.0,male,16.9,never smoked
+9.0,male,18.0,unknown
+0.16,male,13.9,unknown
+81.0,female,36.7,never smoked
+38.0,female,30.8,formerly smoked
+58.0,female,34.6,never smoked
+5.0,male,16.3,unknown
+64.0,female,38.2,formerly smoked
+38.0,female,27.3,never smoked
+56.0,female,30.4,smokes
+58.0,male,34.5,never smoked
+9.0,male,17.4,unknown
+34.0,female,32.0,never smoked
+79.0,female,33.4,unknown
+62.0,male,40.2,smokes
+60.0,female,30.1,smokes
+42.0,female,46.2,smokes
+59.0,female,35.6,smokes
+54.0,female,29.4,smokes
+59.0,male,27.3,never smoked
+15.0,male,17.4,unknown
+14.0,female,26.9,unknown
+5.0,male,17.7,unknown
+17.0,male,23.6,unknown
+13.0,female,27.7,unknown
+48.0,female,38.0,smokes
+37.0,male,35.2,never smoked
+74.0,female,32.4,formerly smoked
+54.0,male,36.1,formerly smoked
+64.0,female,30.6,never smoked
+26.0,female,29.0,never smoked
+55.0,male,22.3,never smoked
+74.0,female,27.3,formerly smoked
+0.48,female,17.4,unknown
+41.0,female,39.0,formerly smoked
+68.0,male,26.7,never smoked
+9.0,male,24.2,unknown
+36.0,female,22.8,smokes
+17.0,male,25.6,unknown
+24.0,male,21.9,smokes
+69.0,female,25.9,never smoked
+38.0,male,30.6,unknown
+69.0,female,25.7,formerly smoked
+32.0,female,33.3,unknown
+25.0,female,23.8,smokes
+2.0,male,17.2,unknown
+79.0,male,31.0,unknown
+28.0,female,24.7,never smoked
+16.0,female,27.1,never smoked
+66.0,male,38.3,smokes
+57.0,female,50.9,formerly smoked
+61.0,female,29.2,formerly smoked
+74.0,female,23.6,formerly smoked
+70.0,female,33.5,never smoked
+8.0,female,16.3,unknown
+49.0,female,30.8,unknown
+30.0,male,31.1,never smoked
+51.0,male,26.4,formerly smoked
+10.0,female,18.6,formerly smoked
+34.0,female,37.3,formerly smoked
+40.0,male,26.6,never smoked
+3.0,male,17.6,unknown
+45.0,female,22.3,unknown
+4.0,male,20.2,unknown
+52.0,male,30.9,never smoked
+68.0,male,31.5,never smoked
+8.0,female,29.7,unknown
+82.0,female,32.5,unknown
+36.0,male,32.8,unknown
+42.0,female,25.4,never smoked
+27.0,female,27.2,unknown
+55.0,male,31.6,smokes
+31.0,female,39.6,never smoked
+82.0,male,19.8,formerly smoked
+57.0,female,29.6,never smoked
+78.0,female,25.5,formerly smoked
+55.0,male,25.8,formerly smoked
+51.0,male,32.1,formerly smoked
+80.0,male,25.6,unknown
+17.0,female,26.3,never smoked
+61.0,female,39.4,unknown
+62.0,female,25.6,never smoked
+14.0,female,34.0,unknown
+62.0,female,35.8,never smoked
+56.0,female,24.9,smokes
+41.0,male,29.3,never smoked
+59.0,female,23.4,unknown
+29.0,male,24.5,unknown
+39.0,male,29.8,unknown
+66.0,male,28.9,unknown
+35.0,female,27.3,never smoked
+36.0,female,23.2,never smoked
+35.0,male,34.2,unknown
+26.0,male,23.3,smokes
+31.0,female,26.9,formerly smoked
+56.0,female,21.8,never smoked
+36.0,female,26.9,never smoked
+41.0,female,29.9,never smoked
+50.0,female,22.4,never smoked
+42.0,female,27.5,never smoked
+79.0,male,35.0,never smoked
+57.0,male,27.9,never smoked
+68.0,male,25.5,unknown
+25.0,female,28.6,never smoked
+69.0,male,34.8,formerly smoked
+42.0,female,50.6,unknown
+37.0,male,30.9,never smoked
+2.0,female,14.8,unknown
+78.0,female,31.4,formerly smoked
+36.0,female,22.3,smokes
+10.0,male,19.1,unknown
+39.0,male,27.4,unknown
+4.0,male,17.5,unknown
+48.0,female,36.2,never smoked
+72.0,male,25.4,smokes
+63.0,male,25.7,smokes
+28.0,female,28.6,smokes
+80.0,female,33.7,never smoked
+49.0,male,37.9,never smoked
+57.0,male,28.4,unknown
+59.0,female,20.0,never smoked
+43.0,female,29.1,never smoked
+47.0,female,27.6,unknown
+54.0,male,27.6,formerly smoked
+57.0,male,24.2,unknown
+56.0,male,31.0,never smoked
+66.0,male,34.5,never smoked
+18.0,male,27.0,never smoked
+81.0,female,20.7,formerly smoked
+30.0,male,26.1,formerly smoked
+8.0,male,19.2,unknown
+55.0,male,28.0,smokes
+79.0,male,23.6,formerly smoked
+49.0,female,57.2,unknown
+53.0,female,33.0,never smoked
+26.0,female,22.2,never smoked
+14.0,female,24.8,unknown
+25.0,male,24.7,never smoked
+20.0,female,27.9,never smoked
+18.0,female,21.6,never smoked
+38.0,male,34.8,smokes
+72.0,female,32.9,smokes
+52.0,female,28.0,unknown
+71.0,male,25.0,smokes
+46.0,male,24.7,formerly smoked
+33.0,female,27.3,never smoked
+37.0,female,34.2,unknown
+54.0,female,39.1,smokes
+5.0,female,22.7,unknown
+45.0,male,33.9,formerly smoked
+14.0,male,18.6,unknown
+5.0,male,16.7,unknown
+35.0,female,20.6,never smoked
+20.0,female,20.1,unknown
+51.0,male,45.2,never smoked
+40.0,male,25.3,smokes
+79.0,female,32.4,never smoked
+61.0,male,34.9,never smoked
+33.0,male,43.7,smokes
+27.0,female,23.0,smokes
+28.0,female,21.5,never smoked
+67.0,female,24.9,never smoked
+35.0,female,22.9,never smoked
+78.0,female,25.0,never smoked
+20.0,female,21.3,never smoked
+43.0,female,46.1,never smoked
+27.0,female,64.4,never smoked
+45.0,female,37.0,never smoked
+11.0,female,21.3,never smoked
+31.0,female,28.3,never smoked
+30.0,female,31.1,smokes
+27.0,female,25.1,unknown
+34.0,female,27.6,smokes
+19.0,male,29.4,unknown
+3.0,female,14.1,unknown
+53.0,male,35.2,smokes
+81.0,male,23.9,formerly smoked
+44.0,female,34.0,formerly smoked
+59.0,female,27.1,unknown
+43.0,male,29.5,formerly smoked
+5.0,female,20.7,unknown
+31.0,female,39.5,smokes
+47.0,male,33.7,unknown
+12.0,female,23.2,never smoked
+40.0,male,30.1,unknown
+49.0,female,28.8,never smoked
+38.0,male,92.0,never smoked
+15.0,female,38.0,never smoked
+81.0,female,27.7,unknown
+48.0,male,43.2,never smoked
+24.0,female,24.1,smokes
+47.0,male,28.7,never smoked
+13.0,female,34.8,unknown
+16.0,female,23.5,never smoked
+64.0,male,28.5,never smoked
+11.0,female,20.3,unknown
+55.0,female,43.0,formerly smoked
+38.0,male,18.3,never smoked
+37.0,male,27.2,never smoked
+34.0,female,22.0,unknown
+52.0,female,50.8,unknown
+50.0,female,35.4,formerly smoked
+37.0,female,55.9,unknown
+55.0,female,27.9,smokes
+2.0,female,19.8,unknown
+68.0,male,26.0,smokes
+27.0,female,26.8,formerly smoked
+53.0,female,32.5,never smoked
+5.0,male,15.0,unknown
+3.0,female,14.2,unknown
+20.0,female,17.0,formerly smoked
+19.0,male,26.2,never smoked
+31.0,female,24.9,smokes
+63.0,female,26.6,never smoked
+49.0,female,22.7,smokes
+72.0,female,32.7,formerly smoked
+50.0,female,36.7,smokes
+41.0,male,31.5,unknown
+40.0,male,36.9,never smoked
+17.0,male,27.6,unknown
+3.0,male,20.7,unknown
+33.0,female,20.2,unknown
+12.0,female,23.4,never smoked
+23.0,male,25.3,unknown
+31.0,male,28.2,formerly smoked
+65.0,female,27.0,smokes
+43.0,female,24.8,smokes
+22.0,female,34.8,never smoked
+7.0,male,17.3,unknown
+81.0,female,27.8,never smoked
+10.0,female,16.2,unknown
+5.0,female,21.7,unknown
+24.0,female,21.4,never smoked
+45.0,female,29.3,unknown
+46.0,female,36.2,never smoked
+64.0,male,28.3,unknown
+25.0,male,23.5,never smoked
+12.0,female,25.9,unknown
+81.0,male,27.1,never smoked
+65.0,male,21.5,never smoked
+40.0,female,30.5,unknown
+81.0,male,23.4,formerly smoked
+36.0,male,37.6,never smoked
+32.0,female,24.0,smokes
+31.0,male,25.1,never smoked
+55.0,male,28.7,smokes
+39.0,male,41.8,formerly smoked
+17.0,female,25.6,unknown
+31.0,female,27.2,never smoked
+36.0,female,24.4,never smoked
+5.0,female,20.7,unknown
+29.0,female,19.6,unknown
+2.0,female,24.8,unknown
+62.0,female,32.6,smokes
+45.0,female,20.5,never smoked
+18.0,female,36.2,unknown
+29.0,female,45.4,smokes
+52.0,female,27.6,formerly smoked
+69.0,male,34.7,formerly smoked
+71.0,female,32.4,unknown
+33.0,male,28.7,never smoked
+43.0,female,45.3,unknown
+39.0,male,40.3,formerly smoked
+60.0,female,38.9,never smoked
+54.0,female,46.0,never smoked
+61.0,male,32.4,smokes
+0.24,male,19.4,unknown
+11.0,female,27.5,never smoked
+75.0,female,26.2,unknown
+64.0,female,31.1,formerly smoked
+78.0,female,34.6,never smoked
+14.0,female,24.3,never smoked
+66.0,female,34.6,never smoked
+48.0,male,28.5,never smoked
+44.0,female,32.1,unknown
+30.0,male,28.0,never smoked
+1.48,male,20.9,unknown
+61.0,female,33.8,never smoked
+54.0,female,25.8,formerly smoked
+22.0,female,31.8,unknown
+47.0,male,26.8,smokes
+67.0,female,25.9,formerly smoked
+53.0,male,29.2,smokes
+45.0,female,25.3,never smoked
+65.0,female,41.7,never smoked
+39.0,male,38.8,never smoked
+57.0,male,29.1,unknown
+45.0,female,30.9,never smoked
+28.0,female,39.3,formerly smoked
+30.0,male,41.8,unknown
+31.0,female,26.2,formerly smoked
+70.0,female,33.8,smokes
+17.0,female,26.1,unknown
+44.0,male,24.1,never smoked
+65.0,male,30.7,formerly smoked
+6.0,male,22.4,unknown
+15.0,male,23.0,unknown
+80.0,female,30.2,formerly smoked
+54.0,male,30.3,formerly smoked
+79.0,female,28.7,never smoked
+60.0,female,36.3,smokes
+12.0,female,16.3,unknown
+36.0,female,34.5,never smoked
+54.0,female,20.8,smokes
+63.0,male,31.0,formerly smoked
+2.0,female,17.6,unknown
+28.0,female,22.7,formerly smoked
+38.0,female,38.4,smokes
+37.0,male,40.8,smokes
+80.0,male,32.9,unknown
+43.0,male,31.3,formerly smoked
+60.0,male,28.5,smokes
+66.0,female,27.6,never smoked
+45.0,female,40.2,unknown
+29.0,female,24.7,never smoked
+4.0,male,17.7,unknown
+48.0,female,25.4,never smoked
+68.0,female,28.5,never smoked
+57.0,female,26.2,never smoked
+29.0,female,26.0,never smoked
+30.0,female,45.3,never smoked
+47.0,female,31.5,never smoked
+73.0,female,20.6,smokes
+66.0,female,29.4,unknown
+39.0,female,57.9,never smoked
+66.0,male,39.1,unknown
+52.0,female,23.8,formerly smoked
+34.0,female,38.1,never smoked
+79.0,female,19.5,never smoked
+39.0,female,35.5,smokes
+61.0,male,26.4,formerly smoked
+26.0,female,22.2,smokes
+37.0,female,29.1,unknown
+66.0,female,41.9,formerly smoked
+16.0,female,22.6,formerly smoked
+51.0,female,33.3,smokes
+15.0,male,21.3,never smoked
+1.72,male,20.4,unknown
+60.0,male,28.7,unknown
+66.0,male,28.8,formerly smoked
+75.0,female,38.7,never smoked
+40.0,female,32.3,smokes
+52.0,female,37.9,unknown
+13.0,female,25.3,unknown
+44.0,female,27.7,unknown
+37.0,female,25.1,unknown
+2.0,male,16.8,unknown
+48.0,female,27.7,never smoked
+81.0,female,28.6,never smoked
+76.0,female,37.6,never smoked
+58.0,female,32.7,unknown
+11.0,female,22.7,unknown
+9.0,female,16.0,unknown
+54.0,male,23.5,never smoked
+37.0,female,45.8,unknown
+16.0,female,20.8,never smoked
+11.0,male,16.7,unknown
+32.0,female,22.2,smokes
+26.0,female,33.1,never smoked
+21.0,female,32.7,never smoked
+45.0,female,41.4,never smoked
+40.0,female,24.1,formerly smoked
+41.0,female,28.0,unknown
+71.0,female,24.2,unknown
+16.0,male,23.5,smokes
+7.0,female,23.0,unknown
+27.0,female,20.3,smokes
+22.0,female,24.8,unknown
+79.0,female,26.1,unknown
+38.0,female,24.2,smokes
+64.0,female,19.3,formerly smoked
+4.0,male,18.2,unknown
+23.0,female,24.2,never smoked
+35.0,male,41.5,smokes
+66.0,male,28.0,unknown
+34.0,male,37.0,never smoked
+19.0,female,32.2,unknown
+73.0,male,35.9,never smoked
+70.0,female,47.6,unknown
+45.0,female,32.1,never smoked
+34.0,female,55.7,formerly smoked
+81.0,male,22.2,never smoked
+0.72,female,20.1,unknown
+13.0,male,14.6,unknown
+57.0,male,28.4,never smoked
+38.0,female,20.6,never smoked
+21.0,male,19.8,unknown
+38.0,female,23.4,unknown
+41.0,female,25.1,never smoked
+26.0,female,30.1,never smoked
+48.0,female,33.3,unknown
+18.0,male,24.0,never smoked
+66.0,male,27.8,never smoked
+27.0,female,21.4,unknown
+18.0,female,25.5,formerly smoked
+11.0,male,21.8,never smoked
+7.0,female,18.9,unknown
+54.0,female,21.9,unknown
+43.0,male,30.6,never smoked
+61.0,female,29.8,never smoked
+31.0,male,28.7,smokes
+40.0,female,35.5,smokes
+71.0,female,29.1,formerly smoked
+57.0,female,32.8,never smoked
+13.0,female,22.8,never smoked
+21.0,female,31.3,never smoked
+63.0,female,29.0,never smoked
+7.0,male,19.0,unknown
+78.0,female,24.1,never smoked
+66.0,female,21.4,never smoked
+41.0,male,28.0,never smoked
+11.0,male,27.6,never smoked
+55.0,male,28.7,unknown
+42.0,female,24.5,formerly smoked
+51.0,male,25.0,formerly smoked
+79.0,female,29.6,never smoked
+28.0,male,29.9,never smoked
+73.0,female,35.6,never smoked
+42.0,female,27.9,never smoked
+37.0,female,42.6,never smoked
+78.0,male,21.2,formerly smoked
+74.0,female,28.5,formerly smoked
+59.0,female,25.6,formerly smoked
+82.0,female,31.1,formerly smoked
+71.0,male,30.4,never smoked
+19.0,female,22.9,unknown
+18.0,male,31.9,never smoked
+53.0,female,48.8,never smoked
+62.0,female,43.0,formerly smoked
+3.0,male,21.8,unknown
+49.0,female,35.5,never smoked
+51.0,male,24.3,smokes
+53.0,female,23.1,never smoked
+10.0,female,18.5,unknown
+54.0,male,42.4,smokes
+40.0,female,32.3,never smoked
+3.0,female,22.6,unknown
+12.0,female,17.8,unknown
+56.0,male,18.4,never smoked
+43.0,female,26.9,never smoked
+28.0,female,32.0,smokes
+28.0,male,23.4,formerly smoked
+56.0,male,31.4,never smoked
+14.0,female,22.4,unknown
+63.0,female,28.9,formerly smoked
+29.0,female,27.4,never smoked
+48.0,female,57.2,never smoked
+47.0,male,28.4,smokes
+63.0,male,23.5,smokes
+40.0,male,28.3,never smoked
+40.0,female,38.2,unknown
+55.0,male,33.3,smokes
+43.0,female,33.3,never smoked
+59.0,female,28.8,never smoked
+78.0,female,32.1,smokes
+27.0,female,28.9,never smoked
+49.0,female,25.5,never smoked
+14.0,male,25.9,formerly smoked
+17.0,female,19.5,formerly smoked
+42.0,male,23.8,unknown
+36.0,female,24.9,unknown
+19.0,male,18.5,smokes
+55.0,male,30.6,unknown
+8.0,female,16.1,unknown
+56.0,female,32.5,unknown
+54.0,male,27.4,formerly smoked
+15.0,male,30.2,unknown
+43.0,female,23.5,formerly smoked
+52.0,male,36.0,formerly smoked
+62.0,female,24.8,never smoked
+54.0,male,27.5,never smoked
+60.0,male,40.0,formerly smoked
+7.0,male,18.1,unknown
+3.0,male,18.8,unknown
+39.0,female,23.6,never smoked
+60.0,male,29.7,never smoked
+60.0,female,43.7,never smoked
+46.0,female,27.3,never smoked
+26.0,male,20.2,never smoked
+12.0,female,23.8,unknown
+16.0,male,21.4,never smoked
+2.0,female,25.1,unknown
+82.0,female,17.9,smokes
+32.0,female,34.5,smokes
+62.0,female,27.1,formerly smoked
+75.0,female,26.1,never smoked
+81.0,female,43.4,never smoked
+37.0,female,33.2,never smoked
+28.0,female,37.2,unknown
+25.0,female,41.3,smokes
+44.0,male,35.4,never smoked
+11.0,female,26.1,unknown
+54.0,male,24.5,never smoked
+43.0,female,32.7,never smoked
+56.0,female,29.2,never smoked
+37.0,female,20.4,never smoked
+60.0,male,33.5,unknown
+4.0,female,14.0,unknown
+51.0,female,33.5,formerly smoked
+82.0,male,27.5,never smoked
+56.0,female,35.3,unknown
+60.0,female,30.1,never smoked
+35.0,male,32.6,smokes
+32.0,female,47.5,never smoked
+45.0,female,31.6,never smoked
+10.0,male,23.5,formerly smoked
+68.0,female,40.3,unknown
+51.0,female,34.1,smokes
+8.0,male,16.1,unknown
+63.0,female,26.4,never smoked
+4.0,male,19.0,unknown
+33.0,female,34.7,formerly smoked
+56.0,female,23.3,smokes
+49.0,male,32.6,never smoked
+30.0,female,26.0,never smoked
+16.0,male,35.1,never smoked
+1.8,female,18.6,unknown
+54.0,male,30.4,formerly smoked
+49.0,male,32.8,formerly smoked
+17.0,female,21.6,never smoked
+11.0,male,23.3,unknown
+51.0,male,31.4,never smoked
+74.0,male,26.3,never smoked
+42.0,female,20.1,never smoked
+69.0,female,28.3,formerly smoked
+22.0,female,40.4,smokes
+25.0,female,18.6,smokes
+17.0,male,44.7,never smoked
+64.0,male,25.3,smokes
+50.0,female,28.3,unknown
+52.0,male,39.9,formerly smoked
+37.0,female,34.7,never smoked
+31.0,female,31.9,never smoked
+52.0,female,35.0,unknown
+56.0,female,32.7,formerly smoked
+43.0,female,30.6,unknown
+11.0,male,27.9,unknown
+2.0,female,20.4,unknown
+16.0,female,29.6,never smoked
+23.0,male,23.5,never smoked
+40.0,female,46.4,unknown
+15.0,male,27.4,never smoked
+48.0,male,25.2,never smoked
+33.0,male,25.8,unknown
+46.0,male,33.3,smokes
+53.0,female,27.7,smokes
+68.0,male,28.9,never smoked
+60.0,male,33.1,never smoked
+57.0,male,38.1,smokes
+51.0,female,27.9,never smoked
+0.4,female,17.4,unknown
+76.0,female,27.1,smokes
+46.0,female,22.7,unknown
+23.0,female,28.3,unknown
+9.0,male,21.5,unknown
+53.0,female,30.0,never smoked
+4.0,male,18.6,unknown
+62.0,female,45.2,unknown
+37.0,male,39.7,unknown
+82.0,female,31.5,never smoked
+33.0,female,23.2,formerly smoked
+3.0,male,27.3,unknown
+14.0,male,26.5,never smoked
+16.0,male,19.3,unknown
+40.0,male,26.1,unknown
+18.0,female,19.8,never smoked
+29.0,female,25.1,formerly smoked
+56.0,female,37.3,never smoked
+33.0,male,30.3,formerly smoked
+2.0,male,16.1,unknown
+36.0,male,25.1,never smoked
+30.0,male,26.7,unknown
+31.0,female,29.3,formerly smoked
+16.0,male,38.7,never smoked
+58.0,male,35.8,formerly smoked
+19.0,female,21.7,never smoked
+47.0,male,31.4,formerly smoked
+59.0,male,26.9,formerly smoked
+40.0,female,33.0,never smoked
+26.0,female,24.5,smokes
+17.0,female,44.9,never smoked
+30.0,female,25.5,never smoked
+19.0,female,22.1,never smoked
+78.0,female,24.3,unknown
+55.0,female,32.4,formerly smoked
+57.0,male,33.1,formerly smoked
+33.0,male,26.7,never smoked
+35.0,female,37.9,unknown
+32.0,male,39.6,never smoked
+55.0,female,19.8,never smoked
+28.0,male,30.0,unknown
+25.0,male,23.1,never smoked
+45.0,female,34.3,unknown
+34.0,female,38.4,unknown
+33.0,male,32.8,smokes
+65.0,male,34.4,never smoked
+62.0,female,44.6,never smoked
+36.0,male,32.8,never smoked
+31.0,male,26.4,never smoked
+54.0,male,27.3,unknown
+53.0,female,32.4,never smoked
+44.0,female,43.2,smokes
+77.0,male,33.6,unknown
+67.0,female,26.4,unknown
+48.0,female,46.9,never smoked
+42.0,male,36.3,formerly smoked
+72.0,male,34.9,formerly smoked
+49.0,male,29.6,smokes
+1.32,female,16.5,unknown
+45.0,female,35.4,unknown
+63.0,female,23.6,never smoked
+33.0,female,33.1,never smoked
+32.0,male,40.2,smokes
+0.48,female,14.8,unknown
+63.0,female,34.8,unknown
+70.0,male,33.5,formerly smoked
+57.0,female,31.9,never smoked
+8.0,male,16.1,unknown
+54.0,male,50.2,formerly smoked
+37.0,male,35.9,unknown
+59.0,male,39.6,formerly smoked
+78.0,female,27.5,formerly smoked
+59.0,female,32.3,unknown
+10.0,female,15.4,never smoked
+21.0,male,28.4,smokes
+2.0,male,19.5,unknown
+55.0,female,25.0,formerly smoked
+20.0,female,26.3,smokes
+38.0,female,39.6,never smoked
+33.0,female,38.6,formerly smoked
+14.0,male,33.9,never smoked
+32.0,male,32.2,unknown
+32.0,female,25.1,never smoked
+68.0,female,37.4,smokes
+70.0,male,30.1,formerly smoked
+24.0,female,27.0,formerly smoked
+44.0,male,32.4,formerly smoked
+39.0,male,26.8,smokes
+81.0,female,27.2,never smoked
+19.0,male,36.7,unknown
+69.0,female,36.0,never smoked
+42.0,female,37.2,formerly smoked
+8.0,male,19.1,unknown
+8.0,male,21.8,unknown
+28.0,female,26.5,smokes
+66.0,female,35.0,formerly smoked
+66.0,female,32.6,never smoked
+47.0,female,23.9,never smoked
+78.0,female,33.7,never smoked
+65.0,female,29.4,formerly smoked
+78.0,male,29.0,never smoked
+68.0,female,20.2,never smoked
+65.0,female,27.4,never smoked
+70.0,female,25.0,never smoked
+59.0,female,30.7,never smoked
+31.0,male,23.0,unknown
+32.0,female,26.6,smokes
+5.0,male,18.1,unknown
+55.0,male,47.1,formerly smoked
+61.0,female,29.7,formerly smoked
+48.0,female,19.9,never smoked
+1.16,female,13.3,unknown
+50.0,female,32.7,never smoked
+63.0,male,31.8,formerly smoked
+67.0,male,31.4,formerly smoked
+43.0,female,20.4,formerly smoked
+59.0,male,33.2,smokes
+47.0,male,30.5,smokes
+50.0,male,30.3,never smoked
+51.0,male,34.2,never smoked
+44.0,male,34.4,unknown
+39.0,female,48.1,never smoked
+24.0,female,22.8,never smoked
+62.0,male,30.5,never smoked
+61.0,female,35.9,formerly smoked
+78.0,female,33.7,never smoked
+15.0,male,24.1,never smoked
+23.0,female,25.4,never smoked
+79.0,male,25.5,never smoked
+57.0,male,29.2,never smoked
+9.0,male,17.4,unknown
+55.0,male,29.9,unknown
+82.0,female,21.5,never smoked
+19.0,female,24.7,never smoked
+41.0,male,25.1,unknown
+79.0,female,34.4,never smoked
+23.0,female,27.9,unknown
+77.0,female,31.5,formerly smoked
+78.0,female,31.8,never smoked
+24.0,female,30.1,smokes
+81.0,female,26.4,never smoked
+46.0,female,27.2,unknown
+29.0,female,22.5,smokes
+59.0,female,29.8,formerly smoked
+41.0,male,26.1,smokes
+17.0,female,24.9,formerly smoked
+8.0,female,23.5,unknown
+23.0,female,30.1,never smoked
+45.0,female,37.3,never smoked
+67.0,male,25.5,formerly smoked
+78.0,female,35.3,never smoked
+18.0,male,27.6,unknown
+35.0,female,28.7,never smoked
+54.0,female,29.9,never smoked
+71.0,female,34.2,formerly smoked
+24.0,female,24.9,smokes
+60.0,male,36.8,formerly smoked
+75.0,male,24.5,formerly smoked
+48.0,male,34.6,never smoked
+62.0,male,30.0,unknown
+20.0,female,28.8,unknown
+69.0,male,28.6,never smoked
+60.0,female,23.6,smokes
+12.0,female,20.1,unknown
+28.0,female,21.1,formerly smoked
+55.0,female,34.1,smokes
+51.0,female,29.5,never smoked
+16.0,female,37.8,never smoked
+56.0,male,31.2,smokes
+52.0,male,31.1,never smoked
+59.0,female,34.2,unknown
+9.0,female,17.7,unknown
+34.0,female,39.2,never smoked
+47.0,female,22.2,formerly smoked
+46.0,male,29.5,smokes
+49.0,male,27.0,never smoked
+10.0,male,16.8,never smoked
+76.0,female,23.3,never smoked
+82.0,male,33.5,formerly smoked
+3.0,female,15.6,unknown
+76.0,female,28.2,never smoked
+16.0,male,22.6,never smoked
+44.0,female,20.2,never smoked
+17.0,female,22.2,formerly smoked
+73.0,female,22.6,never smoked
+31.0,male,26.7,unknown
+17.0,male,22.9,unknown
+18.0,female,21.5,unknown
+73.0,male,30.3,formerly smoked
+8.0,female,14.8,unknown
+42.0,male,24.3,never smoked
+40.0,female,17.4,formerly smoked
+79.0,male,29.0,never smoked
+53.0,male,26.3,smokes
+58.0,female,51.7,never smoked
+48.0,female,29.2,unknown
+17.0,female,18.3,never smoked
+23.0,female,21.9,smokes
+9.0,male,16.3,unknown
+81.0,female,27.4,smokes
+16.0,female,20.4,never smoked
+21.0,male,23.2,never smoked
+29.0,male,30.3,formerly smoked
+8.0,male,16.7,unknown
+39.0,female,31.0,formerly smoked
+64.0,female,33.5,smokes
+9.0,male,17.0,unknown
+17.0,male,19.4,smokes
+8.0,male,14.6,unknown
+62.0,male,32.2,unknown
+73.0,male,37.7,never smoked
+48.0,male,27.4,never smoked
+17.0,male,25.0,never smoked
+10.0,female,20.1,unknown
+74.0,female,21.7,never smoked
+62.0,male,38.2,never smoked
+5.0,male,17.0,unknown
+43.0,female,28.4,never smoked
+39.0,female,30.0,never smoked
+37.0,female,34.1,never smoked
+15.0,male,19.3,never smoked
+36.0,female,21.6,smokes
+34.0,male,32.9,never smoked
+75.0,male,27.2,formerly smoked
+53.0,male,27.8,smokes
+61.0,female,29.9,never smoked
+45.0,female,28.4,smokes
+17.0,female,24.1,unknown
+17.0,female,24.0,unknown
+19.0,female,23.4,unknown
+54.0,female,32.6,formerly smoked
+51.0,female,33.1,formerly smoked
+44.0,female,33.8,formerly smoked
+82.0,female,30.3,never smoked
+49.0,female,36.9,unknown
+34.0,female,29.7,never smoked
+63.0,female,38.8,never smoked
+79.0,female,30.9,never smoked
+81.0,female,36.9,unknown
+14.0,female,18.8,unknown
+31.0,female,25.5,formerly smoked
+57.0,male,32.3,never smoked
+32.0,male,25.8,smokes
+66.0,male,31.1,formerly smoked
+22.0,female,27.9,smokes
+1.32,female,18.6,unknown
+20.0,female,20.1,never smoked
+41.0,female,26.7,smokes
+48.0,female,30.3,smokes
+49.0,male,30.4,formerly smoked
+73.0,male,30.0,unknown
+19.0,male,24.9,smokes
+51.0,female,60.9,unknown
+1.08,male,24.3,unknown
+31.0,female,38.7,unknown
+4.0,male,18.6,unknown
+1.8,male,17.1,unknown
+44.0,male,29.4,unknown
+4.0,female,16.9,unknown
+55.0,male,34.2,never smoked
+34.0,female,27.6,never smoked
+30.0,female,47.8,never smoked
+7.0,female,18.9,unknown
+75.0,male,24.4,formerly smoked
+14.0,male,25.2,unknown
+61.0,female,30.7,formerly smoked
+55.0,female,26.1,formerly smoked
+14.0,female,25.3,never smoked
+36.0,female,32.8,smokes
+57.0,female,45.7,formerly smoked
+20.0,female,24.6,unknown
+32.0,male,32.3,never smoked
+43.0,female,47.6,smokes
+43.0,male,34.4,unknown
+1.08,female,18.2,unknown
+49.0,female,44.5,smokes
+53.0,female,36.6,unknown
+18.0,female,19.4,never smoked
+13.0,female,22.9,unknown
+5.0,male,20.0,unknown
+37.0,female,36.1,smokes
+49.0,male,27.3,formerly smoked
+45.0,female,42.2,formerly smoked
+50.0,female,26.4,never smoked
+12.0,female,23.6,never smoked
+12.0,male,18.6,unknown
+5.0,female,18.0,unknown
+39.0,male,31.1,formerly smoked
+41.0,female,30.0,never smoked
+41.0,female,43.8,never smoked
+47.0,female,23.8,smokes
+57.0,female,36.2,formerly smoked
+16.0,male,32.6,unknown
+3.0,male,18.0,unknown
+65.0,female,25.5,smokes
+80.0,female,29.9,never smoked
+58.0,female,32.1,never smoked
+74.0,female,25.4,never smoked
+62.0,female,23.4,smokes
+33.0,male,23.4,unknown
+21.0,female,21.8,never smoked
+17.0,female,30.8,never smoked
+49.0,female,37.9,formerly smoked
+24.0,female,42.5,smokes
+56.0,female,23.4,never smoked
+26.0,female,35.4,never smoked
+54.0,male,32.3,smokes
+42.0,female,27.0,never smoked
+34.0,female,46.3,never smoked
+56.0,female,30.1,never smoked
+39.0,female,34.7,never smoked
+77.0,female,18.3,never smoked
+12.0,female,16.2,never smoked
+65.0,male,33.2,formerly smoked
+7.0,male,18.6,unknown
+25.0,male,25.1,never smoked
+31.0,female,24.1,unknown
+14.0,female,33.1,unknown
+5.0,female,24.8,unknown
+60.0,female,23.4,smokes
+53.0,female,54.1,never smoked
+55.0,male,28.9,formerly smoked
+69.0,female,38.1,unknown
+39.0,female,37.2,smokes
+0.32,female,19.6,unknown
+34.0,female,29.0,smokes
+80.0,female,26.7,formerly smoked
+20.0,male,20.5,never smoked
+45.0,female,34.1,never smoked
+41.0,female,42.4,unknown
+54.0,male,37.7,smokes
+23.0,male,39.1,unknown
+75.0,male,28.9,unknown
+36.0,male,30.7,never smoked
+75.0,female,33.8,unknown
+47.0,female,32.1,formerly smoked
+15.0,female,40.5,never smoked
+40.0,male,24.8,smokes
+71.0,female,31.8,formerly smoked
+38.0,male,27.0,never smoked
+10.0,female,13.7,unknown
+11.0,male,23.4,never smoked
+0.72,male,16.4,unknown
+9.0,male,14.9,unknown
+53.0,female,38.8,smokes
+28.0,male,38.6,smokes
+81.0,female,32.2,never smoked
+16.0,male,30.6,never smoked
+24.0,male,28.1,formerly smoked
+62.0,female,35.2,smokes
+62.0,female,21.8,formerly smoked
+59.0,female,28.1,never smoked
+19.0,female,28.2,never smoked
+51.0,female,28.4,never smoked
+38.0,male,37.4,never smoked
+26.0,female,21.8,formerly smoked
+13.0,male,19.8,unknown
+4.0,male,16.2,unknown
+55.0,male,33.6,never smoked
+44.0,female,21.2,smokes
+31.0,female,28.4,never smoked
+17.0,female,41.1,never smoked
+23.0,female,24.9,never smoked
+51.0,male,56.6,never smoked
+46.0,female,28.8,unknown
+81.0,female,33.7,never smoked
+38.0,male,38.6,formerly smoked
+50.0,female,33.8,never smoked
+34.0,female,22.4,never smoked
+60.0,male,37.3,never smoked
+50.0,female,23.4,never smoked
+49.0,female,39.1,smokes
+2.0,female,21.2,unknown
+47.0,male,31.2,unknown
+34.0,female,28.0,formerly smoked
+22.0,female,21.1,never smoked
+11.0,female,15.7,never smoked
+54.0,male,29.1,formerly smoked
+60.0,female,26.1,never smoked
+3.0,male,16.2,unknown
+46.0,female,27.1,never smoked
+30.0,male,28.8,smokes
+63.0,female,37.9,never smoked
+50.0,female,21.6,unknown
+65.0,male,30.1,smokes
+78.0,male,29.7,never smoked
+36.0,female,26.4,unknown
+18.0,female,46.0,formerly smoked
+44.0,female,26.1,never smoked
+4.0,female,23.2,unknown
+60.0,female,28.4,unknown
+19.0,female,20.5,never smoked
+15.0,male,24.6,unknown
+20.0,male,32.2,never smoked
+76.0,male,30.5,never smoked
+39.0,female,24.9,unknown
+58.0,male,26.5,smokes
+64.0,male,34.5,unknown
+79.0,female,21.5,formerly smoked
+11.0,female,15.9,unknown
+4.0,male,17.7,unknown
+43.0,female,26.5,never smoked
+44.0,female,24.4,never smoked
+37.0,female,26.6,unknown
+34.0,female,23.9,never smoked
+59.0,female,30.1,unknown
+40.0,female,23.6,never smoked
+8.0,female,18.4,unknown
+24.0,female,32.1,never smoked
+18.0,male,24.4,unknown
+20.0,male,27.3,never smoked
+70.0,female,34.8,never smoked
+68.0,female,28.4,formerly smoked
+17.0,male,40.2,unknown
+17.0,female,31.1,unknown
+21.0,female,24.0,never smoked
+38.0,female,38.1,formerly smoked
+59.0,female,29.9,formerly smoked
+79.0,female,24.5,never smoked
+50.0,female,49.5,formerly smoked
+72.0,female,35.5,formerly smoked
+54.0,female,29.5,smokes
+44.0,female,28.8,smokes
+48.0,female,22.1,never smoked
+29.0,male,29.4,formerly smoked
+44.0,female,45.0,smokes
+61.0,female,27.1,never smoked
+58.0,female,28.3,unknown
+81.0,female,20.1,formerly smoked
+29.0,male,31.3,never smoked
+5.0,male,17.6,unknown
+35.0,female,24.5,never smoked
+40.0,female,24.1,unknown
+37.0,female,31.3,never smoked
+33.0,male,31.5,never smoked
+35.0,female,29.9,unknown
+38.0,female,30.2,smokes
+26.0,female,27.8,never smoked
+10.0,male,15.6,unknown
+72.0,female,26.3,never smoked
+21.0,male,24.8,never smoked
+20.0,female,17.1,never smoked
+1.24,female,20.3,unknown
+26.0,female,18.7,formerly smoked
+79.0,female,28.8,formerly smoked
+78.0,female,28.7,formerly smoked
+56.0,male,24.6,never smoked
+46.0,female,25.3,never smoked
+55.0,male,29.7,unknown
+30.0,male,21.1,unknown
+53.0,male,26.9,smokes
+32.0,male,26.2,formerly smoked
+38.0,male,26.3,unknown
+33.0,male,24.8,never smoked
+44.0,female,25.0,never smoked
+44.0,male,34.6,unknown
+51.0,female,42.7,formerly smoked
+41.0,female,24.5,never smoked
+5.0,male,19.3,unknown
+42.0,female,29.3,never smoked
+6.0,female,22.1,unknown
+46.0,female,27.8,never smoked
+47.0,female,24.7,never smoked
+25.0,female,25.3,smokes
+40.0,female,41.2,formerly smoked
+49.0,female,47.6,never smoked
+21.0,male,23.4,never smoked
+61.0,female,22.7,unknown
+78.0,male,29.7,formerly smoked
+41.0,male,32.3,never smoked
+82.0,female,36.9,never smoked
+39.0,male,27.7,unknown
+70.0,male,24.3,unknown
+31.0,female,37.4,never smoked
+37.0,female,25.1,never smoked
+21.0,male,24.3,never smoked
+80.0,male,24.3,formerly smoked
+21.0,female,28.7,never smoked
+5.0,female,16.8,unknown
+81.0,male,35.8,unknown
+35.0,female,40.0,smokes
+24.0,female,24.3,never smoked
+52.0,female,25.6,smokes
+70.0,male,37.8,unknown
+34.0,female,23.0,never smoked
+17.0,male,21.0,unknown
+8.0,female,15.5,unknown
+1.72,male,17.1,unknown
+29.0,female,28.0,never smoked
+55.0,male,40.8,formerly smoked
+44.0,female,37.5,smokes
+19.0,female,24.2,unknown
+67.0,male,26.9,smokes
+72.0,female,33.1,formerly smoked
+51.0,female,21.8,unknown
+63.0,female,34.7,formerly smoked
+64.0,female,30.2,unknown
+0.72,female,16.8,unknown
+26.0,male,21.0,smokes
+59.0,male,30.9,never smoked
+76.0,male,38.9,never smoked
+13.0,male,24.3,unknown
+1.08,male,17.4,unknown
+57.0,male,28.2,never smoked
+68.0,male,40.8,unknown
+9.0,male,17.5,unknown
+82.0,male,28.3,never smoked
+45.0,female,24.5,unknown
+57.0,female,21.7,never smoked
+18.0,female,46.9,unknown
+13.0,female,18.6,unknown
+81.0,female,40.0,never smoked
+35.0,female,30.6,never smoked
+51.0,male,25.6,formerly smoked
+44.0,female,26.2,unknown
