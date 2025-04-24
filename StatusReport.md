@@ -58,7 +58,7 @@ The Zenodo archiving and tagging of the final GitHub release is scheduled for Ap
 | Apr 15     | Submit StatusReport.md                                      | Cindy & Olivia | ✅ Completed    | This report                            |
 | Apr 16–20  | Perform EDA and statistical analysis                        | Cindy          | 🔄 In Progress  | Visualization and modeling underway    |
 | Apr 21–25  | Create final visualizations and write findings              | Olivia         | ⏳ Upcoming     |                                        |
-| Apr 26–29  | Finalize README, metadata, archive to Zenodo                | Cindy & Olivia | ⏳ Upcoming     |                                        |
+| Apr 26–29  | Finalize README, metadata, archive                          | Cindy & Olivia | ⏳ Upcoming     |                                        |
 | May 1      | Submit final GitHub release                                 | Cindy & Olivia | ⏳ Upcoming     |                                        |
 | May 6      | Submit optional grad essay (if applicable)                  | N/A            | ⏳ Optional     |                                        |
 
