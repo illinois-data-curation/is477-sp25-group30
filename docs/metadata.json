@@ -1,0 +1,61 @@
+{
+    "identifier": {
+      "identifierType": "DOI",
+      "identifier": "10.0000/zenodo.placeholder"
+    },
+    "creators": [
+      {
+        "name": "Liang, Cindy",
+        "affiliation": "University of Illinois Urbana-Champaign"
+      },
+      {
+        "name": "Olivia Lai",
+        "affiliation": "University of Illinois Urbana-Champaign"
+      }
+    ],
+    "titles": [
+      {
+        "title": "Identifying Stroke Risk Factors with Clinical and Behavioral Data"
+      }
+    ],
+    "publisher": "Zenodo",
+    "publicationYear": "2025",
+    "resourceType": {
+      "resourceTypeGeneral": "Dataset",
+      "resourceType": "Project Package"
+    },
+    "subjects": [
+      { "subject": "Stroke prediction" },
+      { "subject": "Health analytics" },
+      { "subject": "Logistic regression" },
+      { "subject": "Reproducible data workflows" }
+    ],
+    "descriptions": [
+      {
+        "descriptionType": "Abstract",
+        "description": "This project analyzes stroke risk using clinical and behavioral data from Kaggle and CDC BRFSS sources. Using data integration, cleaning, EDA, and logistic regression, we identify the most influential features for predicting stroke occurrence. The entire pipeline is automated with Snakemake and documented for reproducibility."
+      }
+    ],
+    "dates": [
+      {
+        "dateType": "Available",
+        "date": "2025-05-08"
+      }
+    ],
+    "language": "en",
+    "version": "1.0",
+    "rightsList": [
+      {
+        "rights": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+        "rightsUri": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    ],
+    "relatedIdentifiers": [
+      {
+        "relationType": "IsSupplementTo",
+        "relatedIdentifierType": "URL",
+        "relatedIdentifier": "https://github.com/illinois-data-curation/is477-sp25-group30"
+      }
+    ]
+  }
+  
