@@ -1,7 +1,7 @@
 # Status Report – Group 30  
 **Project Title: Identifying Stroke Risk Factors with Clinical and Behavioral Data**
 
----
+
 
 ## 1. Task Updates and Repository Artifacts
 
@@ -41,7 +41,7 @@ We’ve begun creating metadata following the DataCite JSON format. A draft file
 
 Final citations will be included in our `README.md` using either APA or DataCite format. This includes dataset sources, libraries used, and tools like Snakemake and OpenRefine.
 
----
+
 
 ## 2. Updated Timeline and Task Status
 
@@ -58,7 +58,7 @@ Final citations will be included in our `README.md` using either APA or DataCite
 | May 1      | Submit final GitHub release                                 | Cindy & Olivia | ⏳ Upcoming     |                                        |
 | May 6      | Submit optional grad essay (if applicable)                  | N/A            | ⏳ Optional     |                                        |
 
----
+
 
 ## 3. Project Plan Changes and Reflections
 
@@ -76,7 +76,7 @@ Initially, we weren’t sure if modeling would be part of the project. Based on 
 4. **Improved Collaboration and GitHub Practices**  
 Throughout the project, both team members contributed actively to the repository. We used GitHub issues to track bugs and progress, and committed code with clear messages and version tags. This helped keep the project reproducible and well-organized.
 
----
+
 
 ## Final Thoughts  
 So far, we are happy with how our project has progressed. We’ve successfully collected, integrated, and partially analyzed our data. Our next steps are to finish the visualizations, finalize metadata, test our workflow, and prepare the final archive. We are confident that we’ll be able to deliver a high-quality, reproducible project that meets the learning goals of this course and gives insight into public health risks related to stroke.
