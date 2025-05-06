@@ -13,7 +13,7 @@
 | Apr 2      | Submit ProjectPlan.md + GitHub setup                        | Cindy & Olivia | ✅ Completed    |                                        |
 | Apr 5–8    | Write and test data acquisition scripts                     | Cindy          | ✅ Completed    | `get_data.py` finalized and tested     |
 | Apr 9–11   | Integrate datasets and validate schema                      | Olivia         | ✅ Completed    | `integrate_data.py`, OpenRefine recipe |
-| Apr 12–14  | Implement Snakemake pipeline and test reproducibility       | Olivia         | ✅ Completed    | Partial completion, debugging ongoing  |
+| Apr 12–14  | Implement Snakemake pipeline and test reproducibility       | Olivia         | ✅ Completed    |                 
 | Apr 15     | Submit StatusReport.md                                      | Cindy & Olivia | ✅ Completed    | This report                            |
 | Apr 16–20  | Perform EDA and statistical analysis                        | Cindy          | ✅ Completed    | Visualization and modeling underway    |
 | Apr 21–25  | Create final visualizations and write findings              | Olivia         | ✅ Completed    |                                        |
