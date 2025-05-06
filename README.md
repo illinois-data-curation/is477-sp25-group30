@@ -24,7 +24,7 @@ Ultimately, our findings aligned with clinical expectations: older age, heart di
 
 Our project serves as a small but meaningful step toward understanding stroke risk. It also showcases how data integration, cleaning, and reproducible modeling can be applied in real-world health analytics. The next steps involve expanding the dataset, incorporating fairness analysis, and developing more sophisticated models for clinical decision-making support.
 
----
+
 
 ##  Data Profile
 
@@ -54,7 +54,7 @@ The BRFSS provides broader contextual data around behavioral risk factors. We us
 
 Using `integrate_data.py`, we matched schema across datasets, harmonized smoking status categories, normalized BMI ranges, and removed invalid or null entries. Additional cleaning was done using Python scripts. Data was stored in `data/integrated_cleaned.csv` for further modeling.
 
----
+
 
 ##  Findings
 
@@ -75,7 +75,7 @@ EDA visualizations confirmed these patterns:
 
 Our model performed well on interpretability, though it is not optimized for predictive power. It revealed how different clinical and behavioral dimensions interact with stroke risk.
 
----
+
 
 ##  Future Work
 
@@ -91,7 +91,7 @@ While our current project met its goals, we identified several areas for future 
 
 We believe that these future directions will make the model more robust, interpretable, and relevant to both public health research and clinical practice.
 
----
+
 
 ##  Reproducing
 
@@ -136,7 +136,7 @@ Ensure the following files are present:
 * `docs/openrefine_recipe.json`
 * `results/` folder with EDA and modeling results
 
----
+
 
 ##  References
 
