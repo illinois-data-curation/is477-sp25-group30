@@ -7,7 +7,8 @@
 ##  Contributors
 - Cindy Liang
 - Olivia Lai
-  | Date       | Task                                                        | Assigned To    | Status         | Notes                                  |
+  
+| Date       | Task                                                        | Assigned To    | Status         | Notes                                  |
 |------------|-------------------------------------------------------------|----------------|----------------|----------------------------------------|
 | Apr 2      | Submit ProjectPlan.md + GitHub setup                        | Cindy & Olivia | ✅ Completed    |                                        |
 | Apr 5–8    | Write and test data acquisition scripts                     | Cindy          | ✅ Completed    | `get_data.py` finalized and tested     |
