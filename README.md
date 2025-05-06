@@ -7,6 +7,18 @@
 ##  Contributors
 - Cindy Liang
 - Olivia Lai
+  | Date       | Task                                                        | Assigned To    | Status         | Notes                                  |
+|------------|-------------------------------------------------------------|----------------|----------------|----------------------------------------|
+| Apr 2      | Submit ProjectPlan.md + GitHub setup                        | Cindy & Olivia | ✅ Completed    |                                        |
+| Apr 5–8    | Write and test data acquisition scripts                     | Cindy          | ✅ Completed    | `get_data.py` finalized and tested     |
+| Apr 9–11   | Integrate datasets and validate schema                      | Olivia         | ✅ Completed    | `integrate_data.py`, OpenRefine recipe |
+| Apr 12–14  | Implement Snakemake pipeline and test reproducibility       | Olivia         | ✅ Completed    | Partial completion, debugging ongoing  |
+| Apr 15     | Submit StatusReport.md                                      | Cindy & Olivia | ✅ Completed    | This report                            |
+| Apr 16–20  | Perform EDA and statistical analysis                        | Cindy          | ✅ Completed    | Visualization and modeling underway    |
+| Apr 21–25  | Create final visualizations and write findings              | Olivia         | ✅ Completed    |                                        |
+| Apr 26–29  | Finalize README, metadata, archive                          | Cindy & Olivia | ✅ Completed    |                                        |
+| May 1      | Submit final GitHub release                                 | Cindy & Olivia | ✅ Completed    |                                        |
+| May 6      | Submit optional grad essay (if applicable)                  | N/A            | ⏳ Optional     |                                        |
 
 ##  Summary
 
