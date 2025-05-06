@@ -3,8 +3,8 @@
 Dep. Variable:                 stroke   No. Observations:                 4908
 Model:                          Logit   Df Residuals:                     4898
 Method:                           MLE   Df Model:                            9
-Date:                Sun, 04 May 2025   Pseudo R-squ.:                  0.2077
-Time:                        23:14:40   Log-Likelihood:                -684.69
+Date:                Tue, 06 May 2025   Pseudo R-squ.:                  0.2077
+Time:                        16:54:22   Log-Likelihood:                -684.69
 converged:                       True   LL-Null:                       -864.15
 Covariance Type:            nonrobust   LLR p-value:                 7.830e-72
 ==================================================================================================

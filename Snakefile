@@ -1,16 +1,23 @@
 rule all:
     input:
+        "data/stroke_data.csv", 
+        "data/cdc-data.json",
+        "data/checksums.txt",
         "results/logistic_summary.txt",
         "results/eda/age_distribution.png",
         "results/eda/summary_statistics.csv"
 
 rule get_data:
     output:
-        kaggle="data/stroke_data.csv",
         cdc="data/cdc-data.json",
         checksums="data/checksums.txt"
     script:
         "src/get_data.py"
+
+rule ensure_kaggle_data:
+    input:
+        "data/stroke_data.csv"
+
 
 rule integrate_data:
     input:
