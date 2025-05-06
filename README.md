@@ -1,7 +1,8 @@
 # Identifying Stroke Risk Factors with Clinical and Behavioral Data
 
 ## Link to Archival Record
-[🔗 Zenodo DOI (replace with your link)](https://doi.org/10.5281/zenodo.15353241)  
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15353442.svg)](https://doi.org/10.5281/zenodo.15353442)
+
 
 
 ##  Contributors
