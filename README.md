@@ -161,6 +161,6 @@ Ensure the following files are present:
 * McKinney, W. (2022). *pandas: powerful Python data analysis toolkit*. [https://pandas.pydata.org](https://pandas.pydata.org)
 * Koster, J. (2020). *Snakemake – a scalable bioinformatics workflow engine*. [https://snakemake.readthedocs.io](https://snakemake.readthedocs.io)
 * OpenRefine. (2023). *A free, open source tool for working with messy data*. [https://openrefine.org](https://openrefine.org)
-* * Seaborn Developers. (2024). *Seaborn statistical data visualization*. https://seaborn.pydata.org  
+* Seaborn Developers. (2024). *Seaborn statistical data visualization*. https://seaborn.pydata.org  
 * Hunter, J. D. (2007). *Matplotlib: A 2D graphics environment*. Computing in Science & Engineering, 9(3), 90–95. https://matplotlib.org  
 * Python Software Foundation. (2024). *Python Language Reference*. https://www.python.org  
