@@ -5,6 +5,23 @@ import requests
 import pandas as pd
 import hashlib
 
+def try_download_with_kaggle_api():
+    try:
+        from kaggle.api.kaggle_api_extended import KaggleApi
+        print("Attempting to download Kaggle dataset via API...")
+        api = KaggleApi()
+        api.authenticate()
+        api.dataset_download_files(
+            'fedesoriano/stroke-prediction-dataset',
+            path='data',
+            unzip=True
+        )
+        print("Kaggle dataset downloaded successfully.")
+    except Exception as e:
+        print("Kaggle API download failed. Please download manually.")
+        print("Error:", e)
+
+
 # Paths
 KAGGLE_CSV_PATH = 'data/stroke_data.csv'
 CDC_JSON_PATH = 'data/cdc-data.json'

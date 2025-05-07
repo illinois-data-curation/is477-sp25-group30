@@ -1,0 +1,88 @@
+Assuming unrestricted shared filesystem usage.
+None
+host: Oliviadebijibendiannao.local
+Migrating .snakemake folder to new format...
+Migration complete
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 1 (use --cores to define parallelism)
+Rules claiming more threads will be scaled down.
+Job stats:
+job               count
+--------------  -------
+all                   1
+eda_analysis          1
+get_data              1
+integrate_data        1
+logistic_model        1
+total                 5
+
+Select jobs to execute...
+Execute 1 jobs...
+[Tue May  6 22:20:15 2025]
+localrule logistic_model:
+    input: data/stroke_data.csv
+    output: results/logistic_summary.txt
+    jobid: 2
+    reason: Code has changed since last execution
+    resources: tmpdir=/var/folders/tl/zf5w09w96678vw6h92w68ps00000gn/T
+
+Waiting for more resources.
+Select jobs to execute...
+[Tue May  6 22:20:17 2025]
+Finished jobid: 2 (Rule: logistic_model)
+1 of 5 steps (20%) done
+Execute 1 jobs...
+[Tue May  6 22:20:17 2025]
+localrule get_data:
+    output: data/cdc-data.json, data/checksums.txt
+    jobid: 1
+    reason: Code has changed since last execution
+    resources: tmpdir=/var/folders/tl/zf5w09w96678vw6h92w68ps00000gn/T
+
+Waiting for more resources.
+[Tue May  6 22:20:18 2025]
+Finished jobid: 1 (Rule: get_data)
+2 of 5 steps (40%) done
+Select jobs to execute...
+Execute 1 jobs...
+[Tue May  6 22:20:18 2025]
+localrule integrate_data:
+    input: data/stroke_data.csv, data/cdc-data.json
+    output: data/integrated_cleaned.csv
+    jobid: 4
+    reason: Input files updated by another job: data/cdc-data.json
+    resources: tmpdir=/var/folders/tl/zf5w09w96678vw6h92w68ps00000gn/T
+
+Waiting for more resources.
+[Tue May  6 22:20:18 2025]
+Finished jobid: 4 (Rule: integrate_data)
+3 of 5 steps (60%) done
+Select jobs to execute...
+Execute 1 jobs...
+[Tue May  6 22:20:18 2025]
+localrule eda_analysis:
+    input: data/integrated_cleaned.csv
+    output: results/eda/age_distribution.png, results/eda/bmi_distribution.png, results/eda/gender_distribution.png, results/eda/correlation_heatmap.png, results/eda/summary_statistics.csv
+    jobid: 3
+    reason: Input files updated by another job: data/integrated_cleaned.csv
+    resources: tmpdir=/var/folders/tl/zf5w09w96678vw6h92w68ps00000gn/T
+
+Waiting for more resources.
+[Tue May  6 22:20:19 2025]
+Finished jobid: 3 (Rule: eda_analysis)
+4 of 5 steps (80%) done
+Select jobs to execute...
+Execute 1 jobs...
+[Tue May  6 22:20:19 2025]
+localrule all:
+    input: data/stroke_data.csv, data/cdc-data.json, data/checksums.txt, results/logistic_summary.txt, results/eda/age_distribution.png, results/eda/summary_statistics.csv
+    jobid: 0
+    reason: Input files updated by another job: data/cdc-data.json, results/eda/summary_statistics.csv, results/logistic_summary.txt, data/checksums.txt, results/eda/age_distribution.png
+    resources: tmpdir=/var/folders/tl/zf5w09w96678vw6h92w68ps00000gn/T
+
+Waiting for more resources.
+[Tue May  6 22:20:19 2025]
+Finished jobid: 0 (Rule: all)
+5 of 5 steps (100%) done
+Complete log(s): /Users/olivialai/Desktop/is477-sp25-group30-1/.snakemake/log/2025-05-06T222015.790087.snakemake.log
