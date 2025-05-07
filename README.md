@@ -2,6 +2,7 @@
 
 ## Link to Archival Record and Box
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15353442.svg)](https://doi.org/10.5281/zenodo.15353442)
+[Zenodo Metadata File (DataCite JSON)](docs/metadata.json)
 
 https://uofi.box.com/s/ut9ubumrl77v6ibzdyiisfvlliqrrk0k
 
@@ -45,7 +46,7 @@ Our project serves as a small but meaningful step toward understanding stroke ri
 
 To support our analysis, we worked with two complementary datasets: the Kaggle Stroke Prediction Dataset and the CDC Behavioral Risk Factor Surveillance System (BRFSS). These datasets were selected for their richness in relevant features and their potential for integration across clinical and behavioral dimensions.
 
-### 📘 [View Data Dictionary](docs/data_dictionary.md)
+### [View Data Dictionary](docs/data_dictionary.md)
 
 ###  Kaggle Stroke Prediction Dataset
 
