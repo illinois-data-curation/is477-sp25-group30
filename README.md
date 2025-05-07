@@ -45,6 +45,8 @@ Our project serves as a small but meaningful step toward understanding stroke ri
 
 To support our analysis, we worked with two complementary datasets: the Kaggle Stroke Prediction Dataset and the CDC Behavioral Risk Factor Surveillance System (BRFSS). These datasets were selected for their richness in relevant features and their potential for integration across clinical and behavioral dimensions.
 
+### 📘 [View Data Dictionary](docs/data_dictionary.md)
+
 ###  Kaggle Stroke Prediction Dataset
 
 * **Source**: [https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)
